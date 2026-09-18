@@ -57,19 +57,31 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-    .block-container { padding-top: 1.5rem; }
+    /* Header & Container spacing fix - Prevents Streamlit top bar clipping tabs */
+    header[data-testid="stHeader"] {
+        background-color: transparent !important;
+    }
+    .block-container { 
+        padding-top: 4.5rem !important; 
+        padding-bottom: 2rem !important;
+    }
 
-    /* Tabs Styling - Fix Black on Dark Contrast */
+    /* Tabs Styling - Fix Clipping & Contrast */
     [data-baseweb="tab-list"] {
-        gap: 6px !important;
-        border-bottom: 2px solid rgba(148, 163, 184, 0.2) !important;
-        padding-bottom: 4px !important;
+        gap: 8px !important;
+        border-bottom: 2px solid rgba(148, 163, 184, 0.25) !important;
+        padding-bottom: 6px !important;
+        margin-bottom: 16px !important;
+        overflow-x: auto !important;
+        flex-wrap: nowrap !important;
     }
     [data-baseweb="tab"] {
         border-radius: 6px !important;
-        padding: 6px 14px !important;
+        padding: 8px 16px !important;
         background-color: transparent !important;
+        white-space: nowrap !important;
     }
+
     [data-baseweb="tab"] *, [data-baseweb="tab"] div, [data-baseweb="tab"] p, [data-baseweb="tab"] span {
         font-weight: 600 !important;
         font-size: 0.95rem !important;

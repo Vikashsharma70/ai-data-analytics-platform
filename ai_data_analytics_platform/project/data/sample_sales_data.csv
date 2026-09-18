@@ -1,0 +1,1216 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_Segment,Product,Category,Region,City,Quantity,Unit_Price,Discount,Sales,Cost,Profit
+ORD-00001,2024-03-11,CUST-0177,Ishaan Iyer,Small Business,Cap,Clothing,East,Patna,6,339.63,0.1,1980.7,1039.47,941.23
+ORD-00002,2023-07-16,CUST-0095,Arjun Iyer,Corporate,Bookshelf,Furniture,North,Lucknow,4,4400.43,0.05,16721.63,11357.27,5364.36
+ORD-00003,2024-01-05,CUST-0117,Aditi Das,Small Business,T-Shirt,Clothing,South,Chennai,3,576.27,0.2,1493.7,827.14,666.56
+ORD-00004,2023-04-16,CUST-0252,Pooja Reddy,Corporate,Backpack,Stationery,South,Hyderabad,1,1826.66,0.1,1644.0,982.2,661.8
+ORD-00005,2024-05-18,CUST-0206,Aarav Nair,Corporate,Sneakers,Clothing,North,Delhi,2,3249.29,0.2,5614.78,2812.43,2802.35
+ORD-00006,2024-09-12,CUST-0214,Aarav Singh,Small Business,T-Shirt,Clothing,South,Bengaluru,4,633.08,0.1,2461.43,1340.39,1121.04
+ORD-00007,2024-09-16,CUST-0031,Vivaan Reddy,Consumer,Snack Pack,Groceries,Central,Indore,2,163.43,0.0,353.0,260.54,92.46
+ORD-00008,2023-01-03,CUST-0081,Priya Singh,Corporate,Desk,Furniture,Central,Bhopal,7,8910.91,0.15,53019.89,34255.55,18764.34
+ORD-00009,2023-09-28,CUST-0120,Sara Patel,Consumer,Sneakers,Clothing,North,Lucknow,4,3152.09,0.15,10717.1,5569.99,5147.11
+ORD-00010,2024-09-01,CUST-0158,Kunal Singh,Small Business,Office Chair,Furniture,North,Delhi,5,6420.9,0.1,31205.57,21049.04,10156.53
+ORD-00011,2024-09-04,CUST-0042,Ananya Gupta,Small Business,Whiteboard,Stationery,West,Pune,1,1724.62,0.2,1490.07,862.27,627.8
+ORD-00012,2024-08-13,CUST-0138,Vivaan Khan,Consumer,Whiteboard,Stationery,North,Lucknow,1,1684.19,0.0,1818.93,1084.92,734.01
+ORD-00013,2023-04-04,CUST-0252,Pooja Reddy,Corporate,Dining Table,Furniture,West,Ahmedabad,8,14543.88,0.05,110533.51,69275.5,41258.01
+ORD-00014,2024-07-17,CUST-0206,Aarav Nair,Corporate,Beverages,Groceries,East,Bhubaneswar,1,89.19,0.05,91.51,62.62,28.89
+ORD-00015,2023-02-25,CUST-0212,Nikhil Rao,Consumer,Notebook Set,Stationery,Central,Nagpur,4,250.92,0.15,853.13,538.13,315.0
+ORD-00016,2024-03-24,CUST-0148,Arjun Khan,Corporate,Bookshelf,Furniture,Central,Bhopal,8,3882.0,0.2,26832.37,17820.81,9011.56
+ORD-00017,2023-08-19,CUST-0048,Rohan Patel,Corporate,Notebook Set,Stationery,Central,Nagpur,2,248.07,0.0,496.14,306.48,189.66
+ORD-00018,2024-04-28,CUST-0248,Ishaan Iyer,Corporate,Cap,Clothing,East,Patna,4,346.98,0.0,1498.93,805.22,693.71
+ORD-00019,2024-06-03,CUST-0175,Arjun Patel,Consumer,Office Chair,Furniture,East,Patna,5,6916.71,0.05,35482.74,24106.5,11376.24
+ORD-00020,2023-12-20,CUST-0248,Ishaan Iyer,Corporate,Cooking Oil,Groceries,West,Ahmedabad,6,323.32,0.15,2061.18,1447.6,613.58
+ORD-00021,2023-02-14,CUST-0211,Aarav Singh,Corporate,Dining Table,Furniture,West,Mumbai,6,15734.12,0.2,75523.75,53149.53,22374.22
+ORD-00022,2024-08-27,CUST-0258,Pooja Das,Consumer,Sofa,Furniture,North,Delhi,6,23626.68,0.3,107170.63,74468.06,32702.57
+ORD-00023,2023-03-18,CUST-0080,Ananya Patel,Corporate,Laptop,Electronics,West,Ahmedabad,8,58096.78,0.05,441535.51,333277.87,108257.64
+ORD-00024,2024-07-08,CUST-0250,Nikhil Khan,Consumer,Cap,Clothing,West,Pune,1,358.22,0.0,386.88,218.37,168.51
+ORD-00025,2024-03-30,CUST-0052,Ananya Patel,Corporate,Smartwatch,Electronics,North,Lucknow,3,4674.6,0.0,15145.71,10740.95,4404.76
+ORD-00026,2024-08-02,CUST-0211,Aarav Singh,Corporate,Sneakers,Clothing,South,Bengaluru,3,2988.79,0.0,9683.68,5442.66,4241.02
+ORD-00027,2024-10-15,CUST-0237,Sara Patel,Small Business,Spices Combo,Groceries,South,Bengaluru,5,396.77,0.2,2142.53,1391.26,751.27
+ORD-00028,2024-08-24,CUST-0177,Ishaan Iyer,Small Business,Pen Pack,Stationery,North,Chandigarh,5,102.78,0.1,499.5,311.11,188.39
+ORD-00029,2024-08-08,CUST-0196,Meera Iyer,Corporate,Beverages,Groceries,North,Delhi,6,91.35,0.2,473.54,326.99,146.55
+ORD-00030,2024-09-12,CUST-0026,Ishaan Nair,Small Business,T-Shirt,Clothing,Central,Indore,8,639.94,0.05,5252.63,3048.27,2204.36
+ORD-00031,2024-10-05,CUST-0071,Meera Nair,Consumer,Desk,Furniture,Central,Nagpur,2,9726.13,0.2,21008.43,12397.6,8610.83
+ORD-00032,2024-03-01,CUST-0168,Kabir Singh,Small Business,Jeans,Clothing,North,Chandigarh,3,1410.24,0.3,3198.42,1773.0,1425.42
+ORD-00033,2023-12-13,CUST-0152,Priya Patel,Small Business,Jeans,Clothing,East,Patna,2,1490.5,0.0,3726.25,1902.19,1824.06
+ORD-00034,2023-01-15,CUST-0203,Neha Khan,Small Business,Spices Combo,Groceries,East,Kolkata,5,402.93,0.1,1813.17,1271.17,542.0
+ORD-00035,2024-04-27,CUST-0120,Sara Patel,Consumer,Snack Pack,Groceries,North,Lucknow,1,153.59,0.15,140.99,98.02,42.97
+ORD-00036,2023-02-16,CUST-0072,Aarav Verma,Small Business,Snack Pack,Groceries,West,Mumbai,1,144.13,0.1,129.72,86.23,43.49
+ORD-00037,2024-08-24,CUST-0215,Aarav Verma,Small Business,Beverages,Groceries,East,Bhubaneswar,3,96.94,0.2,251.26,166.4,84.86
+ORD-00038,2024-03-31,CUST-0228,Ananya Nair,Consumer,T-Shirt,Clothing,East,Kolkata,4,642.65,0.0,2776.27,1673.82,1102.45
+ORD-00039,2023-05-06,CUST-0098,Vivaan Rao,Corporate,T-Shirt,Clothing,West,Pune,8,551.0,0.0,4408.01,2493.12,1914.89
+ORD-00040,2023-03-12,CUST-0106,Vivaan Nair,Consumer,Jeans,Clothing,South,Hyderabad,4,1525.91,0.3,4272.56,2523.66,1748.9
+ORD-00041,2024-07-07,CUST-0067,Priya Das,Small Business,Notebook Set,Stationery,East,Kolkata,5,264.93,,1430.6,886.01,544.59
+ORD-00042,2023-09-29,CUST-0090,Aarav Verma,Consumer,Dining Table,Furniture,East,Kolkata,1,13880.28,0.1,12492.25,8162.33,4329.92
+ORD-00043,2024-05-30,CUST-0232,Ananya Nair,Consumer,Cap,Clothing,Central,Bhopal,4,381.18,0.0,1646.69,946.84,699.85
+ORD-00044,2024-02-16,CUST-0246,Pooja Das,Corporate,Sneakers,Clothing,North,Delhi,7,3319.1,0.1,22583.17,12948.38,9634.79
+ORD-00045,2023-10-09,CUST-0065,Kabir Rao,Corporate,Cap,Clothing,South,Bengaluru,6,341.66,0.15,2178.1,1205.28,972.82
+ORD-00046,2024-03-16,CUST-0111,Sara Das,Corporate,Smartphone,Electronics,Central,Indore,8,19397.13,0.1,150832.06,113859.1,36972.96
+ORD-00047,2024-01-19,CUST-0131,Arjun Mehta,Small Business,Headphones,Electronics,West,Pune,3,2593.41,0.1,7562.39,5388.0,2174.39
+ORD-00048,2024-08-23,CUST-0031,Vivaan Reddy,Consumer,Headphones,Electronics,South,Hyderabad,6,2585.01,0.1,15075.76,11414.78,3660.98
+ORD-00049,2023-04-17,CUST-0181,Meera Das,Small Business,Headphones,Electronics,Central,Nagpur,4,2327.37,0.1,8378.51,6174.81,2203.7
+ORD-00050,2024-03-15,CUST-0116,Meera Khan,Corporate,T-Shirt,Clothing,East,Bhubaneswar,1,613.08,0.2,529.7,310.53,219.17
+ORD-00051,2023-05-27,CUST-0093,Vivaan Gupta,Corporate,Jacket,Clothing,East,Kolkata,7,2558.97,0.2,14330.22,8091.54,6238.68
+ORD-00052,2023-06-11,CUST-0175,Arjun Patel,Consumer,Sofa,Furniture,West,Pune,6,21171.2,0.05,120675.87,82782.27,37893.6
+ORD-00053,2024-11-21,CUST-0026,Ishaan Nair,Small Business,Laptop,Electronics,South,Hyderabad,2,52493.13,0.2,113385.16,87096.39,26288.77
+ORD-00054,2023-04-24,CUST-0221,Rohan Verma,Corporate,Dining Table,Furniture,North,Chandigarh,5,15534.65,0.15,66022.28,42799.75,23222.53
+ORD-00055,2023-11-05,CUST-0105,Meera Nair,Small Business,Spices Combo,Groceries,North,Delhi,4,421.39,,1474.86,1009.98,464.88
+ORD-00056,2024-05-27,CUST-0118,Sara Nair,Small Business,Cooking Oil,Groceries,South,Chennai,6,292.61,0.3,1327.29,1001.91,325.38
+ORD-00057,2024-12-27,CUST-0208,Sara Singh,Corporate,Headphones,Electronics,Central,Nagpur,7,2394.76,0.1,20367.41,14364.19,6003.22
+ORD-00058,2023-04-19,CUST-0224,Ishaan Patel,Consumer,Desk Organizer,Stationery,East,Kolkata,4,690.99,0.1,2487.58,1499.7,987.88
+ORD-00059,2024-06-06,CUST-0040,Priya Reddy,Consumer,Jeans,Clothing,East,Kolkata,2,1509.18,0.0,3259.83,1938.46,1321.37
+ORD-00060,2023-07-22,CUST-0132,Neha Mehta,Consumer,Desk,Furniture,North,Delhi,3,9184.32,0.3,19287.07,13186.37,6100.7
+ORD-00061,2024-11-28,CUST-0230,Priya Gupta,Small Business,Beverages,Groceries,Central,Indore,6,96.56,0.2,625.69,433.93,191.76
+ORD-00062,2024-06-03,CUST-0181,Meera Das,Small Business,Jacket,Clothing,Central,Bhopal,2,2693.83,0.1,5236.8,2613.88,2622.92
+ORD-00063,2024-04-18,CUST-0197,Ishaan Rao,Corporate,Tablet,Electronics,Central,Indore,1,15839.15,0.3,11974.4,9473.89,2500.51
+ORD-00064,2023-12-18,CUST-0053,Kabir Gupta,Corporate,Pen Pack,Stationery,North,Chandigarh,2,100.09,0.0,250.23,136.3,113.93
+ORD-00065,2024-01-17,CUST-0187,Meera Gupta,Small Business,Whiteboard,Stationery,Central,Bhopal,5,1563.97,0.3,5911.82,3432.43,2479.39
+ORD-00066,2023-10-18,CUST-0198,Meera Iyer,Corporate,T-Shirt,Clothing,East,Kolkata,5,626.85,0.2,3134.24,1883.94,1250.3
+ORD-00067,2024-11-02,CUST-0159,Ananya Singh,Small Business,Tablet,Electronics,South,Chennai,7,14812.65,0.2,111983.6,94998.86,16984.74
+ORD-00068,2024-06-04,CUST-0217,Aditi Sharma,Corporate,Jeans,Clothing,Central,Bhopal,6,1355.47,0.05,8344.27,4295.87,4048.4
+ORD-00069,2023-03-21,CUST-0080,Ananya Patel,Corporate,Cooking Oil,Groceries,South,Bengaluru,5,342.04,0.0,1710.22,1233.25,476.97
+ORD-00070,2024-09-03,CUST-0068,Arjun Verma,Consumer,Notebook Set,Stationery,East,Bhubaneswar,7,232.71,0.0,1759.31,1125.54,633.77
+ORD-00071,2024-11-23,CUST-0187,Meera Gupta,Small Business,Sofa,Furniture,North,Chandigarh,4,24066.19,0.15,110463.81,68712.98,41750.83
+ORD-00072,2024-01-12,CUST-0100,Pooja Mehta,Small Business,Pen Pack,Stationery,East,Patna,8,99.23,0.05,814.51,515.89,298.62
+ORD-00073,2023-02-23,CUST-0129,Aarav Khan,Consumer,Desk,Furniture,Central,Bhopal,8,9673.41,0.15,65779.19,46470.25,19308.94
+ORD-00074,2024-04-05,CUST-0140,Priya Mehta,Corporate,Headphones,Electronics,North,Delhi,3,2665.52,0.0,8636.3,7337.75,1298.55
+ORD-00075,2024-05-29,CUST-0203,Neha Khan,Small Business,T-Shirt,Clothing,West,Mumbai,6,568.29,0.0,3682.54,1974.73,1707.81
+ORD-00076,2024-04-28,CUST-0147,,Consumer,Jeans,Clothing,South,Bengaluru,3,1577.65,0.1,4600.43,2504.23,2096.2
+ORD-00077,2023-04-24,CUST-0217,Aditi Sharma,Corporate,Jeans,Clothing,South,Hyderabad,5,1421.29,0.0,7106.46,3555.02,3551.44
+ORD-00078,2024-10-09,CUST-0009,Rohan Sharma,Consumer,Rice 5kg,Groceries,North,Chandigarh,4,469.67,0.05,2409.4,1710.22,699.18
+ORD-00079,2023-03-11,CUST-0185,Meera Gupta,Small Business,Cooking Oil,Groceries,North,Lucknow,1,312.99,0.1,281.69,184.3,97.39
+ORD-00080,2024-11-03,CUST-0124,Kabir Rao,Corporate,Headphones,Electronics,North,Chandigarh,2,2635.75,0.2,5693.22,4668.68,1024.54
+ORD-00081,2024-10-08,CUST-0246,Pooja Das,Corporate,Jeans,Clothing,West,Ahmedabad,3,1593.45,0.0,6453.47,3702.77,2750.7
+ORD-00082,2023-11-14,CUST-0162,Kabir Khan,Corporate,Office Chair,Furniture,South,Bengaluru,7,7135.86,0.15,53072.96,34313.9,18759.06
+ORD-00083,2023-10-07,CUST-0170,Aditi Nair,Small Business,Jacket,Clothing,North,Lucknow,2,2967.63,0.1,6677.17,3958.52,2718.65
+ORD-00084,2024-01-12,CUST-0255,Kabir Verma,Consumer,Snack Pack,Groceries,South,Chennai,5,159.03,0.2,687.03,487.19,199.84
+ORD-00085,2023-03-23,CUST-0053,Kabir Gupta,Corporate,Dining Table,Furniture,East,Patna,6,15482.76,0.05,88251.72,56743.12,31508.6
+ORD-00086,2024-09-21,CUST-0181,Meera Das,Small Business,Snack Pack,Groceries,West,Mumbai,7,143.24,0.3,758.01,594.66,163.35
+ORD-00087,2024-09-14,CUST-0074,Vivaan Khan,Consumer,Cap,Clothing,South,Bengaluru,8,317.44,0.0,2742.65,1428.81,1313.84
+ORD-00088,2024-01-15,CUST-0231,Ananya Gupta,Corporate,Notebook Set,Stationery,Central,Bhopal,6,247.2,0.0,1601.84,975.31,626.53
+ORD-00089,2024-05-26,CUST-0096,Pooja Gupta,Consumer,Jeans,Clothing,North,Delhi,7,1624.06,0.0,12277.91,6431.11,5846.8
+ORD-00090,2023-05-19,CUST-0063,Rohan Mehta,Small Business,Backpack,Stationery,West,Mumbai,2,1782.74,0.2,2852.38,1692.64,1159.74
+ORD-00091,2023-11-04,CUST-0149,Meera Reddy,Consumer,Jacket,Clothing,North,Lucknow,3,2918.61,0.2,8755.84,4948.34,3807.5
+ORD-00092,2023-01-27,CUST-0253,Rohan Khan,Corporate,Laptop,Electronics,South,Bengaluru,6,55594.24,0.05,316887.14,245560.7,71326.44
+ORD-00093,2024-06-22,CUST-0246,Pooja Das,Corporate,Smartphone,Electronics,East,Patna,7,18968.99,0.3,100383.91,79472.38,20911.53
+ORD-00094,2023-05-12,CUST-0177,Ishaan Iyer,Small Business,Smartwatch,Electronics,West,Ahmedabad,3,4741.0,0.0,14223.01,10944.44,3278.57
+ORD-00095,2023-06-15,CUST-0085,Kabir Reddy,Small Business,Tablet,Electronics,South,Chennai,6,17391.16,0.0,104346.97,78884.18,25462.79
+ORD-00096,2023-05-09,CUST-0141,Diya Reddy,Consumer,Headphones,Electronics,South,Hyderabad,5,2557.21,0.0,12786.07,9978.27,2807.8
+ORD-00097,2024-07-31,CUST-0173,Kabir Singh,Small Business,Desk,Furniture,Central,Indore,1,9585.43,0.0,10352.26,6165.38,4186.88
+ORD-00098,2024-05-24,CUST-0016,Nikhil Verma,Small Business,Jeans,Clothing,Central,Nagpur,5,1542.57,0.05,7913.4,4337.52,3575.88
+ORD-00099,2023-06-11,CUST-0031,Vivaan Reddy,Consumer,Sneakers,Clothing,North,Lucknow,8,3146.0,0.1,22651.19,11720.69,10930.5
+ORD-00100,2024-06-11,CUST-0190,Diya Das,Small Business,Jacket,Clothing,West,Mumbai,2,2698.7,0.1,5246.28,2667.61,2578.67
+ORD-00101,2023-09-12,CUST-0215,Aarav Verma,Small Business,Headphones,Electronics,West,Ahmedabad,3,2656.74,0.15,6774.68,5517.95,1256.73
+ORD-00102,2023-01-24,CUST-0255,Kabir Verma,Consumer,Desk Organizer,Stationery,West,Pune,2,762.33,0.15,1295.97,770.93,525.04
+ORD-00103,2023-10-20,CUST-0241,Kunal Sharma,Corporate,Smartphone,Electronics,East,Patna,1,19249.82,0.1,21656.05,15655.03,6001.02
+ORD-00104,2024-08-06,CUST-0027,Aditi Mehta,Small Business,Snack Pack,Groceries,North,Chandigarh,4,145.88,0.05,598.67,394.28,204.39
+ORD-00105,2023-04-10,CUST-0066,Nikhil Patel,Small Business,Cap,Clothing,Central,Bhopal,7,341.12,0.05,2268.47,1262.09,1006.38
+ORD-00106,2023-02-16,CUST-0021,Meera Verma,Corporate,Whiteboard,Stationery,West,Ahmedabad,1,1483.85,0.05,1409.66,897.21,512.45
+ORD-00107,2023-06-16,CUST-0164,Kunal Patel,Consumer,Pen Pack,Stationery,East,Bhubaneswar,7,109.81,0.2,614.95,394.25,220.7
+ORD-00108,2024-05-01,CUST-0154,Kunal Sharma,Consumer,Whiteboard,Stationery,West,Ahmedabad,1,1557.87,0.2,1346.0,744.54,601.46
+ORD-00109,2023-02-22,CUST-0117,Aditi Das,Small Business,Tablet,Electronics,West,Pune,8,14945.64,0.2,95652.09,77909.06,17743.03
+ORD-00110,2023-07-15,CUST-0057,Priya Iyer,Consumer,Office Chair,Furniture,Central,Indore,1,6423.35,0.1,5781.02,3495.7,2285.32
+ORD-00111,2024-06-15,CUST-0071,Meera Nair,Consumer,Desk Organizer,Stationery,North,Lucknow,4,708.52,0.2,2448.66,1462.84,985.82
+ORD-00112,2024-11-23,CUST-0182,Ishaan Das,Corporate,Spices Combo,Groceries,East,Bhubaneswar,5,408.81,0.0,2759.44,2168.52,590.92
+ORD-00113,2023-11-21,CUST-0251,Pooja Khan,Consumer,Jacket,Clothing,South,Hyderabad,8,2715.33,0.3,19007.31,10917.48,8089.83
+ORD-00114,2023-10-25,CUST-0075,Meera Iyer,Small Business,Desk Organizer,Stationery,West,Pune,1,670.27,0.2,670.27,368.3,301.97
+ORD-00115,2024-07-29,CUST-0139,Meera Patel,Consumer,Cooking Oil,Groceries,South,Hyderabad,5,296.79,0.15,1362.25,1028.07,334.18
+ORD-00116,2024-02-28,CUST-0052,Ananya Patel,Corporate,Pen Pack,Stationery,South,Bengaluru,6,104.35,0.0,676.17,420.4,255.77
+ORD-00117,2023-10-22,CUST-0103,Ishaan Patel,Consumer,Sofa,Furniture,West,Pune,6,21055.83,0.0,157918.71,111021.88,46896.83
+ORD-00118,2023-02-07,CUST-0091,Aditi Singh,Corporate,Notebook Set,Stationery,South,Chennai,7,264.4,0.0,1850.79,1207.44,643.35
+ORD-00119,2023-12-10,CUST-0055,Aarav Nair,Corporate,Smartphone,Electronics,East,Bhubaneswar,5,17835.66,0.2,89178.28,70161.45,19016.83
+ORD-00120,2023-12-05,CUST-0058,Vivaan Reddy,Small Business,Desk Organizer,Stationery,East,Kolkata,3,732.36,0.2,2197.07,1254.25,942.82
+ORD-00121,2024-03-13,CUST-0208,Sara Singh,Corporate,Cap,Clothing,South,Bengaluru,6,321.07,0.2,1664.44,841.36,823.08
+ORD-00122,2024-04-02,CUST-0121,Diya Iyer,Consumer,Office Chair,Furniture,East,Patna,5,7090.25,0.05,36372.96,24032.34,12340.62
+ORD-00123,2024-04-21,CUST-0061,Diya Gupta,Small Business,Jeans,Clothing,North,Lucknow,5,1397.92,0.2,6038.99,3323.12,2715.87
+ORD-00124,2023-08-13,CUST-0114,Kabir Mehta,Corporate,T-Shirt,Clothing,East,Patna,3,597.38,0.1,1612.93,931.07,681.86
+ORD-00125,2023-09-11,CUST-0112,Ishaan Sharma,Corporate,Desk Organizer,Stationery,Central,Indore,2,703.57,0.15,1196.07,746.89,449.18
+ORD-00126,2023-06-18,CUST-0077,Diya Rao,Small Business,Tablet,Electronics,Central,Bhopal,6,17134.36,0.1,92525.52,66630.72,25894.8
+ORD-00127,2023-05-16,CUST-0233,Sara Nair,Small Business,Tablet,Electronics,West,Mumbai,7,15861.76,0.0,111032.29,87623.61,23408.68
+ORD-00128,2024-08-15,CUST-0112,Ishaan Sharma,Corporate,Smartwatch,Electronics,East,Kolkata,2,4090.76,0.05,8394.24,6809.91,1584.33
+ORD-00129,2023-07-04,CUST-0210,Rohan Singh,Corporate,Smartwatch,Electronics,North,Chandigarh,3,4739.24,0.2,11374.19,9130.72,2243.47
+ORD-00130,2024-11-30,CUST-0042,Ananya Gupta,Small Business,Beverages,Groceries,West,Pune,3,92.76,0.05,356.91,237.37,119.54
+ORD-00131,2024-04-19,CUST-0153,Nikhil Patel,Small Business,Desk,Furniture,North,Delhi,7,9057.48,0.3,47932.19,29471.41,18460.78
+ORD-00132,2024-09-21,CUST-0215,Aarav Verma,Small Business,Office Chair,Furniture,North,Lucknow,1,6162.87,0.0,6655.9,3981.0,2674.9
+ORD-00133,2023-08-28,CUST-0225,Aarav Reddy,Consumer,Laptop,Electronics,North,Chandigarh,4,57798.24,0.3,161835.08,115033.23,46801.85
+ORD-00134,2023-08-31,CUST-0165,Sara Mehta,Corporate,Backpack,Stationery,Central,Indore,5,1935.45,0.2,7741.81,4664.83,3076.98
+ORD-00135,2024-07-23,CUST-0219,Arjun Khan,Corporate,Whiteboard,Stationery,South,Hyderabad,8,1455.0,0.05,11942.66,7798.44,4144.22
+ORD-00136,2024-01-21,CUST-0154,Kunal Sharma,Consumer,Sneakers,Clothing,West,Mumbai,3,3362.83,0.1,9806.0,5113.89,4692.11
+ORD-00137,2024-03-02,CUST-0212,Nikhil Rao,Consumer,Sofa,Furniture,North,Lucknow,3,21509.04,0.05,66204.84,40479.88,25724.96
+ORD-00138,2023-02-22,CUST-0098,Vivaan Rao,Corporate,T-Shirt,Clothing,Central,Indore,5,585.26,0.15,2487.36,1396.21,1091.15
+ORD-00139,2023-12-07,CUST-0107,Neha Patel,Small Business,Whiteboard,Stationery,South,Chennai,5,1746.25,0.0,10914.04,6170.98,4743.06
+ORD-00140,2024-02-11,CUST-0105,Meera Nair,Small Business,Cooking Oil,Groceries,Central,Indore,4,323.33,0.3,977.76,673.44,304.32
+ORD-00141,2024-04-22,CUST-0255,Kabir Verma,Consumer,Jacket,Clothing,East,Bhubaneswar,2,2969.58,0.2,5131.43,2805.07,2326.36
+ORD-00142,2023-05-30,CUST-0114,Kabir Mehta,Corporate,Jacket,Clothing,West,Mumbai,1,2666.03,0.15,2266.13,1266.1,1000.03
+ORD-00143,2024-05-26,CUST-0126,Rohan Mehta,Corporate,Jeans,Clothing,West,Ahmedabad,6,1427.2,0.3,6473.77,3552.47,2921.3
+ORD-00144,2024-07-13,CUST-0072,Aarav Verma,Small Business,Cooking Oil,Groceries,East,Kolkata,8,299.78,0.15,2201.58,1740.58,461.0
+ORD-00145,2024-10-07,CUST-0071,Meera Nair,Consumer,Smartphone,Electronics,North,Chandigarh,4,16444.68,0.0,88801.3,62465.15,26336.15
+ORD-00146,2023-01-17,CUST-0250,Nikhil Khan,Consumer,Whiteboard,Stationery,West,Ahmedabad,1,1610.31,0.1,1449.28,784.67,664.61
+ORD-00147,2023-07-03,CUST-0221,Rohan Verma,Corporate,T-Shirt,Clothing,Central,Indore,2,650.17,0.15,1105.28,565.22,540.06
+ORD-00148,2024-02-20,CUST-0192,Neha Mehta,Corporate,Jacket,Clothing,West,Mumbai,8,2836.4,0.2,19605.21,10191.66,9413.55
+ORD-00149,2024-07-19,CUST-0194,Arjun Iyer,Consumer,Smartphone,Electronics,West,Pune,8,16402.01,0.0,141713.4,115020.81,26692.59
+ORD-00150,2023-08-24,CUST-0022,Rohan Das,Small Business,Cap,Clothing,North,Lucknow,4,378.09,0.2,1209.89,717.02,492.87
+ORD-00151,2023-07-03,CUST-0017,Sara Patel,Small Business,Headphones,Electronics,Central,Indore,6,2257.83,0.0,13546.97,10750.57,2796.4
+ORD-00152,2024-08-03,CUST-0124,Kabir Rao,Corporate,Rice 5kg,Groceries,East,Kolkata,7,465.93,0.15,2994.09,2083.2,910.89
+ORD-00153,2024-03-23,CUST-0051,Rohan Mehta,Consumer,Tablet,Electronics,East,Kolkata,4,17083.76,0.05,70111.75,55837.44,14274.31
+ORD-00154,2023-08-22,CUST-0252,Pooja Reddy,Corporate,T-Shirt,Clothing,East,Patna,6,606.36,0.1,3274.37,1776.36,1498.01
+ORD-00155,2023-03-26,CUST-0038,Rohan Rao,Small Business,Tablet,Electronics,East,Kolkata,5,14893.51,0.2,59574.03,49106.09,10467.94
+ORD-00156,2024-03-31,CUST-0158,Kunal Singh,Small Business,T-Shirt,Clothing,North,Delhi,6,631.36,0.0,4091.22,2084.79,2006.43
+ORD-00157,2023-04-02,CUST-0014,Rohan Sharma,Small Business,Whiteboard,Stationery,West,Mumbai,6,1617.35,0.15,8248.49,5046.14,3202.35
+ORD-00158,2024-08-08,CUST-0125,Kabir Patel,Small Business,Sneakers,Clothing,West,Mumbai,3,3318.6,0.0,10752.27,5486.59,5265.68
+ORD-00159,2023-11-03,CUST-0216,Neha Gupta,Corporate,Laptop,Electronics,West,Pune,8,58109.33,0.05,552038.66,409207.03,142831.63
+ORD-00160,2023-05-19,CUST-0055,Aarav Nair,Corporate,Whiteboard,Stationery,South,Chennai,5,1442.17,0.1,6489.75,3763.19,2726.56
+ORD-00161,2023-11-04,CUST-0070,Aarav Nair,Small Business,Sneakers,Clothing,East,Patna,6,3266.06,0.2,19596.33,10133.14,9463.19
+ORD-00162,2023-11-30,CUST-0125,Kabir Patel,Small Business,Jacket,Clothing,West,Ahmedabad,7,2676.97,0.3,16396.43,8824.93,7571.5
+ORD-00163,2024-04-17,CUST-0014,Rohan Sharma,Small Business,Whiteboard,Stationery,South,Hyderabad,4,1580.31,0.05,6485.57,4149.17,2336.4
+ORD-00164,2023-09-05,CUST-0156,Rohan Sharma,Consumer,Beverages,Groceries,South,Hyderabad,5,92.86,0.2,371.42,263.31,108.11
+ORD-00165,2024-12-09,CUST-0260,Nikhil Rao,Consumer,Desk Organizer,Stationery,Central,Nagpur,7,706.11,0.3,4670.92,3065.11,1605.81
+ORD-00166,2023-06-20,CUST-0182,Ishaan Das,Corporate,Notebook Set,Stationery,North,Delhi,1,253.16,0.2,202.53,125.83,76.7
+ORD-00167,2023-08-16,CUST-0133,Ananya Verma,Small Business,Rice 5kg,Groceries,North,Delhi,4,445.12,0.1,1602.43,1145.23,457.2
+ORD-00168,2023-10-30,CUST-0054,Aditi Mehta,Small Business,Bookshelf,Furniture,North,Chandigarh,7,4553.26,0.0,39841.02,23908.16,15932.86
+ORD-00169,2023-12-23,CUST-0248,Ishaan Iyer,Corporate,Jacket,Clothing,West,Mumbai,8,2574.67,0.2,20597.35,11774.35,8823.0
+ORD-00170,2024-11-24,CUST-0056,Pooja Sharma,Consumer,Smartphone,Electronics,East,Bhubaneswar,3,19547.72,0.2,63334.62,46870.81,16463.81
+ORD-00171,2024-10-06,CUST-0208,Sara Singh,Corporate,Desk Organizer,Stationery,West,Mumbai,3,656.09,0.2,2125.75,1258.14,867.61
+ORD-00172,2023-01-05,CUST-0200,Diya Gupta,Consumer,Sofa,Furniture,Central,Nagpur,4,20705.45,0.3,57975.26,39219.61,18755.65
+ORD-00173,2024-04-13,CUST-0101,Aditi Sharma,Small Business,Pen Pack,Stationery,East,Patna,2,95.25,0.3,144.01,86.22,57.79
+ORD-00174,2023-12-23,CUST-0059,Ishaan Verma,Small Business,Spices Combo,Groceries,West,Ahmedabad,6,427.64,0.15,2726.21,1834.31,891.9
+ORD-00175,2023-11-17,CUST-0069,Meera Verma,Corporate,Whiteboard,Stationery,North,Lucknow,2,1516.34,0.0,3790.86,2130.33,1660.53
+ORD-00176,2024-03-09,CUST-0197,Ishaan Rao,Corporate,Spices Combo,Groceries,South,Hyderabad,3,398.93,0.15,1098.66,821.64,277.02
+ORD-00177,2023-07-11,CUST-0072,Aarav Verma,Small Business,Pen Pack,Stationery,West,Pune,6,106.84,,544.88,297.74,247.14
+ORD-00178,2024-10-30,CUST-0259,Ishaan Iyer,Consumer,Desk,Furniture,West,Ahmedabad,8,8836.44,0.1,85890.21,54886.59,31003.62
+ORD-00179,2023-02-03,CUST-0150,Kabir Singh,Corporate,Tablet,Electronics,North,Delhi,5,15119.5,0.05,71817.62,52300.51,19517.11
+ORD-00180,2023-10-02,CUST-0059,Ishaan Verma,Small Business,Spices Combo,Groceries,Central,Bhopal,6,403.36,0.3,2117.66,1384.93,732.73
+ORD-00181,2024-04-05,CUST-0017,Sara Patel,Small Business,Rice 5kg,Groceries,South,Chennai,5,436.37,0.3,1649.49,1089.53,559.96
+ORD-00182,2024-12-28,CUST-0180,Diya Sharma,Consumer,Desk,Furniture,Central,Indore,7,8398.77,0.0,79368.35,54528.47,24839.88
+ORD-00183,2023-11-28,CUST-0087,Aditi Iyer,Corporate,Backpack,Stationery,Central,Nagpur,5,1724.16,0.05,10237.2,6698.07,3539.13
+ORD-00184,2024-11-02,CUST-0142,Aditi Singh,Consumer,Laptop,Electronics,West,Mumbai,3,57215.69,0.0,231723.55,171695.48,60028.07
+ORD-00185,2024-10-04,CUST-0138,Vivaan Khan,Consumer,Beverages,Groceries,South,Hyderabad,7,87.75,0.0,829.27,613.03,216.24
+ORD-00186,2023-12-02,CUST-0250,Nikhil Khan,Consumer,Backpack,Stationery,East,Patna,1,1932.81,0.3,1691.21,1061.96,629.25
+ORD-00187,2024-03-15,CUST-0112,Ishaan Sharma,Corporate,T-Shirt,Clothing,Central,Nagpur,4,599.37,0.05,2459.8,1441.73,1018.07
+ORD-00188,2023-02-17,CUST-0025,Rohan Rao,Small Business,Desk Organizer,Stationery,East,Bhubaneswar,2,717.67,0.3,1004.73,597.96,406.77
+ORD-00189,2024-12-06,CUST-0104,Nikhil Verma,Small Business,Beverages,Groceries,North,Chandigarh,3,96.88,0.05,372.74,250.07,122.67
+ORD-00190,2023-02-23,CUST-0085,Kabir Reddy,Small Business,Jacket,Clothing,North,Chandigarh,7,2870.34,0.2,16073.9,9193.28,6880.62
+ORD-00191,2023-05-16,CUST-0040,Priya Reddy,Consumer,Smartphone,Electronics,South,Chennai,4,18070.0,0.1,65052.0,45760.75,19291.25
+ORD-00192,2024-01-28,CUST-0118,Sara Nair,Small Business,Cooking Oil,Groceries,West,Mumbai,2,334.77,0.0,723.1,479.31,243.79
+ORD-00193,2024-09-16,CUST-0005,Vivaan Sharma,Consumer,Cooking Oil,Groceries,South,Bengaluru,3,316.17,0.2,819.5,556.18,263.32
+ORD-00194,2023-05-24,CUST-0052,Ananya Patel,Corporate,Desk Organizer,Stationery,South,Bengaluru,2,712.54,0.1,1282.57,746.69,535.88
+ORD-00195,2024-12-08,CUST-0146,Ananya Singh,Consumer,Bookshelf,Furniture,North,Delhi,1,4492.23,0.2,4851.61,3390.58,1461.03
+ORD-00196,2023-09-03,CUST-0028,Meera Gupta,Corporate,Sofa,Furniture,East,Bhubaneswar,8,21497.9,0.0,171983.17,111779.73,60203.44
+ORD-00197,2024-08-05,CUST-0199,Kunal Mehta,Consumer,Headphones,Electronics,East,Kolkata,7,2432.71,0.2,14713.01,10725.08,3987.93
+ORD-00198,2023-09-26,CUST-0008,Neha Reddy,Corporate,Smartphone,Electronics,Central,Bhopal,4,16343.38,0.0,65373.51,55567.1,9806.41
+ORD-00199,2023-03-26,CUST-0206,Aarav Nair,Corporate,Desk Organizer,Stationery,West,Ahmedabad,3,668.85,0.05,1906.21,1047.43,858.78
+ORD-00200,2023-11-14,CUST-0034,Kunal Reddy,Small Business,Dining Table,Furniture,East,Patna,7,15689.88,0.3,96100.49,59200.1,36900.39
+ORD-00201,2023-11-13,CUST-0029,,Small Business,Smartwatch,Electronics,Central,Indore,3,4157.5,0.2,12472.5,9022.67,3449.83
+ORD-00202,2023-06-20,CUST-0133,Ananya Verma,Small Business,Cap,Clothing,Central,Indore,6,323.89,0.3,1360.32,804.06,556.26
+ORD-00203,2023-09-27,CUST-0033,Ishaan Reddy,Small Business,Headphones,Electronics,West,Pune,2,2498.07,0.15,4246.73,3219.78,1026.95
+ORD-00204,2023-08-22,CUST-0060,Pooja Verma,Small Business,Jeans,Clothing,East,Kolkata,1,1363.21,0.3,954.25,473.64,480.61
+ORD-00205,2023-08-18,CUST-0215,Aarav Verma,Small Business,Desk,Furniture,North,Lucknow,6,8546.87,0.2,41024.99,25705.91,15319.08
+ORD-00206,2024-06-12,CUST-0115,Diya Khan,Consumer,Tablet,Electronics,North,Delhi,1,17453.05,0.0,18849.3,15810.99,3038.31
+ORD-00207,2023-01-09,CUST-0234,Nikhil Singh,Small Business,Jacket,Clothing,North,Lucknow,6,2632.38,0.15,13425.12,7803.97,5621.15
+ORD-00208,2023-06-04,CUST-0126,Rohan Mehta,Corporate,Cap,Clothing,West,Mumbai,1,380.27,0.0,380.27,197.98,182.29
+ORD-00209,2023-11-11,CUST-0193,Aditi Rao,Corporate,Headphones,Electronics,North,Lucknow,2,2352.6,0.0,5881.49,4513.99,1367.5
+ORD-00210,2024-06-16,CUST-0119,Aarav Patel,Small Business,Bookshelf,Furniture,North,Delhi,7,4368.71,0.05,31376.09,20225.01,11151.08
+ORD-00211,2024-03-21,CUST-0032,Kunal Singh,Corporate,Pen Pack,Stationery,West,Mumbai,3,94.74,0.05,291.6,187.24,104.36
+ORD-00212,2023-03-18,CUST-0120,Sara Patel,Consumer,Jacket,Clothing,West,Pune,4,2596.22,0.3,7269.42,4065.92,3203.5
+ORD-00213,2023-08-01,CUST-0184,Nikhil Das,Corporate,Snack Pack,Groceries,West,Mumbai,8,144.25,0.05,1096.29,844.97,251.32
+ORD-00214,2023-06-01,CUST-0168,Kabir Singh,Small Business,Cap,Clothing,North,Delhi,2,364.78,0.05,693.08,373.28,319.8
+ORD-00215,2023-04-07,CUST-0128,,Consumer,Office Chair,Furniture,West,Pune,8,5982.48,0.3,33501.89,20207.44,13294.45
+ORD-00216,2024-12-03,CUST-0191,Kunal Das,Small Business,Desk,Furniture,South,Chennai,2,9148.18,0.05,23465.09,16525.66,6939.43
+ORD-00217,2023-05-06,CUST-0170,Aditi Nair,Small Business,Sofa,Furniture,South,Bengaluru,1,23946.03,0.0,23946.03,14531.38,9414.65
+ORD-00218,2023-06-26,CUST-0219,Arjun Khan,Corporate,Beverages,Groceries,North,Chandigarh,6,84.86,0.0,509.19,350.12,159.07
+ORD-00219,2024-05-25,CUST-0152,Priya Patel,Small Business,Whiteboard,Stationery,Central,Bhopal,7,1722.49,0.1,11719.82,6414.46,5305.36
+ORD-00220,2024-01-27,CUST-0010,Neha Khan,Corporate,Dining Table,Furniture,South,Hyderabad,6,14939.05,0.3,67763.55,43911.35,23852.2
+ORD-00221,2024-09-03,CUST-0164,Kunal Patel,Consumer,Snack Pack,Groceries,South,Bengaluru,4,135.88,0.3,410.9,312.33,98.57
+ORD-00222,2023-04-13,CUST-0082,Arjun Rao,Consumer,Backpack,Stationery,Central,Bhopal,4,1856.47,0.05,7054.59,4261.27,2793.32
+ORD-00223,2023-06-30,CUST-0089,Ananya Sharma,Small Business,Dining Table,Furniture,West,Pune,4,15277.56,0.3,42777.16,29129.26,13647.9
+ORD-00224,2024-05-19,CUST-0097,Sara Reddy,Consumer,Cap,Clothing,Central,Bhopal,5,327.29,0.0,1767.36,892.39,874.97
+ORD-00225,2023-05-14,CUST-0104,Nikhil Verma,Small Business,Desk Organizer,Stationery,North,Chandigarh,6,730.37,0.3,3067.56,1967.27,1100.29
+ORD-00226,2023-03-16,CUST-0187,Meera Gupta,Small Business,Pen Pack,Stationery,North,Lucknow,6,104.09,0.2,499.64,293.52,206.12
+ORD-00227,2024-10-26,CUST-0250,Nikhil Khan,Consumer,Desk,Furniture,West,Ahmedabad,6,8413.56,0.15,57927.39,39110.42,18816.97
+ORD-00228,2024-12-06,CUST-0158,Kunal Singh,Small Business,Dining Table,Furniture,South,Chennai,5,13882.05,0.2,74963.04,43870.9,31092.14
+ORD-00229,2024-09-18,CUST-0163,Ishaan Patel,Corporate,Notebook Set,Stationery,South,Hyderabad,4,256.98,0.0,1110.16,724.27,385.89
+ORD-00230,2024-12-26,CUST-0046,Aarav Patel,Small Business,Bookshelf,Furniture,East,Kolkata,6,4155.17,0.05,31974.03,19576.39,12397.64
+ORD-00231,2024-03-05,CUST-0225,Aarav Reddy,Consumer,Smartphone,Electronics,North,Chandigarh,3,19384.39,0.1,56524.87,47455.81,9069.06
+ORD-00232,2023-03-17,CUST-0232,Ananya Nair,Consumer,Spices Combo,Groceries,South,Bengaluru,1,383.59,0.05,364.41,249.84,114.57
+ORD-00233,2023-12-13,CUST-0048,Rohan Patel,Corporate,Cooking Oil,Groceries,North,Lucknow,8,333.09,0.1,2997.79,2349.4,648.39
+ORD-00234,2023-07-14,CUST-0106,Vivaan Nair,Consumer,Office Chair,Furniture,North,Chandigarh,7,6756.36,0.2,37835.59,26686.37,11149.22
+ORD-00235,2024-08-08,CUST-0202,Kabir Verma,Corporate,Jeans,Clothing,North,Delhi,8,1396.08,0.05,11459.0,5677.01,5781.99
+ORD-00236,2023-07-31,CUST-0014,Rohan Sharma,Small Business,Desk Organizer,Stationery,South,Bengaluru,3,719.35,0.0,2158.04,1287.98,870.06
+ORD-00237,2023-07-09,CUST-0199,Kunal Mehta,Consumer,Beverages,Groceries,East,Kolkata,6,96.94,0.05,552.55,372.9,179.65
+ORD-00238,2023-06-04,CUST-0032,Kunal Singh,Corporate,Jeans,Clothing,East,Bhubaneswar,2,1375.71,0.05,2613.85,1526.23,1087.62
+ORD-00239,2024-07-02,CUST-0215,Aarav Verma,Small Business,Dining Table,Furniture,North,Chandigarh,8,15218.14,0.0,131484.75,85059.34,46425.41
+ORD-00240,2023-05-04,CUST-0076,Pooja Reddy,Small Business,Tablet,Electronics,Central,Indore,8,14953.21,0.0,119625.7,102119.4,17506.3
+ORD-00241,2024-09-01,CUST-0076,Pooja Reddy,Small Business,Rice 5kg,Groceries,West,Mumbai,5,433.78,0.2,1873.92,1460.98,412.94
+ORD-00242,2023-01-13,CUST-0235,Kabir Verma,Small Business,Spices Combo,Groceries,East,Patna,7,369.0,0.0,2583.01,1728.91,854.1
+ORD-00243,2024-07-02,CUST-0147,Pooja Reddy,Consumer,Smartphone,Electronics,Central,Bhopal,6,19360.42,0.05,119182.73,90788.01,28394.72
+ORD-00244,2024-09-25,CUST-0074,Vivaan Khan,Consumer,Laptop,Electronics,East,Patna,7,49926.61,0.05,358572.9,290343.7,68229.2
+ORD-00245,2023-11-15,CUST-0156,Rohan Sharma,Consumer,Jacket,Clothing,North,Chandigarh,5,2991.99,0.3,13089.97,7481.97,5608.0
+ORD-00246,2024-03-02,CUST-0138,Vivaan Khan,Consumer,Bookshelf,Furniture,West,Pune,2,3937.87,0.0,8505.79,5985.92,2519.87
+ORD-00247,2023-03-09,CUST-0082,Arjun Rao,Consumer,Backpack,Stationery,North,Lucknow,5,1875.44,0.1,8439.5,4694.71,3744.79
+ORD-00248,2023-09-13,CUST-0030,Meera Patel,Corporate,Laptop,Electronics,South,Bengaluru,1,54520.94,0.05,51794.89,42053.46,9741.43
+ORD-00249,2023-09-05,CUST-0016,Nikhil Verma,Small Business,Desk Organizer,Stationery,North,Lucknow,6,698.43,0.1,3771.52,2116.99,1654.53
+ORD-00250,2023-10-19,CUST-0047,Ananya Patel,Small Business,Jacket,Clothing,South,Chennai,1,2736.48,0.0,3420.6,2014.46,1406.14
+ORD-00251,2024-06-09,CUST-0210,Rohan Singh,Corporate,Desk,Furniture,South,Chennai,1,9656.33,0.3,7300.19,4918.04,2382.15
+ORD-00252,2024-09-14,CUST-0130,Rohan Gupta,Small Business,Dining Table,Furniture,North,Delhi,5,15638.22,0.2,67557.12,45165.73,22391.39
+ORD-00253,2023-11-06,CUST-0239,Priya Mehta,Corporate,Sneakers,Clothing,East,Kolkata,7,3254.07,0.0,28473.13,15696.28,12776.85
+ORD-00254,2023-11-02,CUST-0145,Meera Iyer,Consumer,Cap,Clothing,Central,Indore,2,348.72,0.05,828.21,500.01,328.2
+ORD-00255,2023-02-28,CUST-0124,Kabir Rao,Corporate,Jacket,Clothing,South,Bengaluru,7,2889.9,0.2,16183.42,8259.89,7923.53
+ORD-00256,2023-02-06,CUST-0199,Kunal Mehta,Consumer,Jacket,Clothing,West,Pune,4,2712.17,0.2,8678.96,4508.37,4170.59
+ORD-00257,2023-10-28,CUST-0093,Vivaan Gupta,Corporate,Cap,Clothing,East,Kolkata,2,347.95,0.2,695.91,364.28,331.63
+ORD-00258,2023-08-17,CUST-0182,Ishaan Das,Corporate,Bookshelf,Furniture,North,Delhi,5,4133.2,0.05,19632.69,12433.75,7198.94
+ORD-00259,2024-04-28,CUST-0037,Diya Reddy,Small Business,Smartwatch,Electronics,North,Lucknow,4,4500.43,0.3,13609.3,10998.88,2610.42
+ORD-00260,2024-08-06,CUST-0210,Rohan Singh,Corporate,Desk,Furniture,South,Chennai,8,8357.8,0.3,50548.0,34273.41,16274.59
+ORD-00261,2023-10-08,CUST-0232,Ananya Nair,Consumer,Bookshelf,Furniture,North,Delhi,4,4419.4,0.0,22097.01,14582.18,7514.83
+ORD-00262,2024-02-18,CUST-0220,Nikhil Iyer,Corporate,Laptop,Electronics,Central,Nagpur,7,60118.61,0.1,409047.0,287448.94,121598.06
+ORD-00263,2024-11-23,CUST-0010,Neha Khan,Corporate,Headphones,Electronics,Central,Bhopal,1,2563.34,0.0,3460.51,2551.43,909.08
+ORD-00264,2023-06-21,CUST-0157,Neha Khan,Small Business,Smartwatch,Electronics,Central,Indore,2,4791.46,0.05,9103.77,7737.84,1365.93
+ORD-00265,2023-12-17,CUST-0069,Meera Verma,Corporate,Backpack,Stationery,West,Ahmedabad,8,1749.33,0.0,17493.3,9792.5,7700.8
+ORD-00266,2023-08-05,CUST-0068,Arjun Verma,Consumer,Laptop,Electronics,South,Hyderabad,1,55986.62,0.0,55986.62,40378.29,15608.33
+ORD-00267,2024-08-31,CUST-0025,Rohan Rao,Small Business,Snack Pack,Groceries,Central,Indore,1,154.86,0.2,133.8,102.81,30.99
+ORD-00268,2024-04-30,CUST-0130,Rohan Gupta,Small Business,Beverages,Groceries,North,Lucknow,3,84.7,0.2,219.54,162.19,57.35
+ORD-00269,2024-03-04,CUST-0071,Meera Nair,Consumer,Backpack,Stationery,Central,Indore,2,1804.17,0.15,3312.46,1835.53,1476.93
+ORD-00270,2024-01-02,CUST-0104,Nikhil Verma,Small Business,Dining Table,Furniture,South,Chennai,7,14386.05,0.0,108758.57,71373.69,37384.88
+ORD-00271,2024-11-18,CUST-0007,Aarav Mehta,Consumer,Snack Pack,Groceries,South,Bengaluru,2,162.21,0.3,306.57,224.0,82.57
+ORD-00272,2024-04-12,CUST-0119,Aarav Patel,Small Business,Notebook Set,Stationery,North,Chandigarh,5,238.21,0.0,1286.31,710.01,576.3
+ORD-00273,2023-04-08,CUST-0060,Pooja Verma,Small Business,Jacket,Clothing,East,Patna,1,2525.42,0.0,2525.42,1434.36,1091.06
+ORD-00274,2024-01-17,CUST-0048,Rohan Patel,Corporate,Spices Combo,Groceries,East,Bhubaneswar,6,374.63,0.1,2184.84,1541.7,643.14
+ORD-00275,2024-12-13,CUST-0068,Arjun Verma,Consumer,Beverages,Groceries,South,Bengaluru,1,98.67,0.3,93.24,62.56,30.68
+ORD-00276,2024-01-03,CUST-0195,Rohan Mehta,Corporate,Desk Organizer,Stationery,South,Hyderabad,1,750.76,0.3,567.58,356.03,211.55
+ORD-00277,2023-03-06,CUST-0024,Priya Reddy,Small Business,Rice 5kg,Groceries,West,Pune,5,463.95,0.0,2319.74,1738.55,581.19
+ORD-00278,2024-06-15,CUST-0174,Kunal Das,Corporate,Whiteboard,Stationery,South,Hyderabad,2,1578.51,0.2,2727.67,1554.31,1173.36
+ORD-00279,2023-01-12,CUST-0028,Meera Gupta,Corporate,Cooking Oil,Groceries,Central,Indore,3,320.36,0.1,864.96,666.6,198.36
+ORD-00280,2023-02-21,CUST-0143,Aditi Rao,Corporate,Snack Pack,Groceries,South,Chennai,4,151.51,0.1,545.45,385.13,160.32
+ORD-00281,2023-11-20,CUST-0229,Arjun Rao,Corporate,Desk Organizer,Stationery,North,Chandigarh,2,767.29,0.2,1534.59,949.0,585.59
+ORD-00282,2024-06-04,CUST-0156,Rohan Sharma,Consumer,Whiteboard,Stationery,North,Delhi,4,1649.47,0.1,6413.14,4194.47,2218.67
+ORD-00283,2024-11-03,CUST-0243,Priya Patel,Corporate,Sofa,Furniture,East,Bhubaneswar,6,22950.02,,185895.16,111103.37,74791.79
+ORD-00284,2024-12-19,CUST-0192,Neha Mehta,Corporate,Jacket,Clothing,Central,Indore,2,2545.64,0.0,6873.22,3774.54,3098.68
+ORD-00285,2023-07-12,CUST-0101,Aditi Sharma,Small Business,Rice 5kg,Groceries,East,Bhubaneswar,2,488.72,0.1,879.7,597.36,282.34
+ORD-00286,2024-04-06,CUST-0064,Neha Reddy,Small Business,T-Shirt,Clothing,West,Mumbai,8,619.01,0.15,4546.04,2317.62,2228.42
+ORD-00287,2024-06-04,CUST-0248,Ishaan Iyer,Corporate,Tablet,Electronics,West,Ahmedabad,3,16613.82,0.0,53828.77,43921.97,9906.8
+ORD-00288,2024-03-04,CUST-0197,Ishaan Rao,Corporate,Whiteboard,Stationery,East,Bhubaneswar,4,1527.55,0.05,6269.07,4115.39,2153.68
+ORD-00289,2024-12-29,CUST-0161,Neha Sharma,Small Business,Spices Combo,Groceries,Central,Nagpur,4,376.07,0.15,1726.17,1296.13,430.04
+ORD-00290,2024-12-28,CUST-0166,Neha Khan,Corporate,Desk,Furniture,Central,Indore,2,9469.4,0.15,21732.26,14070.51,7661.75
+ORD-00291,2024-06-19,CUST-0007,Aarav Mehta,Consumer,Spices Combo,Groceries,East,Patna,2,362.02,0.0,781.97,512.69,269.28
+ORD-00292,2024-12-08,CUST-0032,Kunal Singh,Corporate,Bookshelf,Furniture,East,Kolkata,5,3951.36,0.15,22670.93,13357.71,9313.22
+ORD-00293,2024-06-07,CUST-0122,Ananya Rao,Small Business,Pen Pack,Stationery,Central,Nagpur,5,103.86,0.0,560.84,365.21,195.63
+ORD-00294,2023-07-27,CUST-0129,Aarav Khan,Consumer,Cap,Clothing,North,Delhi,8,373.1,0.2,2387.83,1367.05,1020.78
+ORD-00295,2023-10-29,CUST-0100,Pooja Mehta,Small Business,Whiteboard,Stationery,South,Hyderabad,8,1496.78,0.2,11974.21,6573.08,5401.13
+ORD-00296,2024-07-23,CUST-0143,,Corporate,Smartwatch,Electronics,North,Chandigarh,5,4167.06,0.15,19126.8,15951.33,3175.47
+ORD-00297,2024-10-02,CUST-0027,Aditi Mehta,Small Business,Office Chair,Furniture,South,Chennai,5,6487.72,0.15,37223.27,24437.85,12785.42
+ORD-00298,2024-06-01,CUST-0035,Pooja Singh,Small Business,Pen Pack,Stationery,South,Hyderabad,3,98.32,0.15,270.77,159.32,111.45
+ORD-00299,2024-09-25,CUST-0112,Ishaan Sharma,Corporate,Jacket,Clothing,East,Patna,8,3078.11,0.3,18616.43,10755.36,7861.07
+ORD-00300,2023-02-10,CUST-0125,Kabir Patel,Small Business,Sneakers,Clothing,South,Hyderabad,6,3124.08,0.3,13121.13,7858.88,5262.25
+ORD-00301,2024-05-13,CUST-0229,Arjun Rao,Corporate,T-Shirt,Clothing,Central,Nagpur,1,575.57,0.2,497.29,256.69,240.6
+ORD-00302,2023-08-04,CUST-0034,Kunal Reddy,Small Business,Dining Table,Furniture,Central,Bhopal,4,16094.85,0.1,57941.47,40190.32,17751.15
+ORD-00303,2023-12-06,CUST-0236,Meera Verma,Small Business,Rice 5kg,Groceries,South,Bengaluru,1,412.88,0.0,516.1,347.66,168.44
+ORD-00304,2024-10-07,CUST-0231,Ananya Gupta,Corporate,Bookshelf,Furniture,West,Pune,7,4143.74,,39158.35,24890.43,14267.92
+ORD-00305,2024-01-02,CUST-0038,Rohan Rao,Small Business,Notebook Set,Stationery,Central,Bhopal,2,239.49,0.2,413.84,238.44,175.4
+ORD-00306,2024-04-30,CUST-0016,Nikhil Verma,Small Business,Beverages,Groceries,West,Ahmedabad,3,90.6,0.0,293.55,221.79,71.76
+ORD-00307,2023-01-12,CUST-0192,Neha Mehta,Corporate,Jeans,Clothing,East,Bhubaneswar,3,1386.97,0.0,4160.91,2321.78,1839.13
+ORD-00308,2023-08-05,CUST-0177,Ishaan Iyer,Small Business,Headphones,Electronics,South,Hyderabad,7,2702.81,0.3,13243.79,10356.09,2887.7
+ORD-00309,2024-07-16,CUST-0028,Meera Gupta,Corporate,Jeans,Clothing,North,Delhi,8,1543.4,0.0,13335.0,7027.17,6307.83
+ORD-00310,2024-11-18,CUST-0066,Nikhil Patel,Small Business,Desk Organizer,Stationery,East,Patna,4,644.01,0.15,2955.99,1621.0,1334.99
+ORD-00311,2024-08-02,CUST-0079,Neha Reddy,Consumer,Cap,Clothing,East,Bhubaneswar,6,371.54,0.1,2166.82,1112.77,1054.05
+ORD-00312,2024-05-06,CUST-0170,Aditi Nair,Small Business,Snack Pack,Groceries,East,Kolkata,8,148.36,0.3,897.29,620.91,276.38
+ORD-00313,2023-09-27,CUST-0101,Aditi Sharma,Small Business,Notebook Set,Stationery,East,Kolkata,2,261.37,0.0,522.74,335.57,187.17
+ORD-00314,2024-07-18,CUST-0019,Ishaan Sharma,Small Business,Desk Organizer,Stationery,Central,Bhopal,5,706.09,0.15,3240.93,1933.71,1307.22
+ORD-00315,2024-05-28,CUST-0238,Ananya Nair,Consumer,Dining Table,Furniture,East,Kolkata,2,14690.36,0.15,26971.49,15815.46,11156.03
+ORD-00316,2023-06-13,CUST-0229,Arjun Rao,Corporate,Pen Pack,Stationery,Central,Bhopal,3,101.33,0.15,258.38,159.97,98.41
+ORD-00317,2023-08-26,CUST-0250,Nikhil Khan,Consumer,Snack Pack,Groceries,North,Delhi,2,142.93,0.0,285.86,187.0,98.86
+ORD-00318,2023-02-10,CUST-0024,Priya Reddy,Small Business,Sneakers,Clothing,West,Pune,6,2946.06,0.15,15024.93,8484.46,6540.47
+ORD-00319,2024-10-31,CUST-0193,Aditi Rao,Corporate,Whiteboard,Stationery,Central,Bhopal,7,1556.89,0.2,11770.13,7624.54,4145.59
+ORD-00320,2024-05-13,CUST-0177,Ishaan Iyer,Small Business,Dining Table,Furniture,West,Pune,8,16161.52,0.0,139635.5,90796.42,48839.08
+ORD-00321,2023-07-11,CUST-0077,Diya Rao,Small Business,Tablet,Electronics,East,Kolkata,3,15559.11,0.2,37341.87,30973.03,6368.84
+ORD-00322,2024-05-05,CUST-0246,Pooja Das,Corporate,T-Shirt,Clothing,West,Ahmedabad,4,610.89,0.2,2111.25,1238.61,872.64
+ORD-00323,2024-08-09,CUST-0021,Meera Verma,Corporate,Whiteboard,Stationery,South,Bengaluru,3,1457.89,0.05,4487.39,2919.92,1567.47
+ORD-00324,2024-04-04,CUST-0111,Sara Das,Corporate,Notebook Set,Stationery,East,Kolkata,8,268.37,0.0,2318.67,1313.12,1005.55
+ORD-00325,2023-06-21,CUST-0136,Diya Singh,Consumer,Pen Pack,Stationery,Central,Indore,6,108.45,0.15,553.08,337.86,215.22
+ORD-00326,2024-12-01,CUST-0259,Ishaan Iyer,Consumer,Smartphone,Electronics,South,Hyderabad,7,19175.45,0.15,154026.81,110440.7,43586.11
+ORD-00327,2024-05-08,CUST-0048,Rohan Patel,Corporate,Tablet,Electronics,Central,Bhopal,3,17286.35,0.15,47606.61,39565.54,8041.07
+ORD-00328,2024-12-15,CUST-0023,Priya Gupta,Corporate,Spices Combo,Groceries,West,Pune,7,378.36,0.3,2502.84,1795.6,707.24
+ORD-00329,2024-05-03,CUST-0131,Arjun Mehta,Small Business,Notebook Set,Stationery,West,Mumbai,4,270.5,0.0,1168.58,670.76,497.82
+ORD-00330,2024-06-16,CUST-0061,Diya Gupta,Small Business,Office Chair,Furniture,North,Lucknow,1,6337.54,0.0,6844.54,4616.02,2228.52
+ORD-00331,2024-07-02,CUST-0134,Diya Mehta,Consumer,Sofa,Furniture,Central,Nagpur,7,22284.55,0.15,143200.51,88902.15,54298.36
+ORD-00332,2024-01-15,CUST-0092,Pooja Reddy,Corporate,Spices Combo,Groceries,Central,Nagpur,8,380.3,0.05,3121.52,2282.4,839.12
+ORD-00333,2023-04-13,CUST-0083,Ananya Sharma,Corporate,Office Chair,Furniture,South,Chennai,4,6510.85,0.3,18230.37,11466.85,6763.52
+ORD-00334,2023-04-04,CUST-0003,Diya Rao,Consumer,Laptop,Electronics,West,Ahmedabad,3,54688.36,0.15,139455.31,107369.28,32086.03
+ORD-00335,2024-02-15,CUST-0197,Ishaan Rao,Corporate,Tablet,Electronics,North,Lucknow,5,16677.14,0.15,76548.07,54422.94,22125.13
+ORD-00336,2023-07-19,CUST-0147,Pooja Reddy,Consumer,Beverages,Groceries,North,Delhi,1,95.11,0.15,80.84,58.39,22.45
+ORD-00337,2023-06-11,CUST-0001,Ananya Sharma,Small Business,Headphones,Electronics,South,Hyderabad,2,2748.41,0.3,3847.77,2940.9,906.87
+ORD-00338,2023-04-03,CUST-0036,Arjun Gupta,Corporate,Dining Table,Furniture,North,Lucknow,5,15678.42,0.15,66633.27,46906.57,19726.7
+ORD-00339,2024-02-18,CUST-0233,Sara Nair,Small Business,Jeans,Clothing,Central,Bhopal,1,1428.33,0.1,1388.34,764.54,623.8
+ORD-00340,2024-12-11,CUST-0129,Aarav Khan,Consumer,T-Shirt,Clothing,Central,Nagpur,8,655.93,0.15,6021.41,3300.93,2720.48
+ORD-00341,2023-04-30,CUST-0247,Rohan Khan,Consumer,Beverages,Groceries,Central,Bhopal,5,82.22,0.2,328.86,250.45,78.41
+ORD-00342,2024-12-18,CUST-0005,Vivaan Sharma,Consumer,Sneakers,Clothing,East,Bhubaneswar,5,3038.88,0.0,20512.47,11053.81,9458.66
+ORD-00343,2023-08-12,CUST-0182,Ishaan Das,Corporate,Pen Pack,Stationery,West,Pune,5,93.66,0.2,374.62,233.0,141.62
+ORD-00344,2023-08-23,CUST-0106,Vivaan Nair,Consumer,Desk,Furniture,South,Chennai,4,9602.89,0.3,26888.1,17891.81,8996.29
+ORD-00345,2024-05-08,CUST-0022,Rohan Das,Small Business,Smartwatch,Electronics,Central,Bhopal,6,4608.6,0.1,26877.36,22633.61,4243.75
+ORD-00346,2024-02-12,CUST-0144,Neha Patel,Small Business,Sneakers,Clothing,South,Hyderabad,4,3360.11,0.0,14515.67,7271.72,7243.95
+ORD-00347,2024-12-03,CUST-0202,Kabir Verma,Corporate,Notebook Set,Stationery,Central,Nagpur,3,247.86,0.0,1003.83,626.18,377.65
+ORD-00348,2023-11-30,CUST-0052,Ananya Patel,Corporate,Laptop,Electronics,West,Ahmedabad,6,56240.56,0.05,400713.98,293000.37,107713.61
+ORD-00349,2024-03-10,CUST-0256,Neha Das,Small Business,Backpack,Stationery,East,Kolkata,4,1770.87,0.3,5355.12,3131.02,2224.1
+ORD-00350,2023-04-13,CUST-0118,Sara Nair,Small Business,Dining Table,Furniture,South,Hyderabad,5,15912.26,0.15,67627.12,43361.73,24265.39
+ORD-00351,2024-05-26,CUST-0216,Neha Gupta,Corporate,Sofa,Furniture,North,Delhi,3,24180.47,0.3,54841.31,36578.32,18262.99
+ORD-00352,2024-02-12,CUST-0025,Rohan Rao,Small Business,Snack Pack,Groceries,East,Bhubaneswar,2,155.72,0.0,336.35,228.39,107.96
+ORD-00353,2024-01-04,CUST-0185,Meera Gupta,Small Business,Smartwatch,Electronics,East,Patna,5,4359.73,0.1,21188.27,15274.9,5913.37
+ORD-00354,2023-10-19,CUST-0090,Aarav Verma,Consumer,Dining Table,Furniture,Central,Indore,6,14475.27,0.15,92279.85,59831.87,32447.98
+ORD-00355,2023-06-21,CUST-0075,Meera Iyer,Small Business,Spices Combo,Groceries,East,Patna,6,393.75,0.15,2008.1,1466.55,541.55
+ORD-00356,2024-10-30,CUST-0163,Ishaan Patel,Corporate,Bookshelf,Furniture,South,Chennai,5,4376.76,0.15,25111.68,16794.79,8316.89
+ORD-00357,2023-06-21,CUST-0212,Nikhil Rao,Consumer,Cap,Clothing,Central,Nagpur,3,374.79,0.0,1124.38,646.58,477.8
+ORD-00358,2023-04-08,CUST-0053,Kabir Gupta,Corporate,Laptop,Electronics,South,Chennai,2,59804.73,0.1,107648.51,84779.19,22869.32
+ORD-00359,2023-03-28,CUST-0080,Ananya Patel,Corporate,Smartphone,Electronics,East,Bhubaneswar,7,17313.73,0.0,121196.14,99025.07,22171.07
+ORD-00360,2023-11-30,CUST-0183,Kabir Rao,Small Business,Pen Pack,Stationery,North,Delhi,8,99.34,0.3,695.41,420.63,274.78
+ORD-00361,2024-10-08,CUST-0234,Nikhil Singh,Small Business,Pen Pack,Stationery,Central,Indore,7,100.47,0.2,759.55,458.81,300.74
+ORD-00362,2024-02-27,CUST-0188,Arjun Sharma,Small Business,Office Chair,Furniture,West,Pune,5,6052.43,0.0,32683.14,19120.03,13563.11
+ORD-00363,2024-12-05,CUST-0005,Vivaan Sharma,Consumer,Jacket,Clothing,West,Ahmedabad,8,3050.3,0.1,29648.88,15653.34,13995.54
+ORD-00364,2023-07-13,CUST-0192,Neha Mehta,Corporate,Pen Pack,Stationery,North,Lucknow,7,107.64,0.1,678.15,398.33,279.82
+ORD-00365,2024-03-08,CUST-0041,Pooja Verma,Consumer,Beverages,Groceries,South,Chennai,4,90.3,0.3,273.06,212.72,60.34
+ORD-00366,2023-03-12,CUST-0097,Sara Reddy,Consumer,Cap,Clothing,East,Patna,3,324.56,0.0,973.69,550.19,423.5
+ORD-00367,2023-06-05,CUST-0010,Neha Khan,Corporate,Desk Organizer,Stationery,South,Chennai,1,765.76,0.0,765.76,430.6,335.16
+ORD-00368,2023-01-16,CUST-0078,Pooja Reddy,Corporate,Rice 5kg,Groceries,South,Bengaluru,8,424.55,0.1,3056.74,2117.91,938.83
+ORD-00369,2023-02-27,CUST-0075,Meera Iyer,Small Business,Rice 5kg,Groceries,East,Kolkata,5,474.81,0.0,2374.04,1724.07,649.97
+ORD-00370,2024-01-30,CUST-0128,Neha Iyer,Consumer,Sneakers,Clothing,North,Delhi,8,3038.18,0.0,26249.91,13568.84,12681.07
+ORD-00371,2023-11-27,CUST-0160,Kabir Iyer,Consumer,Sofa,Furniture,West,Ahmedabad,3,22568.32,0.0,84631.21,57702.76,26928.45
+ORD-00372,2024-11-13,CUST-0027,Aditi Mehta,Small Business,Snack Pack,Groceries,South,Chennai,4,164.2,0.0,886.67,655.37,231.3
+ORD-00373,2023-01-10,CUST-0125,Kabir Patel,Small Business,Cap,Clothing,North,Chandigarh,1,355.68,0.2,284.54,155.72,128.82
+ORD-00374,2024-12-03,CUST-0047,Ananya Patel,Small Business,Laptop,Electronics,South,Chennai,6,59739.34,0.3,338722.04,270815.26,67906.78
+ORD-00375,2023-11-21,CUST-0120,Sara Patel,Consumer,Notebook Set,Stationery,South,Chennai,6,265.28,0.1,1790.61,1124.47,666.14
+ORD-00376,2024-07-26,CUST-0225,Aarav Reddy,Consumer,Bookshelf,Furniture,North,Chandigarh,5,4235.9,0.1,20586.46,12550.96,8035.5
+ORD-00377,2023-03-12,CUST-0083,Ananya Sharma,Corporate,Snack Pack,Groceries,Central,Indore,3,148.48,,311.81,213.88,97.93
+ORD-00378,2024-09-27,CUST-0187,Meera Gupta,Small Business,Desk Organizer,Stationery,South,Bengaluru,4,674.9,0.0,2915.56,1804.72,1110.84
+ORD-00379,2023-11-27,CUST-0145,Meera Iyer,Consumer,Desk Organizer,Stationery,Central,Bhopal,7,719.73,0.0,6297.61,3473.45,2824.16
+ORD-00380,2024-05-12,CUST-0055,Aarav Nair,Corporate,Desk,Furniture,North,Delhi,4,8277.76,0.15,30395.92,20317.48,10078.44
+ORD-00381,2023-08-15,CUST-0188,Arjun Sharma,Small Business,Whiteboard,Stationery,East,Kolkata,2,1444.19,0.0,2888.38,1787.01,1101.37
+ORD-00382,2024-01-13,CUST-0213,Arjun Gupta,Small Business,Rice 5kg,Groceries,East,Bhubaneswar,1,479.13,0.05,491.59,356.0,135.59
+ORD-00383,2023-08-25,CUST-0052,Ananya Patel,Corporate,Laptop,Electronics,Central,Bhopal,7,51584.06,0.15,306925.18,246912.94,60012.24
+ORD-00384,2024-10-15,CUST-0055,Aarav Nair,Corporate,Whiteboard,Stationery,West,Ahmedabad,6,1655.84,0.2,10729.83,6650.66,4079.17
+ORD-00385,2024-11-04,CUST-0173,Kabir Singh,Small Business,Dining Table,Furniture,West,Ahmedabad,3,15101.7,0.15,51987.61,33406.8,18580.81
+ORD-00386,2023-11-28,CUST-0221,Rohan Verma,Corporate,Jacket,Clothing,West,Ahmedabad,4,2835.36,0.0,14176.81,7602.41,6574.4
+ORD-00387,2023-02-05,CUST-0001,Ananya Sharma,Small Business,Sneakers,Clothing,West,Pune,5,3261.29,,13860.47,7066.89,6793.58
+ORD-00388,2024-07-20,CUST-0142,Aditi Singh,Consumer,Desk,Furniture,East,Kolkata,3,8269.72,0.1,24114.49,15221.92,8892.57
+ORD-00389,2023-04-05,CUST-0154,Kunal Sharma,Consumer,Pen Pack,Stationery,South,Chennai,7,101.38,0.0,709.67,445.75,263.92
+ORD-00390,2023-02-08,CUST-0154,Kunal Sharma,Consumer,Sofa,Furniture,Central,Bhopal,7,20145.3,0.0,141017.1,99394.96,41622.14
+ORD-00391,2024-10-11,CUST-0006,Kabir Reddy,Small Business,Beverages,Groceries,North,Delhi,7,81.97,0.15,658.46,430.59,227.87
+ORD-00392,2024-04-01,CUST-0202,Kabir Verma,Corporate,Pen Pack,Stationery,South,Bengaluru,2,94.44,0.05,193.79,122.93,70.86
+ORD-00393,2023-09-26,CUST-0205,Kabir Singh,Corporate,Spices Combo,Groceries,North,Lucknow,2,391.88,0.1,705.39,535.69,169.7
+ORD-00394,2024-07-28,CUST-0101,Aditi Sharma,Small Business,Pen Pack,Stationery,West,Pune,4,94.85,0.05,389.25,246.48,142.77
+ORD-00395,2023-12-23,CUST-0188,Arjun Sharma,Small Business,Smartphone,Electronics,West,Pune,4,17354.66,0.15,73757.3,59318.86,14438.44
+ORD-00396,2024-03-27,CUST-0075,Meera Iyer,Small Business,Cap,Clothing,West,Ahmedabad,1,379.69,0.0,410.07,211.99,198.08
+ORD-00397,2023-10-22,CUST-0076,Pooja Reddy,Small Business,Smartphone,Electronics,North,Delhi,1,17435.78,0.3,15256.3,10974.76,4281.54
+ORD-00398,2024-07-15,CUST-0133,Ananya Verma,Small Business,Dining Table,Furniture,South,Bengaluru,8,15369.13,0.0,132789.25,89680.45,43108.8
+ORD-00399,2023-10-18,CUST-0031,Vivaan Reddy,Consumer,Notebook Set,Stationery,East,Kolkata,4,264.46,0.15,13487.400000000001,643.52,480.43
+ORD-00400,2023-04-21,CUST-0185,Meera Gupta,Small Business,Smartwatch,Electronics,East,Bhubaneswar,1,4313.25,0.2,3450.6,2630.38,820.22
+ORD-00401,2023-07-10,CUST-0046,Aarav Patel,Small Business,Headphones,Electronics,West,Ahmedabad,4,2500.33,0.1,9001.17,7106.13,1895.04
+ORD-00402,2023-06-10,CUST-0202,Kabir Verma,Corporate,Backpack,Stationery,East,Patna,1,1744.84,0.05,1657.6,965.79,691.81
+ORD-00403,2024-02-01,CUST-0132,Neha Mehta,Consumer,Backpack,Stationery,North,Lucknow,1,1959.89,0.05,2010.85,1140.29,870.56
+ORD-00404,2024-03-03,CUST-0117,Aditi Das,Small Business,Office Chair,Furniture,West,Ahmedabad,4,6594.77,0.1,25640.46,18234.72,7405.74
+ORD-00405,2024-08-17,CUST-0071,Meera Nair,Consumer,Pen Pack,Stationery,South,Hyderabad,4,107.25,0.05,440.16,274.05,166.11
+ORD-00406,2023-03-11,CUST-0163,Ishaan Patel,Corporate,Cooking Oil,Groceries,Central,Bhopal,2,299.78,0.3,419.7,325.13,94.57
+ORD-00407,2023-06-05,CUST-0141,Diya Reddy,Consumer,Beverages,Groceries,East,Patna,4,82.92,0.0,331.69,216.19,115.5
+ORD-00408,2023-08-25,CUST-0119,Aarav Patel,Small Business,Whiteboard,Stationery,Central,Bhopal,1,1554.96,0.2,1243.97,788.15,455.82
+ORD-00409,2024-04-30,CUST-0252,Pooja Reddy,Corporate,Snack Pack,Groceries,South,Chennai,3,139.91,0.0,453.32,295.86,157.46
+ORD-00410,2023-07-29,CUST-0104,Nikhil Verma,Small Business,Sneakers,Clothing,South,Hyderabad,2,2993.33,0.1,5387.99,3180.98,2207.01
+ORD-00411,2024-09-14,CUST-0022,Rohan Das,Small Business,Cooking Oil,Groceries,West,Pune,7,334.09,0.1,2273.17,1673.18,599.99
+ORD-00412,2024-04-12,CUST-0232,Ananya Nair,Consumer,Notebook Set,Stationery,Central,Bhopal,1,268.89,0.0,290.4,174.89,115.51
+ORD-00413,2023-07-14,CUST-0026,Ishaan Nair,Small Business,Desk Organizer,Stationery,Central,Indore,5,691.54,0.05,3284.8,2078.76,1206.04
+ORD-00414,2024-04-19,CUST-0073,Vivaan Reddy,Consumer,Cap,Clothing,North,Lucknow,8,321.33,0.15,2359.85,1197.5,1162.35
+ORD-00415,2024-04-06,CUST-0166,Neha Khan,Corporate,Pen Pack,Stationery,West,Pune,1,93.58,0.15,85.9,55.63,30.27
+ORD-00416,2023-05-07,CUST-0084,Kunal Verma,Consumer,Headphones,Electronics,East,Bhubaneswar,2,2307.08,0.1,4152.75,3326.0,826.75
+ORD-00417,2023-02-14,CUST-0195,Rohan Mehta,Corporate,Whiteboard,Stationery,South,Chennai,3,1731.92,0.15,4416.4,2846.62,1569.78
+ORD-00418,2023-11-13,CUST-0158,Kunal Singh,Small Business,Desk,Furniture,North,Chandigarh,8,8619.8,0.0,86198.05,51743.14,34454.91
+ORD-00419,2024-05-25,CUST-0255,Kabir Verma,Consumer,Backpack,Stationery,North,Chandigarh,1,1838.87,0.1,1787.39,1016.21,771.18
+ORD-00420,2023-09-08,CUST-0004,Ishaan Nair,Corporate,Beverages,Groceries,North,Lucknow,5,92.16,0.15,391.66,300.05,91.61
+ORD-00421,2024-11-14,CUST-0017,Sara Patel,Small Business,Headphones,Electronics,North,Delhi,5,2415.56,0.0,16305.0,11570.83,4734.17
+ORD-00422,2024-04-11,CUST-0091,Aditi Singh,Corporate,Cap,Clothing,Central,Indore,6,380.2,0.0,2463.72,1427.82,1035.9
+ORD-00423,2024-04-27,CUST-0150,Kabir Singh,Corporate,Smartwatch,Electronics,Central,Bhopal,3,4159.82,0.3,9434.47,7026.88,2407.59
+ORD-00424,2024-05-10,CUST-0045,Arjun Mehta,Corporate,Dining Table,Furniture,North,Delhi,5,14781.16,0.3,55872.79,34984.38,20888.41
+ORD-00425,2024-06-16,CUST-0255,Kabir Verma,Consumer,Jeans,Clothing,Central,Indore,8,1497.75,0.0,12940.57,7663.44,5277.13
+ORD-00426,2024-10-02,CUST-0239,Priya Mehta,Corporate,Office Chair,Furniture,North,Delhi,2,6808.71,0.0,18383.51,12665.2,5718.31
+ORD-00427,2023-01-12,CUST-0109,Kunal Reddy,Corporate,Jacket,Clothing,Central,Indore,4,2906.41,0.05,11044.36,6426.95,4617.41
+ORD-00428,2023-12-16,CUST-0171,Sara Singh,Small Business,T-Shirt,Clothing,North,Lucknow,7,626.93,0.15,4662.77,2800.52,1862.25
+ORD-00429,2024-05-08,CUST-0070,Aarav Nair,Small Business,Sneakers,Clothing,West,Mumbai,3,3281.41,0.3,7442.23,4123.49,3318.74
+ORD-00430,2024-07-22,CUST-0162,Kabir Khan,Corporate,Rice 5kg,Groceries,Central,Nagpur,1,423.74,0.2,366.11,254.73,111.38
+ORD-00431,2024-01-20,CUST-0174,Kunal Das,Corporate,Laptop,Electronics,East,Kolkata,3,55780.8,0.1,162656.81,118939.72,43717.09
+ORD-00432,2023-03-30,CUST-0212,Nikhil Rao,Consumer,Jacket,Clothing,North,Chandigarh,8,3011.15,0.05,22884.72,12465.53,10419.19
+ORD-00433,2023-07-26,CUST-0020,Meera Iyer,Consumer,Jeans,Clothing,North,Chandigarh,2,1483.13,0.0,2966.26,1729.01,1237.25
+ORD-00434,2023-05-27,CUST-0168,Kabir Singh,Small Business,Sneakers,Clothing,Central,Nagpur,2,3406.17,0.15,5790.49,3297.33,2493.16
+ORD-00435,2023-11-15,CUST-0003,Diya Rao,Consumer,Beverages,Groceries,Central,Bhopal,1,93.37,0.15,99.2,76.74,22.46
+ORD-00436,2024-10-16,CUST-0160,Kabir Iyer,Consumer,Tablet,Electronics,East,Kolkata,4,15426.82,0.0,83304.81,62204.08,21100.73
+ORD-00437,2023-04-28,CUST-0141,Diya Reddy,Consumer,Headphones,Electronics,South,Bengaluru,1,2729.15,0.15,2319.78,1814.52,505.26
+ORD-00438,2024-08-10,CUST-0146,Ananya Singh,Consumer,Jacket,Clothing,South,Hyderabad,4,2615.91,0.05,10735.71,6038.4,4697.31
+ORD-00439,2023-04-19,CUST-0026,Ishaan Nair,Small Business,Office Chair,Furniture,West,Ahmedabad,7,5919.94,0.1,37295.62,23718.12,13577.5
+ORD-00440,2023-07-22,CUST-0171,Sara Singh,Small Business,Spices Combo,Groceries,East,Patna,2,437.89,0.3,613.05,464.74,148.31
+ORD-00441,2024-04-26,CUST-0239,Priya Mehta,Corporate,Rice 5kg,Groceries,West,Pune,4,490.27,0.0,2117.97,1635.07,482.9
+ORD-00442,2024-05-14,CUST-0233,Sara Nair,Small Business,Cooking Oil,Groceries,East,Patna,1,292.18,0.0,315.56,220.45,95.11
+ORD-00443,2024-02-20,CUST-0053,Kabir Gupta,Corporate,Cap,Clothing,Central,Bhopal,2,337.81,0.2,583.74,293.51,290.23
+ORD-00444,2024-07-15,CUST-0125,Kabir Patel,Small Business,Desk Organizer,Stationery,South,Hyderabad,3,766.34,0.1,2234.66,1224.43,1010.23
+ORD-00445,2023-06-27,CUST-0121,Diya Iyer,Consumer,Beverages,Groceries,Central,Nagpur,2,94.31,0.2,150.89,110.25,40.64
+ORD-00446,2023-06-30,CUST-0228,Ananya Nair,Consumer,Snack Pack,Groceries,Central,Bhopal,5,163.68,0.0,818.38,600.81,217.57
+ORD-00447,2023-04-03,CUST-0032,Kunal Singh,Corporate,Snack Pack,Groceries,West,Ahmedabad,4,159.51,,542.34,421.98,120.36
+ORD-00448,2024-02-04,CUST-0150,Kabir Singh,Corporate,Desk,Furniture,West,Ahmedabad,8,8452.2,0.2,58421.61,40840.52,17581.09
+ORD-00449,2024-09-18,CUST-0005,Vivaan Sharma,Consumer,Sneakers,Clothing,East,Kolkata,7,3422.49,0.3,18111.8,9551.44,8560.36
+ORD-00450,2023-10-16,CUST-0057,Priya Iyer,Consumer,Smartphone,Electronics,Central,Nagpur,1,17046.87,0.2,17046.87,13536.33,3510.54
+ORD-00451,2024-11-09,CUST-0109,Kunal Reddy,Corporate,Beverages,Groceries,West,Ahmedabad,3,89.55,0.0,362.67,264.02,98.65
+ORD-00452,2023-05-18,CUST-0065,Kabir Rao,Corporate,Cooking Oil,Groceries,East,Bhubaneswar,1,292.59,0.0,292.59,195.67,96.92
+ORD-00453,2024-04-11,CUST-0213,Arjun Gupta,Small Business,Office Chair,Furniture,South,Hyderabad,7,6660.22,0.1,45316.16,29510.97,15805.19
+ORD-00454,2024-08-14,CUST-0004,Ishaan Nair,Corporate,Jeans,Clothing,South,Chennai,8,1604.04,0.0,13858.92,7945.79,5913.13
+ORD-00455,2024-12-22,CUST-0248,Ishaan Iyer,Corporate,Backpack,Stationery,North,Delhi,6,1660.74,0.1,12106.79,7934.89,4171.9
+ORD-00456,2024-06-19,CUST-0041,Pooja Verma,Consumer,Backpack,Stationery,West,Ahmedabad,2,1708.28,0.2,2951.91,1856.76,1095.15
+ORD-00457,2023-12-18,CUST-0028,Meera Gupta,Corporate,Whiteboard,Stationery,East,Bhubaneswar,1,1590.04,0.15,1689.42,1095.97,593.45
+ORD-00458,2024-12-12,CUST-0019,Ishaan Sharma,Small Business,Jacket,Clothing,East,Kolkata,5,2927.1,0.15,16794.26,8794.29,7999.97
+ORD-00459,2023-10-21,CUST-0014,Rohan Sharma,Small Business,Notebook Set,Stationery,East,Bhubaneswar,8,229.13,0.15,1947.57,1069.65,877.92
+ORD-00460,2023-04-25,CUST-0008,Neha Reddy,Corporate,Backpack,Stationery,East,Patna,3,1947.65,0.2,4674.35,2608.92,2065.43
+ORD-00461,2023-12-18,CUST-0017,Sara Patel,Small Business,Jeans,Clothing,West,Mumbai,2,1640.2,0.15,3485.43,2083.36,1402.07
+ORD-00462,2024-10-14,CUST-0226,Aarav Nair,Consumer,Beverages,Groceries,South,Hyderabad,3,84.8,0.2,274.74,211.34,63.4
+ORD-00463,2024-05-02,CUST-0205,Kabir Singh,Corporate,Smartphone,Electronics,South,Chennai,5,17914.56,0.3,67717.03,57282.08,10434.95
+ORD-00464,2023-01-13,CUST-0223,Vivaan Khan,Consumer,Beverages,Groceries,East,Kolkata,5,97.69,0.1,439.61,309.05,130.56
+ORD-00465,2024-03-18,CUST-0182,Ishaan Das,Corporate,Smartphone,Electronics,Central,Indore,5,17405.88,0.05,89292.18,73859.04,15433.14
+ORD-00466,2024-11-24,CUST-0173,Kabir Singh,Small Business,Cooking Oil,Groceries,Central,Bhopal,3,308.05,,1247.6,929.32,318.28
+ORD-00467,2023-12-26,CUST-0229,Arjun Rao,Corporate,Tablet,Electronics,North,Lucknow,4,16720.8,0.05,79423.81,58147.79,21276.02
+ORD-00468,2024-12-26,CUST-0063,Rohan Mehta,Small Business,Pen Pack,Stationery,Central,Indore,2,91.73,0.15,210.52,116.96,93.56
+ORD-00469,2023-09-17,CUST-0095,Arjun Iyer,Corporate,Pen Pack,Stationery,North,Lucknow,5,99.34,0.0,496.7,306.29,190.41
+ORD-00470,2023-10-11,CUST-0038,Rohan Rao,Small Business,Snack Pack,Groceries,East,Kolkata,1,146.48,0.05,173.95,137.67,36.28
+ORD-00471,2024-09-16,CUST-0103,Ishaan Patel,Consumer,Sofa,Furniture,North,Chandigarh,7,20585.15,0.1,140061.33,83910.18,56151.15
+ORD-00472,2023-04-16,CUST-0133,Ananya Verma,Small Business,Notebook Set,Stationery,West,Ahmedabad,1,228.65,0.15,194.35,121.92,72.43
+ORD-00473,2023-09-30,CUST-0200,Diya Gupta,Consumer,Cooking Oil,Groceries,North,Delhi,3,332.8,0.1,898.57,656.63,241.94
+ORD-00474,2024-07-07,CUST-0036,Arjun Gupta,Corporate,Beverages,Groceries,West,Pune,4,81.06,0.2,280.14,214.53,65.61
+ORD-00475,2024-10-09,CUST-0029,Nikhil Iyer,Small Business,Jacket,Clothing,East,Patna,2,2724.6,0.3,5149.49,3093.31,2056.18
+ORD-00476,2024-01-29,CUST-0021,Meera Verma,Corporate,Jeans,Clothing,South,Hyderabad,4,1439.66,0.1,5597.4,3322.68,2274.72
+ORD-00477,2023-07-17,CUST-0019,Ishaan Sharma,Small Business,Smartwatch,Electronics,South,Bengaluru,1,4697.77,0.15,3993.1,2951.71,1041.39
+ORD-00478,2023-02-07,CUST-0009,Rohan Sharma,Consumer,Sneakers,Clothing,Central,Nagpur,6,2915.87,0.3,12246.67,7033.4,5213.27
+ORD-00479,2023-03-15,CUST-0120,Sara Patel,Consumer,Desk Organizer,Stationery,Central,Bhopal,1,732.96,0.1,659.67,407.98,251.69
+ORD-00480,2024-10-09,CUST-0089,Ananya Sharma,Small Business,Laptop,Electronics,South,Bengaluru,1,59451.29,0.3,56181.47,46395.6,9785.87
+ORD-00481,2024-09-01,CUST-0255,Kabir Verma,Consumer,Notebook Set,Stationery,North,Delhi,4,228.16,0.0,985.63,582.65,402.98
+ORD-00482,2023-11-26,CUST-0071,Meera Nair,Consumer,Snack Pack,Groceries,North,Lucknow,4,157.93,0.15,671.19,451.7,219.49
+ORD-00483,2024-03-25,CUST-0085,Kabir Reddy,Small Business,Cooking Oil,Groceries,East,Bhubaneswar,4,347.24,0.0,1500.09,1000.87,499.22
+ORD-00484,2023-01-07,CUST-0042,Ananya Gupta,Small Business,Cooking Oil,Groceries,North,Chandigarh,1,299.48,0.0,299.48,224.54,74.94
+ORD-00485,2024-06-19,CUST-0139,Meera Patel,Consumer,Cooking Oil,Groceries,South,Bengaluru,8,314.37,0.0,2716.16,1998.87,717.29
+ORD-00486,2023-12-23,CUST-0155,Rohan Gupta,Small Business,Spices Combo,Groceries,North,Lucknow,7,360.37,0.0,3153.2,2130.41,1022.79
+ORD-00487,2024-04-20,CUST-0113,Ananya Verma,Small Business,Backpack,Stationery,Central,Indore,4,1719.51,0.0,7428.3,4111.72,3316.58
+ORD-00488,2023-02-25,CUST-0023,Priya Gupta,Corporate,Beverages,Groceries,South,Bengaluru,6,86.13,0.1,465.11,318.23,146.88
+ORD-00489,2024-07-04,CUST-0027,Aditi Mehta,Small Business,Rice 5kg,Groceries,North,Lucknow,3,419.22,0.0,1358.29,975.05,383.24
+ORD-00490,2023-07-23,CUST-0215,Aarav Verma,Small Business,Spices Combo,Groceries,Central,Nagpur,6,378.41,0.0,2270.43,1577.86,692.57
+ORD-00491,2024-08-22,CUST-0242,Pooja Verma,Corporate,Sofa,Furniture,South,Bengaluru,8,20039.09,0.1,155823.99,94093.13,61730.86
+ORD-00492,2024-10-09,CUST-0100,Pooja Mehta,Small Business,Snack Pack,Groceries,South,Chennai,6,164.27,0.0,1330.56,926.56,404.0
+ORD-00493,2024-03-04,CUST-0235,Kabir Verma,Small Business,Jeans,Clothing,North,Chandigarh,3,1578.1,0.0,5113.05,3029.51,2083.54
+ORD-00494,2023-03-30,CUST-0118,Sara Nair,Small Business,Pen Pack,Stationery,Central,Indore,7,107.14,0.1,674.98,434.33,240.65
+ORD-00495,2023-09-10,CUST-0220,Nikhil Iyer,Corporate,Snack Pack,Groceries,North,Lucknow,4,144.82,0.15,492.38,334.83,157.55
+ORD-00496,2024-04-26,CUST-0021,Meera Verma,Corporate,Notebook Set,Stationery,West,Mumbai,1,246.28,0.1,239.39,143.04,96.35
+ORD-00497,2024-12-10,CUST-0007,Aarav Mehta,Consumer,Beverages,Groceries,South,Bengaluru,7,98.1,0.0,927.03,648.56,278.47
+ORD-00498,2024-08-07,CUST-0236,Meera Verma,Small Business,Smartwatch,Electronics,East,Kolkata,1,4928.78,0.1,4790.77,3939.96,850.81
+ORD-00499,2024-01-30,CUST-0037,Diya Reddy,Small Business,Sneakers,Clothing,North,Lucknow,6,3219.79,0.05,19821.02,10740.0,9081.02
+ORD-00500,2024-09-27,CUST-0042,Ananya Gupta,Small Business,Whiteboard,Stationery,South,Hyderabad,6,1675.44,0.0,10856.87,6533.32,4323.55
+ORD-00501,2024-09-25,CUST-0239,Priya Mehta,Corporate,Smartphone,Electronics,West,Pune,1,17516.06,0.0,18917.34,15192.8,3724.54
+ORD-00502,2024-10-26,CUST-0059,Ishaan Verma,Small Business,Desk,Furniture,East,Kolkata,8,9427.28,0.3,71270.27,47067.99,24202.28
+ORD-00503,2024-11-27,CUST-0258,Pooja Das,Consumer,Bookshelf,Furniture,East,Patna,7,4012.8,0.0,37920.98,24021.64,13899.34
+ORD-00504,2024-04-07,CUST-0150,Kabir Singh,Corporate,Smartwatch,Electronics,Central,Indore,6,4769.91,0.2,24727.23,20478.4,4248.83
+ORD-00505,2023-10-23,CUST-0092,Pooja Reddy,Corporate,Rice 5kg,Groceries,North,Chandigarh,2,414.84,0.05,985.25,654.34,330.91
+ORD-00506,2024-11-29,CUST-0214,Aarav Singh,Small Business,Dining Table,Furniture,North,Chandigarh,3,14921.71,0.1,54389.65,34956.33,19433.32
+ORD-00507,2024-02-26,CUST-0172,Aarav Iyer,Corporate,Smartphone,Electronics,South,Hyderabad,6,18560.74,0.3,84191.51,63388.11,20803.4
+ORD-00508,2023-11-10,CUST-0068,Arjun Verma,Consumer,Desk Organizer,Stationery,West,Pune,3,740.5,0.0,2776.87,1660.87,1116.0
+ORD-00509,2023-06-20,CUST-0234,Nikhil Singh,Small Business,Laptop,Electronics,East,Patna,3,57329.93,0.05,163390.31,119346.13,44044.18
+ORD-00510,2023-11-21,CUST-0022,Rohan Das,Small Business,Desk,Furniture,South,Bengaluru,3,8893.6,0.05,31683.45,19294.73,12388.72
+ORD-00511,2024-07-06,CUST-0230,Priya Gupta,Small Business,Jacket,Clothing,South,Chennai,3,2818.84,0.0,9133.04,5445.55,3687.49
+ORD-00512,2024-07-13,CUST-0003,Diya Rao,Consumer,Sofa,Furniture,East,Kolkata,6,22647.87,0.05,139420.31,90150.34,49269.97
+ORD-00513,2023-12-13,CUST-0227,Meera Gupta,Corporate,Pen Pack,Stationery,Central,Indore,2,104.63,0.0,261.58,145.63,115.95
+ORD-00514,2023-04-05,CUST-0183,Kabir Rao,Small Business,Spices Combo,Groceries,South,Chennai,6,364.4,0.2,1749.13,1182.59,566.54
+ORD-00515,2024-11-24,CUST-0229,Arjun Rao,Corporate,Jeans,Clothing,North,Delhi,2,1642.75,0.1,3991.89,2061.37,1930.52
+ORD-00516,2024-01-14,CUST-0219,Arjun Khan,Corporate,Headphones,Electronics,West,Mumbai,7,2436.42,0.05,17498.34,13225.38,4272.96
+ORD-00517,2024-03-01,CUST-0228,Ananya Nair,Consumer,Notebook Set,Stationery,South,Hyderabad,8,239.43,0.3,1448.08,908.47,539.61
+ORD-00518,2023-05-28,CUST-0045,Arjun Mehta,Corporate,Cooking Oil,Groceries,Central,Indore,4,307.41,0.3,860.74,622.87,237.87
+ORD-00519,2024-10-16,CUST-0210,Rohan Singh,Corporate,Desk Organizer,Stationery,North,Delhi,5,688.03,0.15,3947.58,2350.6,1596.98
+ORD-00520,2023-02-13,CUST-0252,Pooja Reddy,Corporate,Desk,Furniture,West,Pune,5,9602.25,0.05,45610.7,29611.97,15998.73
+ORD-00521,2023-05-08,CUST-0242,Pooja Verma,Corporate,Laptop,Electronics,East,Patna,5,54088.72,0.1,243399.26,205297.48,38101.78
+ORD-00522,2024-08-18,CUST-0186,Aarav Verma,Corporate,Sneakers,Clothing,North,Lucknow,8,3241.97,0.3,19607.42,10261.94,9345.48
+ORD-00523,2023-09-23,CUST-0009,Rohan Sharma,Consumer,Headphones,Electronics,Central,Indore,3,2540.83,0.0,7622.48,5731.12,1891.36
+ORD-00524,2024-10-13,CUST-0215,Aarav Verma,Small Business,Office Chair,Furniture,East,Patna,6,5913.33,0.05,45503.07,29752.16,15750.91
+ORD-00525,2023-11-20,CUST-0166,Neha Khan,Corporate,Office Chair,Furniture,Central,Bhopal,5,6202.9,0.2,31014.48,20918.8,10095.68
+ORD-00526,2024-01-17,CUST-0145,Meera Iyer,Consumer,Office Chair,Furniture,South,Hyderabad,8,6385.59,0.0,55171.52,33009.91,22161.61
+ORD-00527,2024-03-03,CUST-0059,Ishaan Verma,Small Business,Dining Table,Furniture,Central,Indore,8,16248.09,0.0,140383.53,97068.17,43315.36
+ORD-00528,2023-06-26,CUST-0176,Pooja Rao,Consumer,Jacket,Clothing,South,Chennai,5,2536.11,0.3,8876.37,4509.6,4366.77
+ORD-00529,2023-03-22,CUST-0067,,Small Business,Bookshelf,Furniture,South,Bengaluru,7,4360.29,0.3,21365.41,12809.07,8556.34
+ORD-00530,2024-11-06,CUST-0017,Sara Patel,Small Business,Rice 5kg,Groceries,South,Bengaluru,1,447.22,,573.56,375.24,198.32
+ORD-00531,2023-07-09,CUST-0103,Ishaan Patel,Consumer,Smartphone,Electronics,Central,Bhopal,6,16305.33,0.0,97832.0,81587.43,16244.57
+ORD-00532,2024-06-01,CUST-0124,Kabir Rao,Corporate,Jacket,Clothing,South,Hyderabad,2,2575.5,0.15,4728.62,2737.67,1990.95
+ORD-00533,2023-08-08,CUST-0051,Rohan Mehta,Consumer,Jeans,Clothing,Central,Bhopal,8,1459.94,0.15,9927.58,5116.32,4811.26
+ORD-00534,2024-02-22,CUST-0117,Aditi Das,Small Business,Sneakers,Clothing,West,Mumbai,2,3367.3,0.05,6909.7,3514.26,3395.44
+ORD-00535,2023-03-26,CUST-0021,Meera Verma,Corporate,Jacket,Clothing,Central,Indore,6,2796.48,0.1,15100.99,7946.1,7154.89
+ORD-00536,2024-03-14,CUST-0149,Meera Reddy,Consumer,Cooking Oil,Groceries,Central,Nagpur,4,342.83,0.3,1036.73,791.6,245.13
+ORD-00537,2024-06-19,CUST-0225,Aarav Reddy,Consumer,Smartwatch,Electronics,North,Chandigarh,2,4157.3,0.1,8081.78,6178.5,1903.28
+ORD-00538,2023-07-25,CUST-0174,Kunal Das,Corporate,Office Chair,Furniture,East,Kolkata,7,6009.59,0.3,29447.0,18852.31,10594.69
+ORD-00539,2023-12-31,CUST-0205,Kabir Singh,Corporate,Whiteboard,Stationery,East,Bhubaneswar,8,1653.34,0.1,14880.03,9798.54,5081.49
+ORD-00540,2024-05-24,CUST-0251,Pooja Khan,Consumer,Rice 5kg,Groceries,North,Chandigarh,4,461.55,0.0,1993.91,1300.59,693.32
+ORD-00541,2023-06-06,CUST-0168,Kabir Singh,Small Business,Rice 5kg,Groceries,South,Chennai,5,460.98,0.0,2304.89,1745.87,559.02
+ORD-00542,2024-05-17,CUST-0255,Kabir Verma,Consumer,Beverages,Groceries,South,Chennai,5,90.76,0.3,343.09,264.79,78.3
+ORD-00543,2023-11-19,CUST-0231,Ananya Gupta,Corporate,Smartwatch,Electronics,North,Chandigarh,7,4448.3,0.0,38922.63,27523.21,11399.42
+ORD-00544,2023-11-16,CUST-0069,Meera Verma,Corporate,Jeans,Clothing,West,Pune,7,1496.24,0.0,13092.07,7299.8,5792.27
+ORD-00545,2024-06-02,CUST-0081,Priya Singh,Corporate,Whiteboard,Stationery,West,Pune,1,1565.24,0.1,1521.42,929.47,591.95
+ORD-00546,2023-05-12,CUST-0024,Priya Reddy,Small Business,Jacket,Clothing,North,Delhi,6,2715.37,0.2,13033.78,7288.96,5744.82
+ORD-00547,2024-02-26,CUST-0183,Kabir Rao,Small Business,Rice 5kg,Groceries,West,Pune,6,410.08,0.0,2657.32,1816.69,840.63
+ORD-00548,2023-01-21,CUST-0087,Aditi Iyer,Corporate,Headphones,Electronics,North,Chandigarh,6,2268.69,0.2,10889.71,9111.26,1778.45
+ORD-00549,2023-11-21,CUST-0012,Ananya Verma,Corporate,T-Shirt,Clothing,West,Ahmedabad,7,608.44,0.05,5057.68,2822.08,2235.6
+ORD-00550,2023-06-20,CUST-0174,Kunal Das,Corporate,Bookshelf,Furniture,West,Ahmedabad,5,4085.2,0.1,18383.4,11236.46,7146.94
+ORD-00551,2023-02-18,CUST-0136,Diya Singh,Consumer,Tablet,Electronics,South,Chennai,5,17587.93,0.1,79145.68,65494.48,13651.2
+ORD-00552,2023-03-10,CUST-0140,Priya Mehta,Corporate,Notebook Set,Stationery,Central,Nagpur,8,246.36,0.05,1872.3,1189.81,682.49
+ORD-00553,2024-02-29,CUST-0103,Ishaan Patel,Consumer,Sneakers,Clothing,Central,Nagpur,7,3040.81,0.15,19540.24,10646.6,8893.64
+ORD-00554,2023-08-07,CUST-0256,Neha Das,Small Business,Tablet,Electronics,South,Hyderabad,8,15257.4,0.2,97647.33,76663.33,20984.0
+ORD-00555,2024-01-09,CUST-0103,Ishaan Patel,Consumer,Spices Combo,Groceries,North,Lucknow,8,371.82,0.0,3212.52,2427.02,785.5
+ORD-00556,2024-02-27,CUST-0105,Meera Nair,Small Business,Snack Pack,Groceries,North,Lucknow,5,159.71,0.2,689.95,463.04,226.91
+ORD-00557,2023-09-09,CUST-0015,Arjun Mehta,Consumer,Office Chair,Furniture,South,Bengaluru,5,6453.41,0.15,27426.98,19579.25,7847.73
+ORD-00558,2023-09-22,CUST-0015,Arjun Mehta,Consumer,Desk,Furniture,East,Kolkata,5,9285.61,0.0,46428.04,31049.13,15378.91
+ORD-00559,2023-03-07,CUST-0153,Nikhil Patel,Small Business,Smartphone,Electronics,North,Chandigarh,7,19428.38,0.2,108798.95,87535.19,21263.76
+ORD-00560,2023-05-04,CUST-0257,Meera Rao,Corporate,Desk,Furniture,North,Lucknow,5,8993.61,0.0,44968.06,27698.08,17269.98
+ORD-00561,2024-03-09,CUST-0121,Diya Iyer,Consumer,Cap,Clothing,West,Ahmedabad,4,325.1,0.0,1404.43,728.27,676.16
+ORD-00562,2024-12-17,CUST-0192,Neha Mehta,Corporate,Notebook Set,Stationery,West,Ahmedabad,2,240.82,0.1,585.2,349.35,235.85
+ORD-00563,2023-11-12,CUST-0189,Meera Verma,Corporate,Bookshelf,Furniture,West,Ahmedabad,1,4322.13,0.15,4592.27,2707.26,1885.01
+ORD-00564,2023-11-13,CUST-0197,Ishaan Rao,Corporate,Laptop,Electronics,East,Bhubaneswar,6,59434.73,0.2,356608.37,257129.04,99479.33
+ORD-00565,2023-04-03,CUST-0155,Rohan Gupta,Small Business,Rice 5kg,Groceries,West,Pune,4,431.77,0.3,1208.95,938.38,270.57
+ORD-00566,2024-04-27,CUST-0252,Pooja Reddy,Corporate,Rice 5kg,Groceries,East,Kolkata,7,488.38,0.05,3507.58,2635.26,872.32
+ORD-00567,2024-03-06,CUST-0181,Meera Das,Small Business,Bookshelf,Furniture,Central,Bhopal,6,4160.74,0.0,26961.59,18443.26,8518.33
+ORD-00568,2024-10-05,CUST-0103,Ishaan Patel,Consumer,Cooking Oil,Groceries,North,Chandigarh,5,308.08,0.0,2079.53,1380.72,698.81
+ORD-00569,2024-05-04,CUST-0232,Ananya Nair,Consumer,Dining Table,Furniture,West,Pune,3,14282.04,0.2,37019.05,24510.04,12509.01
+ORD-00570,2024-01-22,CUST-0202,Kabir Verma,Corporate,Smartwatch,Electronics,East,Kolkata,4,4068.66,0.0,17576.62,14869.92,2706.7
+ORD-00571,2023-02-20,CUST-0087,Aditi Iyer,Corporate,Smartwatch,Electronics,South,Chennai,7,4606.2,0.15,27406.91,20351.95,7054.96
+ORD-00572,2024-04-09,CUST-0223,Vivaan Khan,Consumer,Notebook Set,Stationery,North,Lucknow,8,230.93,0.2,1596.16,900.84,695.32
+ORD-00573,2024-03-17,CUST-0067,Priya Das,Small Business,Jacket,Clothing,West,Pune,4,2856.05,0.3,8636.68,4543.99,4092.69
+ORD-00574,2023-08-30,CUST-0135,Priya Nair,Small Business,Cooking Oil,Groceries,North,Chandigarh,8,346.07,0.05,2630.12,1925.08,705.04
+ORD-00575,2024-12-04,CUST-0204,Arjun Singh,Consumer,Cooking Oil,Groceries,East,Bhubaneswar,4,333.65,0.2,1441.38,1021.87,419.51
+ORD-00576,2024-04-27,CUST-0121,Diya Iyer,Consumer,Notebook Set,Stationery,North,Chandigarh,6,274.84,0.2,1424.75,934.73,490.02
+ORD-00577,2023-11-06,CUST-0196,Meera Iyer,Corporate,Smartphone,Electronics,East,Bhubaneswar,7,18616.54,0.0,162894.75,138951.99,23942.76
+ORD-00578,2024-04-24,CUST-0174,Kunal Das,Corporate,Jeans,Clothing,Central,Nagpur,3,1376.89,0.2,3568.91,1974.84,1594.07
+ORD-00579,2024-03-16,CUST-0185,Meera Gupta,Small Business,Laptop,Electronics,West,Pune,5,59430.72,0.05,304879.59,243177.24,61702.35
+ORD-00580,2023-06-04,CUST-0252,Pooja Reddy,Corporate,Sneakers,Clothing,South,Chennai,8,2914.06,0.0,23312.5,11679.62,11632.88
+ORD-00581,2023-02-11,CUST-0254,Rohan Mehta,Consumer,Sofa,Furniture,West,Mumbai,8,21368.69,0.2,136759.61,89975.66,46783.95
+ORD-00582,2023-10-18,CUST-0105,Meera Nair,Small Business,Office Chair,Furniture,East,Kolkata,3,6935.44,0.2,20806.32,13547.74,7258.58
+ORD-00583,2024-03-02,CUST-0093,Vivaan Gupta,Corporate,Pen Pack,Stationery,Central,Bhopal,2,94.92,0.1,184.53,114.64,69.89
+ORD-00584,2023-11-28,CUST-0055,Aarav Nair,Corporate,Smartwatch,Electronics,East,Bhubaneswar,3,4075.99,0.1,13756.46,11439.72,2316.74
+ORD-00585,2024-11-02,CUST-0023,Priya Gupta,Corporate,Cap,Clothing,North,Chandigarh,8,337.74,0.2,2918.11,1765.4,1152.71
+ORD-00586,2023-11-27,CUST-0145,Meera Iyer,Consumer,Desk,Furniture,North,Lucknow,1,9438.84,0.15,10028.77,7107.86,2920.91
+ORD-00587,2023-08-02,CUST-0011,Diya Reddy,Corporate,Desk,Furniture,West,Mumbai,3,8799.31,0.1,23758.12,14778.54,8979.58
+ORD-00588,2024-12-02,CUST-0159,Ananya Singh,Small Business,Headphones,Electronics,West,Pune,3,2429.52,0.0,9839.56,8184.55,1655.01
+ORD-00589,2023-04-03,CUST-0217,Aditi Sharma,Corporate,Beverages,Groceries,East,Bhubaneswar,7,95.6,0.15,568.81,383.85,184.96
+ORD-00590,2024-10-25,CUST-0115,Diya Khan,Consumer,Backpack,Stationery,West,Ahmedabad,3,1955.04,0.15,6730.23,4142.77,2587.46
+ORD-00591,2023-05-11,CUST-0077,Diya Rao,Small Business,Rice 5kg,Groceries,West,Pune,5,480.74,0.15,2043.14,1449.8,593.34
+ORD-00592,2024-02-27,CUST-0218,Nikhil Khan,Consumer,Tablet,Electronics,North,Lucknow,2,15886.9,0.2,27452.56,21706.26,5746.3
+ORD-00593,2023-07-03,CUST-0237,Sara Patel,Small Business,Tablet,Electronics,North,Delhi,3,17097.31,0.0,51291.93,36673.39,14618.54
+ORD-00594,2023-12-16,CUST-0136,Diya Singh,Consumer,Desk Organizer,Stationery,West,Ahmedabad,3,659.55,0.0,2473.31,1557.3,916.01
+ORD-00595,2024-02-09,CUST-0003,Diya Rao,Consumer,Smartwatch,Electronics,Central,Bhopal,2,4061.97,0.2,7019.09,5449.84,1569.25
+ORD-00596,2024-12-08,CUST-0185,,Small Business,Desk Organizer,Stationery,East,Bhubaneswar,7,742.65,0.0,7018.04,3895.09,3122.95
+ORD-00597,2024-10-26,CUST-0247,Rohan Khan,Consumer,Laptop,Electronics,North,Delhi,3,56647.14,0.1,206478.82,172072.43,34406.39
+ORD-00598,2024-03-08,CUST-0243,Priya Patel,Corporate,Headphones,Electronics,West,Mumbai,1,2308.23,0.0,2492.89,2037.31,455.58
+ORD-00599,2023-10-29,CUST-0104,Nikhil Verma,Small Business,Smartwatch,Electronics,Central,Bhopal,7,4095.83,0.0,35838.51,25732.61,10105.9
+ORD-00600,2023-02-07,CUST-0149,Meera Reddy,Consumer,Beverages,Groceries,Central,Indore,8,88.19,0.15,599.72,439.66,160.06
+ORD-00601,2024-03-08,CUST-0010,Neha Khan,Corporate,Cooking Oil,Groceries,North,Lucknow,6,323.41,0.05,1990.9,1546.08,444.82
+ORD-00602,2023-01-22,CUST-0224,Ishaan Patel,Consumer,Spices Combo,Groceries,East,Patna,3,383.04,0.0,1149.12,822.28,326.84
+ORD-00603,2023-05-15,CUST-0240,Priya Verma,Small Business,Backpack,Stationery,Central,Indore,5,1880.28,0.1,8461.25,5543.61,2917.64
+ORD-00604,2023-10-17,CUST-0107,Neha Patel,Small Business,Sneakers,Clothing,South,Hyderabad,2,3306.92,0.0,8267.29,4249.9,4017.39
+ORD-00605,2024-07-24,CUST-0108,Kunal Iyer,Consumer,Beverages,Groceries,East,Kolkata,1,98.99,0.05,101.56,78.69,22.87
+ORD-00606,2023-04-27,CUST-0221,Rohan Verma,Corporate,Notebook Set,Stationery,North,Chandigarh,4,231.03,0.0,924.14,552.97,371.17
+ORD-00607,2024-12-24,CUST-0054,Aditi Mehta,Small Business,Tablet,Electronics,East,Kolkata,1,17365.22,0.1,21098.75,17441.11,3657.64
+ORD-00608,2024-06-03,CUST-0022,Rohan Das,Small Business,Tablet,Electronics,Central,Bhopal,2,14934.55,0.0,32258.62,27028.07,5230.55
+ORD-00609,2023-06-07,CUST-0051,Rohan Mehta,Consumer,Sneakers,Clothing,Central,Nagpur,6,3094.15,0.0,18564.89,9440.77,9124.12
+ORD-00610,2024-06-01,CUST-0147,Pooja Reddy,Consumer,Laptop,Electronics,West,Pune,3,50437.57,0.05,155246.85,126304.36,28942.49
+ORD-00611,2023-05-22,CUST-0117,Aditi Das,Small Business,Desk,Furniture,Central,Nagpur,7,8844.14,0.1,55718.06,39100.06,16618.0
+ORD-00612,2024-06-13,CUST-0006,Kabir Reddy,Small Business,T-Shirt,Clothing,West,Mumbai,2,550.17,0.05,1128.96,608.71,520.25
+ORD-00613,2024-10-08,CUST-0030,Meera Patel,Corporate,Rice 5kg,Groceries,South,Hyderabad,5,442.74,0.2,2390.78,1790.49,600.29
+ORD-00614,2024-12-18,CUST-0076,Pooja Reddy,Small Business,Jacket,Clothing,North,Chandigarh,7,2769.87,0.0,26175.23,15512.33,10662.9
+ORD-00615,2023-03-28,CUST-0155,Rohan Gupta,Small Business,Snack Pack,Groceries,West,Mumbai,1,151.12,0.1,136.01,102.34,33.67
+ORD-00616,2024-06-17,CUST-0160,Kabir Iyer,Consumer,Backpack,Stationery,South,Bengaluru,6,1892.54,0.0,12263.64,6656.83,5606.81
+ORD-00617,2024-06-01,CUST-0217,Aditi Sharma,Corporate,Jeans,Clothing,East,Bhubaneswar,2,1569.6,0.3,2373.23,1272.12,1101.11
+ORD-00618,2024-04-09,CUST-0003,Diya Rao,Consumer,Smartphone,Electronics,West,Pune,6,19738.62,0.3,89534.39,73269.42,16264.97
+ORD-00619,2023-10-19,CUST-0154,Kunal Sharma,Consumer,Whiteboard,Stationery,South,Chennai,3,1668.59,0.15,5318.64,3342.77,1975.87
+ORD-00620,2024-12-29,CUST-0076,Pooja Reddy,Small Business,Bookshelf,Furniture,West,Mumbai,7,4475.89,0.0,42297.14,25251.07,17046.07
+ORD-00621,2024-08-25,CUST-0207,Pooja Sharma,Corporate,Sofa,Furniture,North,Chandigarh,7,23636.87,0.15,151890.5,98705.67,53184.83
+ORD-00622,2023-05-11,CUST-0259,Ishaan Iyer,Consumer,Beverages,Groceries,South,Bengaluru,8,93.8,0.0,750.41,590.87,159.54
+ORD-00623,2024-07-26,CUST-0081,Priya Singh,Corporate,Sofa,Furniture,West,Mumbai,6,23855.47,0.0,154583.43,102520.97,52062.46
+ORD-00624,2023-05-01,CUST-0079,Neha Reddy,Consumer,Backpack,Stationery,North,Lucknow,6,1729.77,0.05,9859.71,5683.05,4176.66
+ORD-00625,2023-10-18,CUST-0157,Neha Khan,Small Business,Dining Table,Furniture,West,Mumbai,4,14049.23,0.2,56196.93,36446.14,19750.79
+ORD-00626,2024-08-02,CUST-0159,Ananya Singh,Small Business,Smartwatch,Electronics,West,Ahmedabad,8,4860.26,0.3,29394.84,22365.35,7029.49
+ORD-00627,2024-04-05,CUST-0236,Meera Verma,Small Business,Desk,Furniture,Central,Indore,8,8368.17,0.2,57840.78,36282.26,21558.52
+ORD-00628,2024-07-07,CUST-0174,Kunal Das,Corporate,Beverages,Groceries,South,Chennai,1,98.25,0.1,95.49,72.0,23.49
+ORD-00629,2024-10-21,CUST-0064,Neha Reddy,Small Business,Tablet,Electronics,East,Bhubaneswar,2,15015.77,0.15,34461.18,27104.62,7356.56
+ORD-00630,2023-05-04,CUST-0010,Neha Khan,Corporate,Pen Pack,Stationery,West,Ahmedabad,3,109.25,0.05,311.36,197.53,113.83
+ORD-00631,2024-02-16,CUST-0165,Sara Mehta,Corporate,Desk Organizer,Stationery,North,Lucknow,1,698.81,0.0,754.71,438.33,316.38
+ORD-00632,2023-04-28,CUST-0047,Ananya Patel,Small Business,Backpack,Stationery,West,Pune,2,1815.04,0.05,3448.58,1921.84,1526.74
+ORD-00633,2023-07-05,CUST-0167,Sara Mehta,Consumer,Sneakers,Clothing,South,Bengaluru,1,3336.51,0.05,3169.69,1704.96,1464.73
+ORD-00634,2023-07-27,CUST-0027,Aditi Mehta,Small Business,Jacket,Clothing,West,Mumbai,4,2941.19,0.15,10000.06,5210.17,4789.89
+ORD-00635,2024-07-20,CUST-0238,Ananya Nair,Consumer,Headphones,Electronics,North,Chandigarh,7,2282.73,0.0,17257.43,13211.75,4045.68
+ORD-00636,2023-09-10,CUST-0052,Ananya Patel,Corporate,Cap,Clothing,Central,Indore,3,336.32,0.1,908.07,494.04,414.03
+ORD-00637,2024-07-04,CUST-0126,,Corporate,Bookshelf,Furniture,Central,Bhopal,7,4587.54,0.15,29479.5,18976.73,10502.77
+ORD-00638,2024-05-08,CUST-0031,Vivaan Reddy,Consumer,Backpack,Stationery,South,Bengaluru,5,1835.23,0.3,6937.18,4312.15,2625.03
+ORD-00639,2023-06-15,CUST-0024,Priya Reddy,Small Business,Dining Table,Furniture,Central,Nagpur,2,14401.92,0.1,25923.45,17518.96,8404.49
+ORD-00640,2023-11-22,CUST-0259,Ishaan Iyer,Consumer,Sneakers,Clothing,South,Hyderabad,6,3286.51,0.3,17254.17,9884.1,7370.07
+ORD-00641,2023-01-17,CUST-0169,,Small Business,Jacket,Clothing,South,Chennai,3,2882.01,,8646.02,4858.77,3787.25
+ORD-00642,2024-02-07,CUST-0251,Pooja Khan,Consumer,Sofa,Furniture,Central,Indore,2,23264.14,0.2,40200.44,26920.81,13279.63
+ORD-00643,2024-02-01,CUST-0184,,Corporate,Rice 5kg,Groceries,East,Patna,3,480.52,0.3,1089.83,815.6,274.23
+ORD-00644,2023-10-15,CUST-0011,Diya Reddy,Corporate,Sofa,Furniture,North,Delhi,6,20642.65,0.3,108373.92,72041.3,36332.62
+ORD-00645,2024-05-19,CUST-0144,Neha Patel,Small Business,Sofa,Furniture,East,Kolkata,4,19831.4,0.3,59970.14,40059.86,19910.28
+ORD-00646,2024-11-06,CUST-0100,Pooja Mehta,Small Business,Desk Organizer,Stationery,South,Hyderabad,3,639.15,0.0,2588.56,1629.54,959.02
+ORD-00647,2024-12-10,CUST-0012,Ananya Verma,Corporate,Dining Table,Furniture,East,Kolkata,5,15542.04,0.1,94417.9,55258.47,39159.43
+ORD-00648,2023-05-05,CUST-0141,Diya Reddy,Consumer,Headphones,Electronics,West,Pune,8,2497.79,0.15,16984.95,13934.58,3050.37
+ORD-00649,2023-01-06,CUST-0162,Kabir Khan,Corporate,Sneakers,Clothing,Central,Nagpur,7,3004.55,0.0,21031.84,12446.87,8584.97
+ORD-00650,2023-06-18,CUST-0101,Aditi Sharma,Small Business,Sofa,Furniture,North,Delhi,6,21167.55,0.2,101604.22,67697.7,33906.52
+ORD-00651,2023-04-21,CUST-0127,Rohan Sharma,Consumer,Tablet,Electronics,East,Patna,8,15162.75,0.05,115236.9,95862.43,19374.47
+ORD-00652,2023-04-08,CUST-0225,Aarav Reddy,Consumer,Office Chair,Furniture,Central,Indore,8,6602.61,0.0,52820.92,37592.03,15228.89
+ORD-00653,2023-11-05,CUST-0029,Nikhil Iyer,Small Business,Laptop,Electronics,North,Chandigarh,7,50223.69,0.2,351565.85,249858.99,101706.86
+ORD-00654,2024-09-05,CUST-0120,Sara Patel,Consumer,Rice 5kg,Groceries,Central,Nagpur,1,445.81,0.1,433.32,330.41,102.91
+ORD-00655,2024-08-24,CUST-0169,Nikhil Patel,Small Business,T-Shirt,Clothing,West,Ahmedabad,4,552.96,0.0,2388.79,1338.84,1049.95
+ORD-00656,2023-12-30,CUST-0132,Neha Mehta,Consumer,Dining Table,Furniture,South,Hyderabad,7,14944.2,0.15,111147.47,71445.72,39701.75
+ORD-00657,2024-06-09,CUST-0224,Ishaan Patel,Consumer,Laptop,Electronics,East,Bhubaneswar,6,52923.07,0.15,291500.27,239898.11,51602.16
+ORD-00658,2023-02-28,CUST-0075,Meera Iyer,Small Business,Jacket,Clothing,East,Kolkata,4,2803.98,0.3,7851.15,4369.48,3481.67
+ORD-00659,2024-11-14,CUST-0097,Sara Reddy,Consumer,Desk,Furniture,North,Chandigarh,8,9350.61,0.1,90887.9,60255.87,30632.03
+ORD-00660,2023-06-16,CUST-0169,Nikhil Patel,Small Business,Cap,Clothing,East,Patna,2,346.8,0.3,485.52,288.96,196.56
+ORD-00661,2023-09-02,CUST-0110,Nikhil Gupta,Small Business,Desk,Furniture,West,Ahmedabad,8,9422.26,0.3,52764.63,33141.3,19623.33
+ORD-00662,2024-01-02,CUST-0038,Rohan Rao,Small Business,Office Chair,Furniture,East,Kolkata,1,6571.1,0.0,7096.79,4419.7,2677.09
+ORD-00663,2023-10-18,CUST-0102,Ishaan Gupta,Consumer,T-Shirt,Clothing,North,Delhi,3,566.27,0.05,2017.35,1158.1,859.25
+ORD-00664,2023-04-14,CUST-0135,Priya Nair,Small Business,Desk,Furniture,North,Delhi,1,9596.6,0.0,9596.6,6086.74,3509.86
+ORD-00665,2024-01-17,CUST-0190,Diya Das,Small Business,Bookshelf,Furniture,West,Mumbai,3,4570.58,0.3,10366.07,7408.63,2957.44
+ORD-00666,2023-07-16,CUST-0098,Vivaan Rao,Corporate,Smartphone,Electronics,South,Bengaluru,7,18699.67,0.05,124352.83,98926.37,25426.46
+ORD-00667,2023-06-02,CUST-0151,Rohan Verma,Corporate,Tablet,Electronics,Central,Bhopal,6,15190.95,0.2,72916.56,60237.5,12679.06
+ORD-00668,2024-04-26,CUST-0042,Ananya Gupta,Small Business,Desk Organizer,Stationery,South,Hyderabad,2,653.44,0.1,1270.29,800.48,469.81
+ORD-00669,2024-12-30,CUST-0165,Sara Mehta,Corporate,Spices Combo,Groceries,West,Mumbai,6,402.04,0.1,2930.86,2201.23,729.63
+ORD-00670,2023-07-27,CUST-0113,Ananya Verma,Small Business,Spices Combo,Groceries,North,Delhi,8,429.05,0.1,3089.18,2099.03,990.15
+ORD-00671,2023-05-18,CUST-0044,Ishaan Singh,Corporate,Bookshelf,Furniture,East,Bhubaneswar,2,4027.84,0.15,6847.33,4318.64,2528.69
+ORD-00672,2024-03-18,CUST-0240,Priya Verma,Small Business,Backpack,Stationery,West,Pune,7,1752.3,0.1,11922.68,6891.82,5030.86
+ORD-00673,2023-10-29,CUST-0043,Aditi Patel,Corporate,Bookshelf,Furniture,North,Chandigarh,2,4440.13,0.0,11100.33,6635.7,4464.63
+ORD-00674,2023-09-14,CUST-0169,Nikhil Patel,Small Business,Bookshelf,Furniture,South,Hyderabad,5,4405.98,0.3,15420.92,10391.54,5029.38
+ORD-00675,2023-10-16,CUST-0154,Kunal Sharma,Consumer,Dining Table,Furniture,East,Kolkata,6,15849.38,0.1,106983.35,75739.5,31243.85
+ORD-00676,2023-08-22,CUST-0204,Arjun Singh,Consumer,Smartwatch,Electronics,Central,Bhopal,4,4701.0,0.0,18804.01,14592.14,4211.87
+ORD-00677,2023-07-12,CUST-0161,Neha Sharma,Small Business,Beverages,Groceries,East,Kolkata,7,94.86,0.2,531.23,376.19,155.04
+ORD-00678,2023-11-09,CUST-0066,Nikhil Patel,Small Business,Headphones,Electronics,South,Hyderabad,1,2499.9,0.2,2499.9,2080.29,419.61
+ORD-00679,2024-08-04,CUST-0012,Ananya Verma,Corporate,Spices Combo,Groceries,East,Patna,1,433.77,0.0,468.47,369.49,98.98
+ORD-00680,2023-07-29,CUST-0196,Meera Iyer,Corporate,Whiteboard,Stationery,Central,Nagpur,7,1460.39,0.1,9200.44,5176.17,4024.27
+ORD-00681,2024-11-22,CUST-0054,Aditi Mehta,Small Business,Snack Pack,Groceries,North,Delhi,3,135.96,0.2,440.52,323.73,116.79
+ORD-00682,2024-11-06,CUST-0150,Kabir Singh,Corporate,Snack Pack,Groceries,South,Bengaluru,2,148.64,0.05,381.26,275.52,105.74
+ORD-00683,2024-07-03,CUST-0067,Priya Das,Small Business,Beverages,Groceries,South,Bengaluru,7,89.61,0.0,677.44,476.93,200.51
+ORD-00684,2023-06-12,CUST-0244,Diya Singh,Consumer,Bookshelf,Furniture,West,Ahmedabad,5,4273.49,0.15,18162.35,12317.35,5845.0
+ORD-00685,2024-06-22,CUST-0127,Rohan Sharma,Consumer,Sofa,Furniture,North,Chandigarh,6,23805.33,0.1,138832.69,89523.01,49309.68
+ORD-00686,2024-02-05,CUST-0153,Nikhil Patel,Small Business,Sneakers,Clothing,East,Bhubaneswar,3,3145.63,0.0,10191.85,6053.92,4137.93
+ORD-00687,2023-09-03,CUST-0023,Priya Gupta,Corporate,Dining Table,Furniture,North,Chandigarh,3,14321.33,0.2,34371.19,22509.89,11861.3
+ORD-00688,2024-01-13,CUST-0063,Rohan Mehta,Small Business,Sofa,Furniture,West,Ahmedabad,2,23123.75,0.15,42455.2,29066.96,13388.24
+ORD-00689,2023-01-28,CUST-0237,Sara Patel,Small Business,Jeans,Clothing,Central,Bhopal,2,1541.66,0.2,2466.66,1424.42,1042.24
+ORD-00690,2023-04-28,CUST-0129,Aarav Khan,Consumer,Sofa,Furniture,North,Delhi,3,21239.29,0.2,50974.29,32896.36,18077.93
+ORD-00691,2023-06-15,CUST-0143,Aditi Rao,Corporate,Sofa,Furniture,South,Chennai,3,23489.38,0.15,59897.92,35822.97,24074.95
+ORD-00692,2024-11-24,CUST-0006,Kabir Reddy,Small Business,Cooking Oil,Groceries,North,Lucknow,5,297.82,0.05,1909.79,1286.48,623.31
+ORD-00693,2024-10-12,CUST-0025,Rohan Rao,Small Business,Pen Pack,Stationery,West,Ahmedabad,2,97.81,0.05,250.89,148.85,102.04
+ORD-00694,2023-07-24,CUST-0123,Diya Iyer,Corporate,Cooking Oil,Groceries,South,Chennai,2,289.03,0.0,578.05,456.92,121.13
+ORD-00695,2023-06-21,CUST-0086,Arjun Gupta,Corporate,Laptop,Electronics,North,Lucknow,1,54072.48,0.0,54072.48,44838.92,9233.56
+ORD-00696,2023-05-04,CUST-0220,,Corporate,Pen Pack,Stationery,Central,Nagpur,4,94.28,0.05,358.25,207.36,150.89
+ORD-00697,2023-03-09,CUST-0113,Ananya Verma,Small Business,Smartwatch,Electronics,South,Chennai,5,4634.95,0.05,22016.01,15606.15,6409.86
+ORD-00698,2023-09-15,CUST-0088,Meera Verma,Corporate,Desk Organizer,Stationery,North,Lucknow,2,713.98,0.2,1142.37,712.33,430.04
+ORD-00699,2024-11-13,CUST-0163,Ishaan Patel,Corporate,Bookshelf,Furniture,South,Hyderabad,8,3836.71,0.0,41436.48,27518.35,13918.13
+ORD-00700,2023-08-27,CUST-0007,Aarav Mehta,Consumer,Dining Table,Furniture,Central,Indore,1,15349.05,0.0,15349.05,9595.46,5753.59
+ORD-00701,2024-05-25,CUST-0192,Neha Mehta,Corporate,Notebook Set,Stationery,North,Delhi,5,235.1,0.1,1142.59,645.02,497.57
+ORD-00702,2023-11-22,CUST-0143,Aditi Rao,Corporate,Desk Organizer,Stationery,East,Kolkata,1,702.92,0.1,790.79,488.52,302.27
+ORD-00703,2024-11-11,CUST-0028,Meera Gupta,Corporate,Jacket,Clothing,South,Bengaluru,4,2968.81,0.2,12825.27,7363.57,5461.7
+ORD-00704,2023-03-08,CUST-0004,Ishaan Nair,Corporate,Jeans,Clothing,West,Ahmedabad,8,1371.0,0.0,10967.96,5492.01,5475.95
+ORD-00705,2023-08-30,CUST-0105,Meera Nair,Small Business,Office Chair,Furniture,South,Hyderabad,2,6404.11,0.1,11527.4,7210.28,4317.12
+ORD-00706,2024-08-13,CUST-0147,Pooja Reddy,Consumer,Dining Table,Furniture,South,Chennai,8,16403.18,0.0,141723.45,87916.99,53806.46
+ORD-00707,2024-03-27,CUST-0242,Pooja Verma,Corporate,Sneakers,Clothing,West,Mumbai,7,3203.39,0.2,19374.09,10513.88,8860.21
+ORD-00708,2023-11-04,CUST-0043,Aditi Patel,Corporate,Rice 5kg,Groceries,West,Pune,3,454.76,0.0,1705.34,1168.24,537.1
+ORD-00709,2023-12-08,CUST-0037,Diya Reddy,Small Business,Spices Combo,Groceries,Central,Nagpur,3,417.19,,1564.46,1048.63,515.83
+ORD-00710,2024-02-09,CUST-0213,Arjun Gupta,Small Business,Backpack,Stationery,West,Pune,6,1758.25,0.05,10823.81,6677.49,4146.32
+ORD-00711,2023-07-18,CUST-0084,Kunal Verma,Consumer,Smartphone,Electronics,West,Ahmedabad,7,19645.55,0.3,96263.19,81288.62,14974.57
+ORD-00712,2024-03-10,CUST-0198,Meera Iyer,Corporate,Snack Pack,Groceries,North,Lucknow,4,142.27,0.0,614.61,479.82,134.79
+ORD-00713,2024-11-28,CUST-0234,Nikhil Singh,Small Business,Laptop,Electronics,East,Bhubaneswar,3,52297.17,0.15,180033.0,142625.98,37407.02
+ORD-00714,2024-06-14,CUST-0042,Ananya Gupta,Small Business,Smartphone,Electronics,West,Pune,4,19353.62,0.0,83607.65,69514.82,14092.83
+ORD-00715,2023-04-02,CUST-0211,Aarav Singh,Corporate,Desk Organizer,Stationery,Central,Nagpur,2,719.07,0.3,1006.69,639.96,366.73
+ORD-00716,2024-05-18,CUST-0087,Aditi Iyer,Corporate,Sofa,Furniture,East,Kolkata,1,20226.23,0.3,15291.03,10329.41,4961.62
+ORD-00717,2024-12-21,CUST-0096,Pooja Gupta,Consumer,Cooking Oil,Groceries,South,Chennai,3,300.67,0.0,1217.73,877.22,340.51
+ORD-00718,2023-07-16,CUST-0094,Aarav Singh,Corporate,Desk,Furniture,South,Bengaluru,5,9869.3,0.3,34542.57,22043.1,12499.47
+ORD-00719,2023-05-08,CUST-0194,Arjun Iyer,Consumer,Office Chair,Furniture,East,Kolkata,5,5933.54,0.0,29667.71,19614.33,10053.38
+ORD-00720,2024-11-12,CUST-0004,Ishaan Nair,Corporate,Smartphone,Electronics,North,Chandigarh,1,16548.63,0.15,18989.55,15676.23,3313.32
+ORD-00721,2023-12-11,CUST-0220,Nikhil Iyer,Corporate,Sneakers,Clothing,West,Pune,6,3316.39,0.05,23629.28,14294.27,9335.01
+ORD-00722,2023-12-05,CUST-0183,Kabir Rao,Small Business,Beverages,Groceries,Central,Bhopal,2,81.06,0.3,141.85,106.18,35.67
+ORD-00723,2024-12-17,CUST-0144,Neha Patel,Small Business,Office Chair,Furniture,Central,Bhopal,4,6328.96,0.15,29049.92,19585.57,9464.35
+ORD-00724,2023-02-16,CUST-0185,Meera Gupta,Small Business,Office Chair,Furniture,East,Kolkata,6,6731.31,0.0,40387.85,26812.65,13575.2
+ORD-00725,2024-01-30,CUST-0052,Ananya Patel,Corporate,Headphones,Electronics,West,Pune,5,2553.59,0.2,11031.5,7990.48,3041.02
+ORD-00726,2023-11-05,CUST-0045,Arjun Mehta,Corporate,Notebook Set,Stationery,South,Chennai,8,233.4,0.1,2100.62,1375.08,725.54
+ORD-00727,2023-04-19,CUST-0046,Aarav Patel,Small Business,Desk,Furniture,South,Hyderabad,7,9888.05,0.0,69216.35,41933.38,27282.97
+ORD-00728,2024-11-17,CUST-0244,Diya Singh,Consumer,Jeans,Clothing,East,Bhubaneswar,2,1549.64,0.15,3556.43,2008.28,1548.15
+ORD-00729,2024-10-21,CUST-0034,Kunal Reddy,Small Business,Jeans,Clothing,Central,Indore,6,1463.1,0.2,9480.91,5467.89,4013.02
+ORD-00730,2023-04-29,CUST-0133,Ananya Verma,Small Business,Desk Organizer,Stationery,South,Bengaluru,5,642.28,0.0,3211.38,1865.26,1346.12
+ORD-00731,2024-01-25,CUST-0161,Neha Sharma,Small Business,Tablet,Electronics,East,Kolkata,1,15394.56,0.15,14132.2,11101.61,3030.59
+ORD-00732,2023-04-20,CUST-0114,Kabir Mehta,Corporate,Jacket,Clothing,South,Hyderabad,7,2525.15,0.3,12373.21,6751.64,5621.57
+ORD-00733,2023-05-30,CUST-0146,Ananya Singh,Consumer,Sofa,Furniture,West,Mumbai,1,22435.07,0.05,21313.32,13860.25,7453.07
+ORD-00734,2024-12-22,CUST-0150,Kabir Singh,Corporate,Desk Organizer,Stationery,South,Chennai,7,638.23,0.3,4221.92,2448.62,1773.3
+ORD-00735,2023-11-03,CUST-0201,Nikhil Rao,Consumer,Office Chair,Furniture,South,Chennai,3,7138.38,0.15,22753.59,14471.22,8282.37
+ORD-00736,2023-10-17,CUST-0145,Meera Iyer,Consumer,Sneakers,Clothing,West,Mumbai,4,3328.71,0.15,14147.02,7615.55,6531.47
+ORD-00737,2024-08-14,CUST-0084,Kunal Verma,Consumer,Notebook Set,Stationery,East,Patna,3,247.09,0.1,720.53,414.25,306.28
+ORD-00738,2024-11-25,CUST-0053,Kabir Gupta,Corporate,Office Chair,Furniture,East,Bhubaneswar,3,6339.52,0.1,23107.56,15558.96,7548.6
+ORD-00739,2024-06-11,CUST-0061,Diya Gupta,Small Business,Sneakers,Clothing,South,Bengaluru,6,3259.77,0.0,21123.32,11912.85,9210.47
+ORD-00740,2024-10-30,CUST-0089,Ananya Sharma,Small Business,Sofa,Furniture,West,Pune,7,23213.74,0.3,153558.88,103221.61,50337.27
+ORD-00741,2023-05-03,CUST-0006,Kabir Reddy,Small Business,Snack Pack,Groceries,West,Pune,2,137.48,0.1,247.46,183.21,64.25
+ORD-00742,2024-12-11,CUST-0141,Diya Reddy,Consumer,Whiteboard,Stationery,Central,Nagpur,2,1694.19,0.0,4574.31,2680.89,1893.42
+ORD-00743,2023-03-07,CUST-0167,Sara Mehta,Consumer,Cap,Clothing,South,Bengaluru,3,343.37,0.2,824.1,409.72,414.38
+ORD-00744,2023-08-01,CUST-0064,,Small Business,Desk Organizer,Stationery,North,Lucknow,2,655.29,0.15,1114.0,694.5,419.5
+ORD-00745,2024-10-30,CUST-0106,Vivaan Nair,Consumer,T-Shirt,Clothing,North,Delhi,3,550.54,0.05,2118.2,1246.9,871.3
+ORD-00746,2024-03-09,CUST-0088,Meera Verma,Corporate,Backpack,Stationery,East,Bhubaneswar,1,1709.4,0.0,1846.15,1206.54,639.61
+ORD-00747,2024-12-12,CUST-0252,Pooja Reddy,Corporate,Desk Organizer,Stationery,South,Hyderabad,6,703.17,0.05,5410.92,3315.49,2095.43
+ORD-00748,2023-11-03,CUST-0073,Vivaan Reddy,Consumer,Laptop,Electronics,North,Delhi,4,60031.65,0.15,255134.52,201077.39,54057.13
+ORD-00749,2023-09-24,CUST-0131,Arjun Mehta,Small Business,Desk Organizer,Stationery,North,Lucknow,7,720.97,0.0,5046.77,2967.54,2079.23
+ORD-00750,2024-10-06,CUST-0037,Diya Reddy,Small Business,Cooking Oil,Groceries,Central,Bhopal,5,351.7,0.2,1899.2,1407.24,491.96
+ORD-00751,2023-11-20,CUST-0079,Neha Reddy,Consumer,Whiteboard,Stationery,South,Chennai,7,1561.26,0.15,11611.88,6615.28,4996.6
+ORD-00752,2024-01-07,CUST-0046,Aarav Patel,Small Business,Desk Organizer,Stationery,North,Chandigarh,6,738.93,,4788.27,3084.9,1703.37
+ORD-00753,2023-06-29,CUST-0064,Neha Reddy,Small Business,Cooking Oil,Groceries,West,Mumbai,5,325.68,0.3,13678.800000000001,819.02,320.88
+ORD-00754,2023-02-19,CUST-0051,Rohan Mehta,Consumer,Cap,Clothing,East,Bhubaneswar,3,337.26,0.3,708.25,380.93,327.32
+ORD-00755,2024-08-29,CUST-0245,Rohan Nair,Small Business,Whiteboard,Stationery,Central,Nagpur,3,1522.9,0.2,3947.36,2374.84,1572.52
+ORD-00756,2024-12-25,CUST-0190,Diya Das,Small Business,Spices Combo,Groceries,East,Kolkata,4,414.26,0.1,2013.29,1509.52,503.77
+ORD-00757,2024-06-17,CUST-0220,Nikhil Iyer,Corporate,Spices Combo,Groceries,East,Patna,4,384.41,0.3,1162.47,767.83,394.64
+ORD-00758,2023-04-06,CUST-0123,Diya Iyer,Corporate,Smartphone,Electronics,North,Lucknow,3,18271.14,0.0,54813.42,44835.84,9977.58
+ORD-00759,2024-05-06,CUST-0070,Aarav Nair,Small Business,Smartwatch,Electronics,Central,Indore,8,4513.51,0.2,31197.38,26222.66,4974.72
+ORD-00760,2024-12-20,CUST-0218,Nikhil Khan,Consumer,Pen Pack,Stationery,North,Lucknow,6,94.88,0.2,614.85,380.8,234.05
+ORD-00761,2023-06-22,CUST-0230,Priya Gupta,Small Business,Whiteboard,Stationery,North,Lucknow,4,1495.94,0.05,5684.57,3642.27,2042.3
+ORD-00762,2023-04-26,CUST-0192,Neha Mehta,Corporate,Beverages,Groceries,West,Mumbai,6,97.45,0.0,584.72,448.93,135.79
+ORD-00763,2023-08-07,CUST-0136,Diya Singh,Consumer,Jacket,Clothing,West,Pune,1,2933.29,0.15,2493.3,1342.14,1151.16
+ORD-00764,2023-02-28,CUST-0250,Nikhil Khan,Consumer,Notebook Set,Stationery,West,Ahmedabad,6,225.29,,1216.59,704.92,511.67
+ORD-00765,2024-03-17,CUST-0052,Ananya Patel,Corporate,Sofa,Furniture,East,Kolkata,8,20669.2,0.15,151794.57,98949.02,52845.55
+ORD-00766,2023-08-20,CUST-0129,Aarav Khan,Consumer,Rice 5kg,Groceries,South,Hyderabad,8,440.58,0.05,3348.43,2345.53,1002.9
+ORD-00767,2023-06-15,CUST-0225,Aarav Reddy,Consumer,T-Shirt,Clothing,West,Ahmedabad,3,582.45,0.1,1572.61,779.45,793.16
+ORD-00768,2024-02-09,CUST-0069,Meera Verma,Corporate,Laptop,Electronics,East,Kolkata,7,57683.16,0.0,436084.72,317037.41,119047.31
+ORD-00769,2024-11-29,CUST-0254,Rohan Mehta,Consumer,T-Shirt,Clothing,West,Pune,3,578.99,0.3,1641.43,953.4,688.03
+ORD-00770,2023-05-10,CUST-0011,Diya Reddy,Corporate,Cooking Oil,Groceries,North,Delhi,3,310.02,0.0,930.07,705.46,224.61
+ORD-00771,2024-03-20,CUST-0005,Vivaan Sharma,Consumer,Sneakers,Clothing,Central,Indore,8,3065.26,0.1,23835.45,12015.16,11820.29
+ORD-00772,2023-09-27,CUST-0059,Ishaan Verma,Small Business,Pen Pack,Stationery,South,Chennai,4,103.33,0.1,371.98,209.73,162.25
+ORD-00773,2023-08-23,CUST-0077,Diya Rao,Small Business,Whiteboard,Stationery,South,Bengaluru,2,1482.33,0.0,2964.67,1698.35,1266.32
+ORD-00774,2024-01-25,CUST-0027,Aditi Mehta,Small Business,Tablet,Electronics,South,Bengaluru,7,16079.91,0.2,97251.28,77878.47,19372.81
+ORD-00775,2023-11-08,CUST-0027,Aditi Mehta,Small Business,Rice 5kg,Groceries,Central,Nagpur,2,429.23,0.05,1019.43,799.02,220.41
+ORD-00776,2024-11-07,CUST-0027,Aditi Mehta,Small Business,Laptop,Electronics,North,Delhi,6,51831.75,0.1,377853.48,281767.18,96086.3
+ORD-00777,2023-04-25,CUST-0156,Rohan Sharma,Consumer,Sneakers,Clothing,East,Patna,2,3308.13,0.2,5293.0,2941.29,2351.71
+ORD-00778,2023-09-01,CUST-0191,Kunal Das,Small Business,Cap,Clothing,Central,Indore,5,329.7,0.1,1483.66,748.65,735.01
+ORD-00779,2023-07-17,CUST-0098,Vivaan Rao,Corporate,Notebook Set,Stationery,North,Lucknow,8,271.28,0.0,2170.2,1417.18,753.02
+ORD-00780,2023-02-14,CUST-0079,Neha Reddy,Consumer,Cooking Oil,Groceries,Central,Indore,3,300.27,0.15,765.69,574.63,191.06
+ORD-00781,2024-03-22,CUST-0061,Diya Gupta,Small Business,Backpack,Stationery,East,Patna,2,1793.82,0.15,3293.45,2146.54,1146.91
+ORD-00782,2024-08-02,CUST-0024,Priya Reddy,Small Business,Backpack,Stationery,South,Chennai,1,1905.98,0.2,1646.77,926.84,719.93
+ORD-00783,2024-06-05,CUST-0225,Aarav Reddy,Consumer,Whiteboard,Stationery,North,Delhi,7,1620.0,0.1,11022.48,6482.34,4540.14
+ORD-00784,2024-06-09,CUST-0005,Vivaan Sharma,Consumer,Dining Table,Furniture,South,Hyderabad,8,15011.45,0.2,103759.17,67781.67,35977.5
+ORD-00785,2023-02-16,CUST-0115,Diya Khan,Consumer,Cap,Clothing,North,Delhi,4,335.43,0.2,1073.37,548.81,524.56
+ORD-00786,2023-01-02,CUST-0060,Pooja Verma,Small Business,T-Shirt,Clothing,South,Bengaluru,6,615.92,0.05,3510.76,1863.17,1647.59
+ORD-00787,2023-11-29,CUST-0151,Rohan Verma,Corporate,Jeans,Clothing,West,Ahmedabad,1,1537.79,0.0,1922.23,1125.72,796.51
+ORD-00788,2024-12-05,CUST-0055,Aarav Nair,Corporate,Bookshelf,Furniture,North,Lucknow,7,4574.35,0.05,41066.24,28668.48,12397.76
+ORD-00789,2024-08-18,CUST-0105,Meera Nair,Small Business,Cooking Oil,Groceries,East,Patna,7,297.96,0.0,2252.59,1696.41,556.18
+ORD-00790,2023-07-09,CUST-0236,Meera Verma,Small Business,Rice 5kg,Groceries,West,Mumbai,3,422.0,0.1,1139.39,893.1,246.29
+ORD-00791,2023-03-13,CUST-0097,Sara Reddy,Consumer,Jeans,Clothing,South,Chennai,3,1371.61,0.0,4114.84,2242.8,1872.04
+ORD-00792,2024-01-22,CUST-0052,Ananya Patel,Corporate,Pen Pack,Stationery,North,Lucknow,7,90.41,0.3,478.47,259.15,219.32
+ORD-00793,2024-10-04,CUST-0074,Vivaan Khan,Consumer,Desk,Furniture,North,Chandigarh,1,9526.32,0.0,12860.53,9124.42,3736.11
+ORD-00794,2024-07-30,CUST-0246,Pooja Das,Corporate,T-Shirt,Clothing,South,Bengaluru,8,637.86,0.05,5235.52,2782.64,2452.88
+ORD-00795,2023-04-16,CUST-0023,,Corporate,Cap,Clothing,North,Delhi,5,322.18,0.3,1127.63,609.69,517.94
+ORD-00796,2024-11-02,CUST-0181,Meera Das,Small Business,Sofa,Furniture,West,Mumbai,5,20793.89,0.2,112287.01,71304.13,40982.88
+ORD-00797,2023-04-15,CUST-0115,Diya Khan,Consumer,Smartwatch,Electronics,South,Bengaluru,5,4371.58,0.15,18579.2,14009.85,4569.35
+ORD-00798,2024-03-14,CUST-0092,Pooja Reddy,Corporate,Smartphone,Electronics,Central,Bhopal,6,18358.6,0.2,95170.99,73123.5,22047.49
+ORD-00799,2024-05-26,CUST-0139,Meera Patel,Consumer,Backpack,Stationery,East,Kolkata,6,1955.84,0.3,8871.68,5756.28,3115.4
+ORD-00800,2024-04-02,CUST-0200,Diya Gupta,Consumer,Desk,Furniture,East,Kolkata,8,9566.37,0.0,82653.43,54561.15,28092.28
+ORD-00801,2023-12-28,CUST-0198,Meera Iyer,Corporate,Headphones,Electronics,South,Bengaluru,6,2497.1,0.1,16855.45,13655.84,3199.61
+ORD-00802,2024-07-16,CUST-0215,Aarav Verma,Small Business,Jeans,Clothing,South,Chennai,8,1511.62,0.1,11754.39,6506.9,5247.49
+ORD-00803,2024-12-20,CUST-0113,Ananya Verma,Small Business,Desk Organizer,Stationery,Central,Indore,2,662.93,0.0,1789.9,1010.21,779.69
+ORD-00804,2024-01-05,CUST-0179,Sara Reddy,Consumer,Cooking Oil,Groceries,North,Delhi,3,306.86,0.0,994.23,763.84,230.39
+ORD-00805,2023-05-22,CUST-0029,Nikhil Iyer,Small Business,Cooking Oil,Groceries,South,Bengaluru,2,349.57,0.2,559.31,373.96,185.35
+ORD-00806,2024-11-09,CUST-0055,Aarav Nair,Corporate,Snack Pack,Groceries,North,Lucknow,2,149.3,0.15,342.65,264.99,77.66
+ORD-00807,2023-06-03,CUST-0214,Aarav Singh,Small Business,Laptop,Electronics,North,Delhi,3,54667.41,0.0,164002.24,134269.41,29732.83
+ORD-00808,2023-10-21,CUST-0007,Aarav Mehta,Consumer,Snack Pack,Groceries,West,Ahmedabad,2,139.68,0.2,279.35,182.31,97.04
+ORD-00809,2024-07-21,CUST-0233,Sara Nair,Small Business,Smartwatch,Electronics,West,Ahmedabad,5,4877.24,0.15,22386.51,16784.09,5602.42
+ORD-00810,2023-08-05,CUST-0065,Kabir Rao,Corporate,T-Shirt,Clothing,Central,Nagpur,7,614.29,0.0,4300.0,2314.05,1985.95
+ORD-00811,2024-10-30,CUST-0161,Neha Sharma,Small Business,Notebook Set,Stationery,West,Pune,7,266.36,0.0,2517.13,1375.76,1141.37
+ORD-00812,2024-09-09,CUST-0186,Aarav Verma,Corporate,T-Shirt,Clothing,North,Delhi,6,543.37,0.05,3344.96,1715.64,1629.32
+ORD-00813,2024-10-15,CUST-0104,Nikhil Verma,Small Business,Headphones,Electronics,South,Hyderabad,1,2370.17,0.0,3199.73,2733.72,466.01
+ORD-00814,2023-11-13,CUST-0048,Rohan Patel,Corporate,Rice 5kg,Groceries,North,Chandigarh,1,493.25,0.3,431.59,297.22,134.37
+ORD-00815,2023-12-06,CUST-0050,Aditi Das,Consumer,Snack Pack,Groceries,South,Hyderabad,7,161.9,0.15,1204.1,797.77,406.33
+ORD-00816,2023-10-25,CUST-0020,Meera Iyer,Consumer,Desk Organizer,Stationery,West,Ahmedabad,3,651.22,0.1,2197.85,1207.61,990.24
+ORD-00817,2024-05-28,CUST-0083,Ananya Sharma,Corporate,Desk,Furniture,South,Hyderabad,6,8905.46,0.0,57707.41,36302.16,21405.25
+ORD-00818,2024-09-17,CUST-0107,Neha Patel,Small Business,Rice 5kg,Groceries,West,Mumbai,2,491.22,0.15,901.88,665.95,235.93
+ORD-00819,2023-04-07,CUST-0256,Neha Das,Small Business,Bookshelf,Furniture,Central,Bhopal,8,4043.52,0.05,30730.78,18622.59,12108.19
+ORD-00820,2023-09-22,CUST-0236,Meera Verma,Small Business,Smartphone,Electronics,South,Hyderabad,8,19722.54,0.3,110446.23,92637.73,17808.5
+ORD-00821,2023-10-21,CUST-0187,Meera Gupta,Small Business,Tablet,Electronics,West,Mumbai,7,15708.91,0.15,116834.99,98734.2,18100.79
+ORD-00822,2024-06-02,CUST-0212,Nikhil Rao,Consumer,Backpack,Stationery,East,Kolkata,8,1714.62,0.2,11851.44,6460.47,5390.97
+ORD-00823,2023-10-25,CUST-0054,Aditi Mehta,Small Business,Dining Table,Furniture,North,Delhi,7,13974.62,0.1,110050.11,76594.63,33455.48
+ORD-00824,2023-04-22,CUST-0239,Priya Mehta,Corporate,Headphones,Electronics,West,Pune,2,2340.14,0.0,4680.27,3955.41,724.86
+ORD-00825,2023-12-17,CUST-0163,Ishaan Patel,Corporate,Sofa,Furniture,East,Kolkata,8,20735.59,0.2,165884.76,107312.27,58572.49
+ORD-00826,2023-11-24,CUST-0110,Nikhil Gupta,Small Business,Sofa,Furniture,South,Hyderabad,1,24146.37,0.3,21128.07,13404.43,7723.64
+ORD-00827,2023-01-24,CUST-0109,Kunal Reddy,Corporate,Beverages,Groceries,South,Bengaluru,7,85.86,0.2,480.8,323.75,157.05
+ORD-00828,2024-11-16,CUST-0110,Nikhil Gupta,Small Business,Headphones,Electronics,West,Pune,5,2342.04,0.0,15808.76,11325.73,4483.03
+ORD-00829,2024-05-08,CUST-0215,Aarav Verma,Small Business,Jeans,Clothing,South,Chennai,8,1510.65,0.3,9136.42,4684.02,4452.4
+ORD-00830,2023-03-21,CUST-0102,Ishaan Gupta,Consumer,Desk Organizer,Stationery,North,Lucknow,3,675.32,0.3,1418.18,925.61,492.57
+ORD-00831,2024-05-26,CUST-0076,Pooja Reddy,Small Business,T-Shirt,Clothing,South,Chennai,6,553.63,,2870.03,1548.96,1321.07
+ORD-00832,2023-02-07,CUST-0050,Aditi Das,Consumer,Cooking Oil,Groceries,West,Ahmedabad,4,335.73,0.0,1342.9,951.45,391.45
+ORD-00833,2024-11-26,CUST-0098,Vivaan Rao,Corporate,Cooking Oil,Groceries,East,Kolkata,1,311.7,0.05,399.75,259.97,139.78
+ORD-00834,2023-12-27,CUST-0211,Aarav Singh,Corporate,Smartwatch,Electronics,West,Pune,6,4795.37,0.1,32368.73,25364.61,7004.12
+ORD-00835,2024-07-20,CUST-0091,Aditi Singh,Corporate,Sofa,Furniture,West,Pune,3,22188.16,0.1,64700.66,40247.28,24453.38
+ORD-00836,2023-04-02,CUST-0054,Aditi Mehta,Small Business,Cap,Clothing,North,Delhi,1,358.14,0.1,322.32,163.22,159.1
+ORD-00837,2024-11-14,CUST-0017,Sara Patel,Small Business,Notebook Set,Stationery,West,Ahmedabad,5,267.59,0.0,1806.2,1023.66,782.54
+ORD-00838,2024-02-27,CUST-0238,Ananya Nair,Consumer,Sofa,Furniture,North,Chandigarh,7,19833.46,0.05,142443.93,97814.18,44629.75
+ORD-00839,2023-01-05,CUST-0124,Kabir Rao,Corporate,Jacket,Clothing,West,Ahmedabad,7,2538.3,0.0,17768.08,9094.97,8673.11
+ORD-00840,2023-09-05,CUST-0221,Rohan Verma,Corporate,Backpack,Stationery,East,Kolkata,7,1689.36,0.2,9460.4,5555.13,3905.27
+ORD-00841,2024-02-17,CUST-0089,Ananya Sharma,Small Business,Cooking Oil,Groceries,West,Ahmedabad,6,321.11,0.1,1872.69,1275.79,596.9
+ORD-00842,2024-07-20,CUST-0134,Diya Mehta,Consumer,Tablet,Electronics,West,Ahmedabad,3,17435.84,,56492.12,40479.3,16012.82
+ORD-00843,2024-08-08,CUST-0041,Pooja Verma,Consumer,Pen Pack,Stationery,North,Lucknow,7,90.51,0.2,547.38,304.16,243.22
+ORD-00844,2023-11-01,CUST-0114,Kabir Mehta,Corporate,Jeans,Clothing,South,Hyderabad,4,1510.63,0.0,7553.13,4342.25,3210.88
+ORD-00845,2024-10-04,CUST-0074,Vivaan Khan,Consumer,T-Shirt,Clothing,East,Kolkata,1,616.61,0.15,707.56,417.72,289.84
+ORD-00846,2023-07-04,CUST-0135,Priya Nair,Small Business,Smartphone,Electronics,South,Chennai,2,16478.57,0.3,23070.0,17495.78,5574.22
+ORD-00847,2024-10-02,CUST-0250,Nikhil Khan,Consumer,Rice 5kg,Groceries,West,Mumbai,2,423.93,0.1,1030.14,723.2,306.94
+ORD-00848,2024-11-06,CUST-0092,Pooja Reddy,Corporate,Desk,Furniture,East,Kolkata,1,8310.97,0.05,10658.82,7612.38,3046.44
+ORD-00849,2023-05-05,CUST-0131,Arjun Mehta,Small Business,Notebook Set,Stationery,South,Hyderabad,4,255.31,0.15,868.04,471.14,396.9
+ORD-00850,2023-05-22,CUST-0168,Kabir Singh,Small Business,T-Shirt,Clothing,South,Bengaluru,4,550.01,0.2,1760.04,1053.18,706.86
+ORD-00851,2024-04-23,CUST-0151,Rohan Verma,Corporate,Headphones,Electronics,Central,Indore,8,2468.03,0.1,19191.41,16233.75,2957.66
+ORD-00852,2023-06-19,CUST-0160,Kabir Iyer,Consumer,Sneakers,Clothing,North,Lucknow,4,3490.41,0.1,12565.47,6819.05,5746.42
+ORD-00853,2024-03-15,CUST-0197,Ishaan Rao,Corporate,Jacket,Clothing,Central,Bhopal,4,2837.6,0.05,11645.51,6914.74,4730.77
+ORD-00854,2023-10-28,CUST-0210,Rohan Singh,Corporate,Tablet,Electronics,East,Bhubaneswar,6,15674.58,0.0,117559.36,85825.98,31733.38
+ORD-00855,2024-01-16,CUST-0191,Kunal Das,Small Business,Jeans,Clothing,North,Delhi,3,1583.85,0.0,5131.69,2545.62,2586.07
+ORD-00856,2024-07-29,CUST-0120,Sara Patel,Consumer,Sofa,Furniture,Central,Nagpur,2,21496.6,0.15,39467.76,24177.27,15290.49
+ORD-00857,2024-11-29,CUST-0216,Neha Gupta,Corporate,Notebook Set,Stationery,Central,Indore,7,240.89,0.05,2162.58,1219.22,943.36
+ORD-00858,2024-04-08,CUST-0064,Neha Reddy,Small Business,Headphones,Electronics,West,Mumbai,3,2550.72,0.15,7024.67,5350.87,1673.8
+ORD-00859,2024-02-17,CUST-0068,Arjun Verma,Consumer,Notebook Set,Stationery,West,Pune,1,269.79,0.15,247.67,134.9,112.77
+ORD-00860,2023-12-21,CUST-0163,Ishaan Patel,Corporate,Smartwatch,Electronics,East,Patna,7,4121.79,0.3,302951.64,18956.07,6289.9
+ORD-00861,2023-01-30,CUST-0053,Kabir Gupta,Corporate,Beverages,Groceries,North,Chandigarh,4,81.86,0.0,327.44,218.72,108.72
+ORD-00862,2024-01-13,CUST-0098,Vivaan Rao,Corporate,Cooking Oil,Groceries,South,Bengaluru,1,347.78,0.3,262.92,172.36,90.56
+ORD-00863,2024-12-05,CUST-0169,Nikhil Patel,Small Business,Headphones,Electronics,North,Chandigarh,7,2384.96,0.0,22537.83,19073.27,3464.56
+ORD-00864,2024-11-15,CUST-0229,Arjun Rao,Corporate,Jeans,Clothing,Central,Nagpur,2,1506.53,0.0,4067.63,2272.05,1795.58
+ORD-00865,2023-10-31,CUST-0136,Diya Singh,Consumer,Sneakers,Clothing,South,Bengaluru,2,3105.93,0.3,5435.37,3212.39,2222.98
+ORD-00866,2023-08-06,CUST-0031,Vivaan Reddy,Consumer,Office Chair,Furniture,North,Chandigarh,1,6721.65,0.1,6049.48,4182.65,1866.83
+ORD-00867,2023-11-16,CUST-0161,Neha Sharma,Small Business,Dining Table,Furniture,Central,Indore,8,15465.87,0.3,108261.08,70433.2,37827.88
+ORD-00868,2024-02-14,CUST-0104,Nikhil Verma,Small Business,Sneakers,Clothing,West,Ahmedabad,4,2923.93,0.1,11368.24,5832.61,5535.63
+ORD-00869,2023-09-04,CUST-0057,Priya Iyer,Consumer,Laptop,Electronics,West,Mumbai,1,59335.08,0.0,59335.08,44122.4,15212.68
+ORD-00870,2023-12-29,CUST-0044,Ishaan Singh,Corporate,Jacket,Clothing,North,Lucknow,7,2638.76,0.1,20780.21,11434.12,9346.09
+ORD-00871,2024-03-08,CUST-0196,Meera Iyer,Corporate,Jacket,Clothing,North,Delhi,4,2684.64,0.1,10437.89,5369.57,5068.32
+ORD-00872,2024-10-23,CUST-0026,Ishaan Nair,Small Business,Desk Organizer,Stationery,North,Lucknow,4,764.26,0.0,4126.98,2285.61,1841.37
+ORD-00873,2023-08-20,CUST-0142,Aditi Singh,Consumer,Office Chair,Furniture,Central,Bhopal,7,6359.48,0.0,44516.36,27314.59,17201.77
+ORD-00874,2024-10-14,CUST-0178,Kunal Verma,Consumer,Cooking Oil,Groceries,South,Bengaluru,5,333.17,0.05,2136.48,1610.22,526.26
+ORD-00875,2023-06-24,CUST-0123,Diya Iyer,Corporate,Desk Organizer,Stationery,East,Bhubaneswar,6,725.4,0.0,4352.41,2448.15,1904.26
+ORD-00876,2023-07-01,CUST-0011,Diya Reddy,Corporate,Smartwatch,Electronics,West,Pune,5,4843.13,0.0,24215.66,19565.18,4650.48
+ORD-00877,2024-04-28,CUST-0127,Rohan Sharma,Consumer,Spices Combo,Groceries,North,Chandigarh,2,363.61,0.0,785.41,573.1,212.31
+ORD-00878,2023-04-13,CUST-0049,Ananya Iyer,Corporate,Whiteboard,Stationery,South,Bengaluru,5,1697.25,0.05,8061.92,4791.31,3270.61
+ORD-00879,2023-01-14,CUST-0235,Kabir Verma,Small Business,Sneakers,Clothing,East,Patna,6,3072.73,0.05,17514.54,10387.01,7127.53
+ORD-00880,2023-06-01,CUST-0011,Diya Reddy,Corporate,Desk Organizer,Stationery,North,Chandigarh,7,749.88,0.2,4199.31,2768.56,1430.75
+ORD-00881,2023-07-18,CUST-0046,Aarav Patel,Small Business,Desk Organizer,Stationery,East,Kolkata,7,719.42,0.05,4784.16,3087.01,1697.15
+ORD-00882,2023-12-06,CUST-0179,Sara Reddy,Consumer,Spices Combo,Groceries,South,Chennai,7,407.13,0.05,3384.28,2343.76,1040.52
+ORD-00883,2024-08-03,CUST-0233,Sara Nair,Small Business,Cap,Clothing,North,Chandigarh,6,335.19,0.0,2172.02,1194.35,977.67
+ORD-00884,2023-11-07,CUST-0084,Kunal Verma,Consumer,Dining Table,Furniture,East,Bhubaneswar,8,14364.78,0.3,100553.46,62676.43,37877.03
+ORD-00885,2023-01-06,CUST-0157,Neha Khan,Small Business,Notebook Set,Stationery,North,Chandigarh,7,242.61,0.3,1188.8,642.04,546.76
+ORD-00886,2024-12-31,CUST-0045,Arjun Mehta,Corporate,Cap,Clothing,Central,Bhopal,5,324.99,0.2,1754.92,906.66,848.26
+ORD-00887,2024-11-25,CUST-0128,Neha Iyer,Consumer,Office Chair,Furniture,West,Pune,7,6399.33,0.0,60473.69,42397.76,18075.93
+ORD-00888,2024-08-15,CUST-0166,Neha Khan,Corporate,Dining Table,Furniture,West,Ahmedabad,3,15549.96,0.0,604582.5599999999,31110.94,19270.94
+ORD-00889,2024-07-12,CUST-0237,Sara Patel,Small Business,T-Shirt,Clothing,East,Bhubaneswar,3,585.12,0.3,1327.04,720.66,606.38
+ORD-00890,2024-03-13,CUST-0182,Ishaan Das,Corporate,Cap,Clothing,East,Patna,8,344.44,0.1,2678.33,1461.68,1216.65
+ORD-00891,2023-09-06,CUST-0155,Rohan Gupta,Small Business,Rice 5kg,Groceries,South,Hyderabad,6,416.45,0.15,2123.92,1651.53,472.39
+ORD-00892,2024-04-18,CUST-0004,Ishaan Nair,Corporate,Cooking Oil,Groceries,West,Ahmedabad,8,341.71,0.0,2952.36,1936.38,1015.98
+ORD-00893,2024-12-08,CUST-0247,Rohan Khan,Consumer,Cap,Clothing,North,Chandigarh,6,375.5,0.0,3041.57,1753.32,1288.25
+ORD-00894,2023-05-20,CUST-0254,Rohan Mehta,Consumer,Laptop,Electronics,Central,Bhopal,4,59345.58,0.2,189905.84,158562.24,31343.6
+ORD-00895,2023-04-28,CUST-0103,Ishaan Patel,Consumer,Smartwatch,Electronics,Central,Indore,2,4050.03,0.15,6885.05,5778.38,1106.67
+ORD-00896,2024-02-05,CUST-0228,Ananya Nair,Consumer,Smartwatch,Electronics,North,Lucknow,1,4883.44,0.05,5010.41,3833.52,1176.89
+ORD-00897,2024-11-04,CUST-0225,Aarav Reddy,Consumer,Backpack,Stationery,Central,Indore,2,1775.65,0.2,3835.4,2081.08,1754.32
+ORD-00898,2024-05-02,CUST-0103,Ishaan Patel,Consumer,Desk,Furniture,Central,Indore,8,8622.07,0.2,59595.71,35638.39,23957.32
+ORD-00899,2024-04-20,CUST-0055,Aarav Nair,Corporate,Sneakers,Clothing,West,Ahmedabad,7,3400.64,0.0,25708.81,12804.96,12903.85
+ORD-00900,2023-02-13,CUST-0228,Ananya Nair,Consumer,Tablet,Electronics,East,Kolkata,6,17480.95,,94397.12,79261.31,15135.81
+ORD-00901,2023-12-24,CUST-0108,Kunal Iyer,Consumer,Bookshelf,Furniture,Central,Indore,7,4210.96,0.0,36845.88,24696.67,12149.21
+ORD-00902,2024-02-08,CUST-0156,Rohan Sharma,Consumer,Sneakers,Clothing,South,Chennai,2,3466.34,0.2,5989.84,3283.7,2706.14
+ORD-00903,2023-05-13,CUST-0133,Ananya Verma,Small Business,Dining Table,Furniture,Central,Indore,6,15266.56,0.15,77859.44,49071.1,28788.34
+ORD-00904,2024-11-12,CUST-0050,Aditi Das,Consumer,Smartphone,Electronics,South,Bengaluru,2,17997.96,0.2,38875.6,30179.92,8695.68
+ORD-00905,2024-03-06,CUST-0197,Ishaan Rao,Corporate,Office Chair,Furniture,South,Hyderabad,2,5930.5,0.05,12169.4,7300.2,4869.2
+ORD-00906,2023-04-21,CUST-0165,Sara Mehta,Corporate,Cap,Clothing,North,Delhi,8,341.43,0.2,2185.18,1219.58,965.6
+ORD-00907,2024-03-20,CUST-0083,Ananya Sharma,Corporate,Snack Pack,Groceries,South,Bengaluru,4,137.58,0.0,594.35,438.98,155.37
+ORD-00908,2023-12-15,CUST-0037,Diya Reddy,Small Business,Office Chair,Furniture,East,Patna,3,6737.07,0.2,20211.21,13511.0,6700.21
+ORD-00909,2024-09-25,CUST-0183,Kabir Rao,Small Business,Desk Organizer,Stationery,Central,Nagpur,3,742.22,0.1,2164.32,1279.77,884.55
+ORD-00910,2023-05-01,CUST-0052,Ananya Patel,Corporate,Laptop,Electronics,Central,Nagpur,8,52036.31,0.15,353846.9,278238.29,75608.61
+ORD-00911,2023-03-11,CUST-0184,Nikhil Das,Corporate,Jacket,Clothing,West,Ahmedabad,3,3062.14,0.0,9186.43,5087.32,4099.11
+ORD-00912,2024-07-13,CUST-0030,Meera Patel,Corporate,Whiteboard,Stationery,East,Patna,2,1626.49,0.05,3337.55,2063.9,1273.65
+ORD-00913,2024-07-14,CUST-0105,Meera Nair,Small Business,Bookshelf,Furniture,North,Delhi,6,4556.31,0.2,23619.89,16618.99,7000.9
+ORD-00914,2024-03-02,CUST-0037,Diya Reddy,Small Business,Whiteboard,Stationery,North,Chandigarh,2,1724.01,0.1,3351.47,2190.49,1160.98
+ORD-00915,2024-03-17,CUST-0180,Diya Sharma,Consumer,Smartwatch,Electronics,Central,Bhopal,8,4323.08,0.3,26145.97,21929.31,4216.66
+ORD-00916,2024-11-29,CUST-0195,Rohan Mehta,Corporate,Laptop,Electronics,Central,Indore,1,55577.46,0.0,75029.57,57201.9,17827.67
+ORD-00917,2023-05-01,CUST-0225,Aarav Reddy,Consumer,Spices Combo,Groceries,South,Bengaluru,6,388.14,0.05,2212.42,1572.72,639.7
+ORD-00918,2023-01-16,CUST-0024,Priya Reddy,Small Business,Notebook Set,Stationery,South,Chennai,4,265.63,0.0,1062.52,580.98,481.54
+ORD-00919,2023-10-27,CUST-0126,Rohan Mehta,Corporate,Jacket,Clothing,Central,Indore,3,2859.43,0.1,9650.57,5475.1,4175.47
+ORD-00920,2023-08-14,CUST-0183,Kabir Rao,Small Business,Pen Pack,Stationery,West,Ahmedabad,8,104.26,0.05,792.4,502.08,290.32
+ORD-00921,2023-04-17,CUST-0258,Pooja Das,Consumer,Backpack,Stationery,East,Bhubaneswar,1,1744.79,0.1,1570.31,980.91,589.4
+ORD-00922,2024-07-20,CUST-0157,Neha Khan,Small Business,Desk,Furniture,Central,Bhopal,4,8320.95,0.2,28757.19,19874.94,8882.25
+ORD-00923,2023-02-04,CUST-0256,Neha Das,Small Business,Beverages,Groceries,North,Delhi,5,86.0,0.1,387.02,267.53,119.49
+ORD-00924,2024-01-29,CUST-0196,Meera Iyer,Corporate,Desk Organizer,Stationery,West,Mumbai,8,636.22,0.0,5496.93,3218.56,2278.37
+ORD-00925,2024-09-15,CUST-0014,Rohan Sharma,Small Business,T-Shirt,Clothing,Central,Nagpur,6,650.72,0.05,4005.86,2339.93,1665.93
+ORD-00926,2023-04-22,CUST-0030,Meera Patel,Corporate,Cap,Clothing,West,Pune,7,381.67,0.2,2137.37,1125.57,1011.8
+ORD-00927,2023-06-16,CUST-0134,,Consumer,Spices Combo,Groceries,Central,Indore,7,397.39,0.0,2781.71,1855.37,926.34
+ORD-00928,2023-12-12,CUST-0152,Priya Patel,Small Business,T-Shirt,Clothing,South,Hyderabad,7,544.63,0.05,4527.26,2421.12,2106.14
+ORD-00929,2023-09-28,CUST-0165,Sara Mehta,Corporate,Notebook Set,Stationery,North,Chandigarh,3,247.19,0.0,741.57,439.59,301.98
+ORD-00930,2024-08-16,CUST-0030,Meera Patel,Corporate,Spices Combo,Groceries,South,Chennai,2,382.12,0.15,701.56,510.32,191.24
+ORD-00931,2023-08-21,CUST-0066,Nikhil Patel,Small Business,Jacket,Clothing,East,Patna,3,2602.26,0.15,6635.78,3763.53,2872.25
+ORD-00932,2023-02-12,CUST-0163,Ishaan Patel,Corporate,Dining Table,Furniture,West,Ahmedabad,4,13682.44,0.2,43783.8,31259.72,12524.08
+ORD-00933,2023-12-25,CUST-0121,Diya Iyer,Consumer,Cap,Clothing,North,Lucknow,2,320.42,0.1,720.95,365.85,355.1
+ORD-00934,2023-10-17,CUST-0219,Arjun Khan,Corporate,Backpack,Stationery,West,Mumbai,3,1628.89,0.15,5192.09,3294.8,1897.29
+ORD-00935,2023-06-14,CUST-0016,Nikhil Verma,Small Business,Sneakers,Clothing,East,Bhubaneswar,6,2908.55,0.0,17451.3,10388.86,7062.44
+ORD-00936,2023-08-09,CUST-0177,Ishaan Iyer,Small Business,Cap,Clothing,Central,Indore,7,373.15,0.0,2612.06,1481.76,1130.3
+ORD-00937,2024-08-11,CUST-0258,Pooja Das,Consumer,Smartphone,Electronics,South,Hyderabad,7,18140.28,0.0,137140.54,114406.04,22734.5
+ORD-00938,2023-10-03,CUST-0163,Ishaan Patel,Corporate,Spices Combo,Groceries,Central,Nagpur,4,426.88,0.05,2027.68,1579.96,447.72
+ORD-00939,2024-12-10,CUST-0060,Pooja Verma,Small Business,Jeans,Clothing,West,Pune,4,1483.5,0.1,7209.82,3855.86,3353.96
+ORD-00940,2024-03-04,CUST-0230,Priya Gupta,Small Business,Sneakers,Clothing,Central,Bhopal,4,3244.38,0.3,9811.0,5921.35,3889.65
+ORD-00941,2023-10-21,CUST-0134,Diya Mehta,Consumer,Spices Combo,Groceries,South,Hyderabad,6,385.11,0.0,2888.31,2041.53,846.78
+ORD-00942,2023-06-20,CUST-0008,Neha Reddy,Corporate,Cooking Oil,Groceries,South,Chennai,2,314.79,0.3,440.71,320.77,119.94
+ORD-00943,2023-03-16,CUST-0086,Arjun Gupta,Corporate,Office Chair,Furniture,West,Mumbai,3,6519.37,0.15,16624.38,11710.56,4913.82
+ORD-00944,2023-05-02,CUST-0151,Rohan Verma,Corporate,Spices Combo,Groceries,South,Hyderabad,6,431.79,0.05,2461.23,1804.51,656.72
+ORD-00945,2024-10-07,CUST-0210,Rohan Singh,Corporate,Smartphone,Electronics,East,Patna,8,18866.51,0.1,183382.49,137010.45,46372.04
+ORD-00946,2023-01-08,CUST-0078,Pooja Reddy,Corporate,Dining Table,Furniture,Central,Bhopal,6,15521.72,0.1,83817.29,53166.87,30650.42
+ORD-00947,2024-05-20,CUST-0153,Nikhil Patel,Small Business,Backpack,Stationery,North,Delhi,6,1637.38,0.15,9018.71,5841.2,3177.51
+ORD-00948,2023-07-02,CUST-0164,Kunal Patel,Consumer,Snack Pack,Groceries,East,Patna,3,136.26,0.2,327.02,253.46,73.56
+ORD-00949,2023-12-22,CUST-0051,Rohan Mehta,Consumer,Cap,Clothing,Central,Nagpur,5,326.59,0.05,1939.14,1018.29,920.85
+ORD-00950,2024-11-13,CUST-0119,Aarav Patel,Small Business,Jacket,Clothing,Central,Bhopal,5,2598.96,0.0,17542.99,9749.31,7793.68
+ORD-00951,2023-01-07,CUST-0100,Pooja Mehta,Small Business,Notebook Set,Stationery,Central,Indore,8,266.63,0.0,2133.0,1246.41,886.59
+ORD-00952,2023-10-30,CUST-0233,Sara Nair,Small Business,Beverages,Groceries,Central,Bhopal,2,93.89,0.3,164.31,109.31,55.0
+ORD-00953,2023-12-29,CUST-0060,Pooja Verma,Small Business,Laptop,Electronics,East,Bhubaneswar,2,57687.05,0.0,144217.63,117604.92,26612.71
+ORD-00954,2024-12-24,CUST-0038,Rohan Rao,Small Business,Sneakers,Clothing,Central,Indore,6,3451.05,0.0,27953.54,15169.59,12783.95
+ORD-00955,2024-10-11,CUST-0019,Ishaan Sharma,Small Business,Jeans,Clothing,Central,Indore,1,1423.77,0.15,1633.78,876.33,757.45
+ORD-00956,2024-05-23,CUST-0096,Pooja Gupta,Consumer,Sneakers,Clothing,South,Chennai,5,2964.35,0.2,12805.98,7572.75,5233.23
+ORD-00957,2024-07-25,CUST-0252,Pooja Reddy,Corporate,Office Chair,Furniture,West,Mumbai,4,6772.99,0.0,29259.31,18707.25,10552.06
+ORD-00958,2023-11-04,CUST-0093,Vivaan Gupta,Corporate,Pen Pack,Stationery,East,Patna,4,107.5,0.2,430.0,257.23,172.77
+ORD-00959,2023-08-13,CUST-0050,Aditi Das,Consumer,Cap,Clothing,West,Pune,2,382.4,0.3,535.37,310.0,225.37
+ORD-00960,2023-11-23,CUST-0238,Ananya Nair,Consumer,Sofa,Furniture,North,Delhi,2,21329.35,0.1,47991.03,32472.0,15519.03
+ORD-00961,2023-01-30,CUST-0121,Diya Iyer,Consumer,Spices Combo,Groceries,West,Ahmedabad,5,381.43,0.0,1907.17,1480.22,426.95
+ORD-00962,2024-03-28,CUST-0201,Nikhil Rao,Consumer,Jacket,Clothing,East,Patna,7,2743.26,0.0,20739.05,10877.94,9861.11
+ORD-00963,2024-08-09,CUST-0114,Kabir Mehta,Corporate,Headphones,Electronics,West,Pune,3,2518.01,0.3,5710.84,4566.07,1144.77
+ORD-00964,2023-01-22,CUST-0011,Diya Reddy,Corporate,Jeans,Clothing,Central,Indore,7,1377.08,0.2,7711.62,4099.97,3611.65
+ORD-00965,2024-07-02,CUST-0186,Aarav Verma,Corporate,Smartphone,Electronics,Central,Bhopal,4,19746.78,0.3,59714.27,46909.68,12804.59
+ORD-00966,2024-07-20,CUST-0111,Sara Das,Corporate,Bookshelf,Furniture,East,Patna,4,4569.61,0.0,19740.72,13718.08,6022.64
+ORD-00967,2023-10-17,CUST-0081,Priya Singh,Corporate,Desk Organizer,Stationery,West,Mumbai,5,633.39,0.2,3166.97,2003.71,1163.26
+ORD-00968,2023-03-28,CUST-0139,Meera Patel,Consumer,Smartwatch,Electronics,West,Mumbai,2,4116.5,0.2,6586.4,5346.47,1239.93
+ORD-00969,2023-07-18,CUST-0201,Nikhil Rao,Consumer,Whiteboard,Stationery,South,Bengaluru,5,1691.13,0.1,7610.07,4577.33,3032.74
+ORD-00970,2024-01-21,CUST-0242,Pooja Verma,Corporate,Office Chair,Furniture,East,Bhubaneswar,5,6408.39,0.0,34605.33,24593.84,10011.49
+ORD-00971,2024-05-23,CUST-0009,Rohan Sharma,Consumer,Whiteboard,Stationery,South,Chennai,7,1744.47,0.3,9231.72,5590.64,3641.08
+ORD-00972,2024-05-03,CUST-0190,Diya Das,Small Business,Smartwatch,Electronics,South,Chennai,2,4628.54,0.05,9497.76,6880.45,2617.31
+ORD-00973,2023-03-27,CUST-0128,Neha Iyer,Consumer,Pen Pack,Stationery,South,Chennai,3,98.06,0.3,205.93,122.9,83.03
+ORD-00974,2023-11-15,CUST-0211,Aarav Singh,Corporate,Office Chair,Furniture,West,Pune,6,6934.62,0.0,52009.65,32599.0,19410.65
+ORD-00975,2024-07-12,CUST-0251,Pooja Khan,Consumer,Headphones,Electronics,South,Hyderabad,8,2406.51,0.2,16633.78,12288.63,4345.15
+ORD-00976,2024-01-20,CUST-0040,Priya Reddy,Consumer,Notebook Set,Stationery,North,Chandigarh,3,262.84,0.0,851.62,513.01,338.61
+ORD-00977,2024-10-03,CUST-0088,Meera Verma,Corporate,Smartphone,Electronics,West,Pune,8,16703.52,0.3,126278.58,99424.84,26853.74
+ORD-00978,2024-09-21,CUST-0166,Neha Khan,Corporate,Snack Pack,Groceries,East,Bhubaneswar,6,151.91,0.0,984.4,657.95,326.45
+ORD-00979,2024-04-28,CUST-0129,Aarav Khan,Consumer,Backpack,Stationery,Central,Indore,8,1695.82,0.05,13919.31,9064.94,4854.37
+ORD-00980,2023-01-11,CUST-0243,Priya Patel,Corporate,Desk,Furniture,Central,Indore,6,8849.35,,53096.07,34308.78,18787.29
+ORD-00981,2023-12-05,CUST-0235,Kabir Verma,Small Business,Desk,Furniture,North,Lucknow,2,8209.99,0.1,18472.49,12233.94,6238.55
+ORD-00982,2023-10-19,CUST-0141,Diya Reddy,Consumer,Bookshelf,Furniture,North,Delhi,7,4270.95,0.05,35502.3,22463.93,13038.37
+ORD-00983,2023-04-16,CUST-0079,Neha Reddy,Consumer,Whiteboard,Stationery,South,Bengaluru,4,1529.6,0.05,5812.46,3531.88,2280.58
+ORD-00984,2024-09-22,CUST-0142,Aditi Singh,Consumer,Snack Pack,Groceries,Central,Indore,8,141.28,0.0,1220.65,928.68,291.97
+ORD-00985,2023-01-01,CUST-0244,Diya Singh,Consumer,Pen Pack,Stationery,South,Bengaluru,6,91.56,0.0,549.33,305.67,243.66
+ORD-00986,2023-09-04,CUST-0061,Diya Gupta,Small Business,Snack Pack,Groceries,East,Bhubaneswar,7,146.32,0.1,921.81,691.08,230.73
+ORD-00987,2023-06-20,CUST-0110,Nikhil Gupta,Small Business,Cap,Clothing,North,Lucknow,5,364.79,0.3,1276.78,693.42,583.36
+ORD-00988,2023-07-02,CUST-0179,Sara Reddy,Consumer,T-Shirt,Clothing,Central,Nagpur,1,643.94,0.3,450.76,246.24,204.52
+ORD-00989,2024-01-19,CUST-0196,Meera Iyer,Corporate,Dining Table,Furniture,Central,Bhopal,3,16299.58,0.0,52810.63,32238.71,20571.92
+ORD-00990,2023-09-17,CUST-0189,Meera Verma,Corporate,Backpack,Stationery,East,Kolkata,1,1838.44,0.0,1838.44,1135.54,702.9
+ORD-00991,2024-04-27,CUST-0016,Nikhil Verma,Small Business,Jacket,Clothing,North,Lucknow,8,2794.57,0.1,21730.56,12549.25,9181.31
+ORD-00992,2024-12-23,CUST-0079,Neha Reddy,Consumer,Smartphone,Electronics,East,Kolkata,3,19335.29,0.0,78307.91,55983.94,22323.97
+ORD-00993,2023-07-18,CUST-0143,Aditi Rao,Corporate,Rice 5kg,Groceries,East,Kolkata,1,434.94,0.2,347.95,267.97,79.98
+ORD-00994,2024-03-02,CUST-0207,Pooja Sharma,Corporate,Backpack,Stationery,Central,Bhopal,1,1643.38,0.3,1242.4,784.4,458.0
+ORD-00995,2024-12-06,CUST-0102,Ishaan Gupta,Consumer,Sofa,Furniture,North,Chandigarh,7,20561.06,0.2,155441.61,107950.49,47491.12
+ORD-00996,2024-08-04,CUST-0239,Priya Mehta,Corporate,Backpack,Stationery,North,Chandigarh,2,1823.83,0.1,3545.52,1952.09,1593.43
+ORD-00997,2023-06-23,CUST-0011,Diya Reddy,Corporate,Laptop,Electronics,East,Bhubaneswar,1,51892.78,0.05,49298.15,38147.62,11150.53
+ORD-00998,2024-01-24,CUST-0028,Meera Gupta,Corporate,Jeans,Clothing,South,Chennai,5,1403.4,0.0,7578.37,4222.32,3356.05
+ORD-00999,2024-12-15,CUST-0133,Ananya Verma,Small Business,Jeans,Clothing,South,Chennai,8,1429.36,0.1,13893.41,7420.01,6473.4
+ORD-01000,2023-06-09,CUST-0198,Meera Iyer,Corporate,Desk Organizer,Stationery,South,Bengaluru,4,769.13,0.1,2768.85,1610.45,1158.4
+ORD-01001,2023-04-03,CUST-0138,Vivaan Khan,Consumer,Bookshelf,Furniture,Central,Indore,4,3996.9,0.1,14388.84,8905.4,5483.44
+ORD-01002,2024-01-17,CUST-0166,Neha Khan,Corporate,Sofa,Furniture,South,Chennai,7,22696.54,0.0,171585.85,107568.6,64017.25
+ORD-01003,2023-12-11,CUST-0172,Aarav Iyer,Corporate,Laptop,Electronics,West,Pune,2,51558.23,0.05,122450.79,91811.03,30639.76
+ORD-01004,2024-02-13,CUST-0223,Vivaan Khan,Consumer,Smartwatch,Electronics,Central,Nagpur,8,4800.69,0.05,39404.04,32108.23,7295.81
+ORD-01005,2023-04-21,CUST-0260,Nikhil Rao,Consumer,Snack Pack,Groceries,North,Delhi,7,147.78,0.05,982.72,771.8,210.92
+ORD-01006,2024-08-04,CUST-0102,Ishaan Gupta,Consumer,Pen Pack,Stationery,East,Bhubaneswar,3,92.6,0.05,285.02,180.88,104.14
+ORD-01007,2024-04-16,CUST-0085,Kabir Reddy,Small Business,Bookshelf,Furniture,West,Pune,1,4333.23,0.0,4679.89,3274.91,1404.98
+ORD-01008,2023-06-07,CUST-0126,Rohan Mehta,Corporate,Desk,Furniture,West,Mumbai,6,8108.9,0.0,48653.4,30642.52,18010.88
+ORD-01009,2023-04-09,CUST-0125,Kabir Patel,Small Business,Sofa,Furniture,West,Pune,7,20365.41,0.3,99790.51,70510.39,29280.12
+ORD-01010,2023-12-22,CUST-0037,Diya Reddy,Small Business,Sneakers,Clothing,Central,Nagpur,8,3308.72,0.15,28124.13,14004.65,14119.48
+ORD-01011,2023-01-02,CUST-0257,Meera Rao,Corporate,Bookshelf,Furniture,East,Patna,7,4548.25,0.2,25470.21,15661.88,9808.33
+ORD-01012,2024-10-31,CUST-0197,Ishaan Rao,Corporate,Sneakers,Clothing,North,Chandigarh,3,3152.46,0.05,12129.07,6418.95,5710.12
+ORD-01013,2024-11-29,CUST-0204,Arjun Singh,Consumer,Sneakers,Clothing,South,Bengaluru,2,3177.55,0.0,8579.39,4573.6,4005.79
+ORD-01014,2024-08-11,CUST-0066,Nikhil Patel,Small Business,Rice 5kg,Groceries,South,Chennai,7,466.77,0.0,3528.76,2533.66,995.1
+ORD-01015,2024-09-10,CUST-0060,Pooja Verma,Small Business,Headphones,Electronics,West,Pune,8,2501.03,0.3,15126.23,11736.04,3390.19
+ORD-01016,2024-11-21,CUST-0197,Ishaan Rao,Corporate,T-Shirt,Clothing,South,Chennai,2,558.05,0.05,1431.39,857.84,573.55
+ORD-01017,2024-04-20,CUST-0025,Rohan Rao,Small Business,Whiteboard,Stationery,West,Pune,5,1452.75,0.3,5491.4,3288.0,2203.4
+ORD-01018,2023-01-25,CUST-0152,Priya Patel,Small Business,Jacket,Clothing,West,Pune,5,2620.09,0.05,12445.42,6731.44,5713.98
+ORD-01019,2024-06-28,CUST-0019,Ishaan Sharma,Small Business,Tablet,Electronics,North,Chandigarh,7,15195.61,0.0,114878.78,90232.42,24646.36
+ORD-01020,2024-12-06,CUST-0235,Kabir Verma,Small Business,Beverages,Groceries,East,Patna,4,97.54,0.3,368.69,288.41,80.28
+ORD-01021,2023-05-31,CUST-0020,Meera Iyer,Consumer,Smartphone,Electronics,East,Patna,2,17574.89,0.2,28119.82,20085.63,8034.19
+ORD-01022,2024-10-30,CUST-0132,Neha Mehta,Consumer,Beverages,Groceries,North,Delhi,2,96.06,0.1,233.43,183.71,49.72
+ORD-01023,2024-12-11,CUST-0125,Kabir Patel,Small Business,Cap,Clothing,Central,Indore,1,341.2,0.1,414.55,215.02,199.53
+ORD-01024,2024-09-11,CUST-0024,,Small Business,Bookshelf,Furniture,Central,Indore,7,4544.19,0.2,27483.24,17095.64,10387.6
+ORD-01025,2024-09-05,CUST-0237,Sara Patel,Small Business,Cooking Oil,Groceries,East,Patna,6,294.22,0.0,1906.53,1240.39,666.14
+ORD-01026,2024-10-12,CUST-0216,,Corporate,Cap,Clothing,West,Ahmedabad,6,352.9,0.1,2572.66,1536.61,1036.05
+ORD-01027,2023-08-04,CUST-0256,Neha Das,Small Business,Sneakers,Clothing,South,Chennai,3,3310.71,0.05,9435.53,5088.8,4346.73
+ORD-01028,2023-08-01,CUST-0043,Aditi Patel,Corporate,Smartwatch,Electronics,Central,Nagpur,6,4323.63,0.3,18159.24,13641.09,4518.15
+ORD-01029,2024-08-01,CUST-0181,Meera Das,Small Business,Whiteboard,Stationery,South,Hyderabad,7,1572.93,0.3,8323.92,4518.3,3805.62
+ORD-01030,2024-01-23,CUST-0068,Arjun Verma,Consumer,Cooking Oil,Groceries,West,Ahmedabad,2,294.21,0.0,635.49,431.13,204.36
+ORD-01031,2023-08-11,CUST-0181,Meera Das,Small Business,Sofa,Furniture,Central,Nagpur,7,23762.02,0.05,158017.43,99001.47,59015.96
+ORD-01032,2023-08-19,CUST-0201,Nikhil Rao,Consumer,Cap,Clothing,Central,Indore,7,349.64,0.1,2202.72,1159.71,1043.01
+ORD-01033,2024-04-20,CUST-0172,Aarav Iyer,Corporate,Sofa,Furniture,East,Kolkata,3,22806.75,0.0,73893.86,46910.48,26983.38
+ORD-01034,2023-05-22,CUST-0115,Diya Khan,Consumer,Cooking Oil,Groceries,North,Lucknow,2,326.37,0.2,522.2,369.12,153.08
+ORD-01035,2024-01-15,CUST-0047,Ananya Patel,Small Business,Dining Table,Furniture,West,Ahmedabad,1,15728.9,0.3,11891.05,7967.42,3923.63
+ORD-01036,2023-06-29,CUST-0123,Diya Iyer,Corporate,Sofa,Furniture,East,Bhubaneswar,8,23923.42,0.0,191387.36,119991.1,71396.26
+ORD-01037,2024-12-01,CUST-0126,Rohan Mehta,Corporate,Dining Table,Furniture,West,Pune,8,16469.14,0.3,124506.7,75699.34,48807.36
+ORD-01038,2023-03-13,CUST-0237,Sara Patel,Small Business,Backpack,Stationery,South,Bengaluru,1,1889.5,0.2,1511.6,939.04,572.56
+ORD-01039,2024-09-13,CUST-0062,Pooja Mehta,Consumer,Rice 5kg,Groceries,West,Pune,1,444.47,0.3,336.02,252.87,83.15
+ORD-01040,2024-03-14,CUST-0226,Aarav Nair,Consumer,Headphones,Electronics,West,Ahmedabad,2,2301.81,0.3,3480.34,2585.72,894.62
+ORD-01041,2023-05-26,CUST-0174,Kunal Das,Corporate,Laptop,Electronics,East,Patna,4,58251.08,0.0,233004.34,173183.55,59820.79
+ORD-01042,2023-10-30,CUST-0176,Pooja Rao,Consumer,Beverages,Groceries,South,Chennai,8,86.95,0.1,782.57,585.94,196.63
+ORD-01043,2023-08-15,CUST-0014,Rohan Sharma,Small Business,Desk,Furniture,Central,Nagpur,6,9114.37,0.2,43748.98,27249.42,16499.56
+ORD-01044,2023-06-08,CUST-0151,Rohan Verma,Corporate,Sneakers,Clothing,West,Ahmedabad,3,2973.78,0.05,8475.26,4996.22,3479.04
+ORD-01045,2023-09-23,CUST-0007,Aarav Mehta,Consumer,Dining Table,Furniture,East,Kolkata,6,15663.42,0.2,75184.41,52488.51,22695.9
+ORD-01046,2023-11-18,CUST-0257,Meera Rao,Corporate,Bookshelf,Furniture,South,Hyderabad,6,4097.5,0.1,27658.14,18511.29,9146.85
+ORD-01047,2023-12-17,CUST-0034,Kunal Reddy,Small Business,Beverages,Groceries,North,Lucknow,4,86.57,0.0,432.84,289.84,143.0
+ORD-01048,2024-08-06,CUST-0236,Meera Verma,Small Business,Laptop,Electronics,East,Patna,1,58739.75,0.3,44407.25,36846.82,7560.43
+ORD-01049,2023-12-04,CUST-0051,Rohan Mehta,Consumer,Bookshelf,Furniture,North,Chandigarh,2,4008.04,0.15,8517.08,5919.87,2597.21
+ORD-01050,2023-09-08,CUST-0127,Rohan Sharma,Consumer,Smartwatch,Electronics,Central,Indore,5,4767.54,0.0,23837.71,19298.84,4538.87
+ORD-01051,2024-07-19,CUST-0137,Vivaan Iyer,Corporate,Cooking Oil,Groceries,North,Lucknow,5,293.85,0.0,1586.77,1195.79,390.98
+ORD-01052,2023-08-22,CUST-0107,Neha Patel,Small Business,Dining Table,Furniture,East,Kolkata,4,15257.03,0.15,51873.91,33564.84,18309.07
+ORD-01053,2023-04-30,CUST-0245,Rohan Nair,Small Business,Headphones,Electronics,North,Delhi,8,2291.69,0.0,18333.54,13155.79,5177.75
+ORD-01054,2023-04-25,CUST-0221,Rohan Verma,Corporate,Cap,Clothing,North,Lucknow,8,369.42,0.0,2955.34,1654.35,1300.99
+ORD-01055,2024-05-19,CUST-0139,Meera Patel,Consumer,Headphones,Electronics,West,Ahmedabad,3,2414.32,0.1,7040.16,5506.92,1533.24
+ORD-01056,2023-11-13,CUST-0258,Pooja Das,Consumer,Pen Pack,Stationery,East,Patna,8,92.23,0.3,645.61,421.9,223.71
+ORD-01057,2023-03-09,CUST-0092,Pooja Reddy,Corporate,Desk Organizer,Stationery,West,Mumbai,7,724.22,0.0,5069.52,3300.44,1769.08
+ORD-01058,2023-08-07,CUST-0119,Aarav Patel,Small Business,Pen Pack,Stationery,South,Bengaluru,5,100.04,0.05,475.17,300.29,174.88
+ORD-01059,2023-11-28,CUST-0080,Ananya Patel,Corporate,Pen Pack,Stationery,Central,Indore,3,93.84,0.1,316.7,200.88,115.82
+ORD-01060,2023-10-03,CUST-0214,Aarav Singh,Small Business,Bookshelf,Furniture,Central,Nagpur,4,4563.59,0.1,20536.15,14508.03,6028.12
+ORD-01061,2024-04-05,CUST-0162,,Corporate,Jacket,Clothing,East,Bhubaneswar,5,2758.17,0.1,13404.69,7759.93,5644.76
+ORD-01062,2024-04-12,CUST-0072,Aarav Verma,Small Business,Smartwatch,Electronics,East,Bhubaneswar,5,4067.53,0.2,17571.74,12889.67,4682.07
+ORD-01063,2023-11-30,CUST-0196,Meera Iyer,Corporate,T-Shirt,Clothing,East,Patna,4,635.7,0.15,2701.71,1486.82,1214.89
+ORD-01064,2024-08-30,CUST-0246,Pooja Das,Corporate,Desk,Furniture,East,Bhubaneswar,8,9813.68,0.0,84790.21,58213.54,26576.67
+ORD-01065,2023-03-02,CUST-0193,Aditi Rao,Corporate,Cooking Oil,Groceries,East,Bhubaneswar,2,291.59,0.05,554.02,381.03,172.99
+ORD-01066,2023-11-29,CUST-0038,Rohan Rao,Small Business,Smartwatch,Electronics,South,Hyderabad,7,4791.88,0.3,29350.26,21292.6,8057.66
+ORD-01067,2024-07-24,CUST-0134,Diya Mehta,Consumer,Smartwatch,Electronics,South,Chennai,5,4670.61,0.0,25221.31,20743.21,4478.1
+ORD-01068,2023-07-08,CUST-0110,Nikhil Gupta,Small Business,Jacket,Clothing,West,Ahmedabad,6,2782.26,0.1,15024.22,8035.59,6988.63
+ORD-01069,2023-05-24,CUST-0012,Ananya Verma,Corporate,Jacket,Clothing,Central,Indore,2,2879.65,0.1,5183.38,2791.74,2391.64
+ORD-01070,2024-08-02,CUST-0009,Rohan Sharma,Consumer,Notebook Set,Stationery,Central,Nagpur,7,274.78,0.15,1765.75,1138.5,627.25
+ORD-01071,2023-03-19,CUST-0035,Pooja Singh,Small Business,Cap,Clothing,East,Bhubaneswar,2,383.2,0.3,536.47,272.18,264.29
+ORD-01072,2023-03-16,CUST-0098,Vivaan Rao,Corporate,Tablet,Electronics,West,Ahmedabad,7,17016.82,0.1,107205.96,82805.99,24399.97
+ORD-01073,2024-04-09,CUST-0174,,Corporate,T-Shirt,Clothing,South,Hyderabad,7,646.73,0.1,4400.33,2456.36,1943.97
+ORD-01074,2023-06-04,CUST-0219,Arjun Khan,Corporate,Smartphone,Electronics,South,Chennai,5,19280.07,0.15,81940.29,66144.49,15795.8
+ORD-01075,2023-07-13,CUST-0079,Neha Reddy,Consumer,Dining Table,Furniture,East,Bhubaneswar,3,14118.43,0.0,42355.3,25333.41,17021.89
+ORD-01076,2023-12-02,CUST-0036,Arjun Gupta,Corporate,Laptop,Electronics,Central,Nagpur,6,59713.12,0.2,358278.72,263182.21,95096.51
+ORD-01077,2023-05-21,CUST-0014,Rohan Sharma,Small Business,Jeans,Clothing,South,Chennai,8,1386.93,0.1,9985.92,4970.96,5014.96
+ORD-01078,2024-02-13,CUST-0225,Aarav Reddy,Consumer,Sofa,Furniture,North,Chandigarh,4,20704.78,0.1,80500.19,53269.25,27230.94
+ORD-01079,2023-08-03,CUST-0084,Kunal Verma,Consumer,Whiteboard,Stationery,Central,Bhopal,2,1741.02,0.2,33427.68,1706.43,1079.21
+ORD-01080,2024-05-04,CUST-0185,Meera Gupta,Small Business,Desk,Furniture,North,Lucknow,5,9015.72,0.1,43816.42,25724.57,18091.85
+ORD-01081,2024-03-20,CUST-0034,Kunal Reddy,Small Business,Headphones,Electronics,East,Patna,5,2364.68,0.2,10215.42,7305.81,2909.61
+ORD-01082,2023-02-16,CUST-0166,Neha Khan,Corporate,Rice 5kg,Groceries,East,Bhubaneswar,3,481.27,0.0,1443.8,1052.96,390.84
+ORD-01083,2024-11-07,CUST-0108,Kunal Iyer,Consumer,Rice 5kg,Groceries,North,Lucknow,5,438.45,0.1,2663.6,2041.78,621.82
+ORD-01084,2023-06-16,CUST-0057,Priya Iyer,Consumer,Pen Pack,Stationery,South,Chennai,1,99.95,0.05,94.95,55.87,39.08
+ORD-01085,2023-01-30,CUST-0170,Aditi Nair,Small Business,Backpack,Stationery,North,Delhi,8,1632.32,0.3,9140.99,5094.46,4046.53
+ORD-01086,2023-01-16,CUST-0052,Ananya Patel,Corporate,Whiteboard,Stationery,South,Bengaluru,6,1727.1,0.0,10362.6,6117.93,4244.67
+ORD-01087,2024-09-09,CUST-0069,Meera Verma,Corporate,Beverages,Groceries,Central,Nagpur,1,86.61,0.1,84.18,65.45,18.73
+ORD-01088,2024-05-04,CUST-0050,Aditi Das,Consumer,Backpack,Stationery,Central,Indore,8,1889.54,0.3,11427.93,6954.45,4473.48
+ORD-01089,2024-02-18,CUST-0049,Ananya Iyer,Corporate,Desk,Furniture,North,Lucknow,5,9696.45,0.0,52360.84,32331.31,20029.53
+ORD-01090,2023-05-15,CUST-0137,Vivaan Iyer,Corporate,Jacket,Clothing,West,Ahmedabad,6,2756.33,0.2,13230.39,6760.39,6470.0
+ORD-01091,2023-05-27,CUST-0008,Neha Reddy,Corporate,Rice 5kg,Groceries,South,Bengaluru,1,480.18,0.0,480.18,322.35,157.83
+ORD-01092,2024-04-07,CUST-0208,Sara Singh,Corporate,Snack Pack,Groceries,South,Hyderabad,4,148.6,0.05,609.84,443.11,166.73
+ORD-01093,2023-12-16,CUST-0131,Arjun Mehta,Small Business,Backpack,Stationery,East,Kolkata,8,1897.92,0.1,17081.31,10583.4,6497.91
+ORD-01094,2024-10-19,CUST-0219,Arjun Khan,Corporate,Backpack,Stationery,North,Chandigarh,1,1967.31,0.0,2655.87,1464.31,1191.56
+ORD-01095,2023-11-11,CUST-0178,Kunal Verma,Consumer,Tablet,Electronics,East,Kolkata,8,15795.73,0.0,157957.25,134696.72,23260.53
+ORD-01096,2023-01-18,CUST-0114,Kabir Mehta,Corporate,Pen Pack,Stationery,South,Hyderabad,4,104.67,0.05,397.74,239.86,157.88
+ORD-01097,2024-07-06,CUST-0186,Aarav Verma,Corporate,Whiteboard,Stationery,North,Lucknow,4,1661.98,0.15,6102.8,3417.63,2685.17
+ORD-01098,2023-07-27,CUST-0218,Nikhil Khan,Consumer,Pen Pack,Stationery,South,Hyderabad,5,90.98,0.1,409.4,235.64,173.76
+ORD-01099,2023-01-01,CUST-0154,Kunal Sharma,Consumer,Beverages,Groceries,East,Kolkata,2,85.52,0.15,145.39,108.2,37.19
+ORD-01100,2023-05-28,CUST-0072,Aarav Verma,Small Business,Notebook Set,Stationery,North,Chandigarh,8,266.12,0.3,1490.28,978.59,511.69
+ORD-01101,2023-09-12,CUST-0100,Pooja Mehta,Small Business,Cooking Oil,Groceries,West,Pune,6,292.51,0.05,1667.33,1114.15,553.18
+ORD-01102,2024-11-19,CUST-0073,Vivaan Reddy,Consumer,Pen Pack,Stationery,South,Chennai,5,105.21,0.0,710.18,437.76,272.42
+ORD-01103,2023-11-02,CUST-0225,Aarav Reddy,Consumer,Desk Organizer,Stationery,South,Hyderabad,2,705.78,0.15,1499.77,891.65,608.12
+ORD-01104,2023-04-26,CUST-0131,Arjun Mehta,Small Business,Jacket,Clothing,North,Chandigarh,8,2758.51,0.0,22068.08,13050.77,9017.31
+ORD-01105,2024-09-09,CUST-0046,Aarav Patel,Small Business,Jeans,Clothing,Central,Bhopal,6,1422.39,0.3,6451.95,3665.61,2786.34
+ORD-01106,2023-09-15,CUST-0142,Aditi Singh,Consumer,Rice 5kg,Groceries,North,Chandigarh,6,442.77,,1859.63,1272.32,587.31
+ORD-01107,2024-08-28,CUST-0114,Kabir Mehta,Corporate,Cooking Oil,Groceries,Central,Nagpur,7,330.6,0.0,2499.34,1978.51,520.83
+ORD-01108,2023-02-13,CUST-0196,Meera Iyer,Corporate,Whiteboard,Stationery,West,Ahmedabad,2,1628.91,0.3,2280.47,1407.33,873.14
+ORD-01109,2024-02-08,CUST-0216,Neha Gupta,Corporate,Bookshelf,Furniture,Central,Indore,1,4071.74,0.3,3078.23,1976.94,1101.29
+ORD-01110,2023-08-10,CUST-0014,Rohan Sharma,Small Business,Smartwatch,Electronics,West,Ahmedabad,3,4071.73,0.05,11604.43,8325.17,3279.26
+ORD-01111,2023-12-27,CUST-0177,Ishaan Iyer,Small Business,Snack Pack,Groceries,East,Bhubaneswar,4,143.3,0.3,501.55,328.46,173.09
+ORD-01112,2024-02-15,CUST-0165,Sara Mehta,Corporate,Jeans,Clothing,South,Hyderabad,6,1584.29,0.0,10266.2,6035.7,4230.5
+ORD-01113,2023-04-14,CUST-0157,Neha Khan,Small Business,Whiteboard,Stationery,South,Chennai,2,1644.62,0.05,3124.79,1920.55,1204.24
+ORD-01114,2024-03-24,CUST-0173,Kabir Singh,Small Business,Bookshelf,Furniture,West,Pune,6,4414.01,0.0,28602.77,17932.76,10670.01
+ORD-01115,2024-02-12,CUST-0092,Pooja Reddy,Corporate,Whiteboard,Stationery,East,Bhubaneswar,2,1503.56,0.0,3247.69,2031.1,1216.59
+ORD-01116,2024-02-11,CUST-0182,Ishaan Das,Corporate,Jeans,Clothing,East,Bhubaneswar,3,1626.38,0.0,5269.46,3098.18,2171.28
+ORD-01117,2023-08-19,CUST-0166,Neha Khan,Corporate,Cap,Clothing,Central,Bhopal,8,372.83,0.0,2982.64,1656.2,1326.44
+ORD-01118,2024-03-26,CUST-0116,Meera Khan,Corporate,Cooking Oil,Groceries,South,Bengaluru,4,297.3,0.05,1220.14,833.47,386.67
+ORD-01119,2024-02-27,CUST-0099,Vivaan Sharma,Small Business,Beverages,Groceries,Central,Indore,3,96.26,0.15,265.11,187.05,78.06
+ORD-01120,2024-01-15,CUST-0221,Rohan Verma,Corporate,Snack Pack,Groceries,East,Patna,6,162.0,0.0,1049.77,728.65,321.12
+ORD-01121,2023-04-09,CUST-0066,Nikhil Patel,Small Business,Bookshelf,Furniture,South,Hyderabad,8,4229.7,0.0,33837.62,23346.03,10491.59
+ORD-01122,2024-04-16,CUST-0028,Meera Gupta,Corporate,Pen Pack,Stationery,West,Pune,8,99.94,0.1,777.15,425.69,351.46
+ORD-01123,2024-12-24,CUST-0245,Rohan Nair,Small Business,Spices Combo,Groceries,North,Chandigarh,3,365.1,0.05,1404.73,923.5,481.23
+ORD-01124,2024-02-10,CUST-0069,Meera Verma,Corporate,Tablet,Electronics,West,Pune,4,16517.76,0.05,67788.9,53281.38,14507.52
+ORD-01125,2023-01-07,CUST-0162,Kabir Khan,Corporate,Whiteboard,Stationery,West,Mumbai,1,1667.88,0.05,1584.48,967.32,617.16
+ORD-01126,2023-07-19,CUST-0083,Ananya Sharma,Corporate,Tablet,Electronics,West,Ahmedabad,4,17535.3,0.3,49098.85,40279.52,8819.33
+ORD-01127,2024-02-18,CUST-0049,Ananya Iyer,Corporate,Rice 5kg,Groceries,East,Kolkata,7,477.44,0.1,3248.52,2430.81,817.71
+ORD-01128,2023-09-16,CUST-0221,Rohan Verma,Corporate,Headphones,Electronics,East,Kolkata,8,2295.37,0.05,17444.79,13338.68,4106.11
+ORD-01129,2023-01-21,CUST-0132,Neha Mehta,Consumer,Headphones,Electronics,West,Mumbai,1,2741.01,,2741.01,2216.11,524.9
+ORD-01130,2023-11-10,CUST-0197,Ishaan Rao,Corporate,Notebook Set,Stationery,North,Chandigarh,1,265.0,0.15,281.56,171.08,110.48
+ORD-01131,2023-12-20,CUST-0112,Ishaan Sharma,Corporate,Dining Table,Furniture,West,Mumbai,2,16116.29,0.0,40290.73,26711.28,13579.45
+ORD-01132,2024-09-29,CUST-0016,Nikhil Verma,Small Business,Dining Table,Furniture,South,Chennai,1,16305.88,0.3,12327.24,8718.95,3608.29
+ORD-01133,2024-08-27,CUST-0093,Vivaan Gupta,Corporate,T-Shirt,Clothing,East,Bhubaneswar,3,648.03,0.1,1889.65,975.53,914.12
+ORD-01134,2023-04-30,CUST-0230,Priya Gupta,Small Business,Sneakers,Clothing,Central,Nagpur,2,3096.54,0.05,5883.43,3003.8,2879.63
+ORD-01135,2024-11-06,CUST-0246,Pooja Das,Corporate,Rice 5kg,Groceries,East,Kolkata,2,481.3,0.0,1299.51,966.25,333.26
+ORD-01136,2023-10-17,CUST-0103,Ishaan Patel,Consumer,Whiteboard,Stationery,Central,Nagpur,6,1483.35,0.3,7787.6,4390.38,3397.22
+ORD-01137,2024-05-18,CUST-0013,Ananya Khan,Corporate,Beverages,Groceries,North,Chandigarh,2,86.79,0.1,168.71,124.14,44.57
+ORD-01138,2023-04-02,CUST-0097,Sara Reddy,Consumer,T-Shirt,Clothing,Central,Bhopal,5,647.05,0.2,2588.2,1537.47,1050.73
+ORD-01139,2024-01-30,CUST-0156,Rohan Sharma,Consumer,Tablet,Electronics,North,Delhi,4,15525.65,0.15,57010.19,40487.49,16522.7
+ORD-01140,2024-11-28,CUST-0190,Diya Das,Small Business,Whiteboard,Stationery,South,Hyderabad,1,1731.41,0.0,2337.41,1390.45,946.96
+ORD-01141,2024-08-07,CUST-0106,Vivaan Nair,Consumer,T-Shirt,Clothing,South,Chennai,1,545.43,0.1,530.16,274.44,255.72
+ORD-01142,2023-08-22,CUST-0200,Diya Gupta,Consumer,Laptop,Electronics,East,Kolkata,6,59593.42,0.1,321804.47,228153.6,93650.87
+ORD-01143,2023-07-29,CUST-0159,Ananya Singh,Small Business,Sneakers,Clothing,Central,Indore,5,3141.89,0.0,15709.45,8494.85,7214.6
+ORD-01144,2024-10-03,CUST-0006,Kabir Reddy,Small Business,Sofa,Furniture,East,Bhubaneswar,7,19983.92,0.3,132193.61,85051.61,47142.0
+ORD-01145,2023-07-07,CUST-0035,Pooja Singh,Small Business,Smartphone,Electronics,South,Chennai,6,16802.52,0.2,80652.1,59844.98,20807.12
+ORD-01146,2024-08-06,CUST-0146,Ananya Singh,Consumer,Snack Pack,Groceries,Central,Nagpur,5,138.25,0.0,746.58,526.24,220.34
+ORD-01147,2024-06-14,CUST-0066,Nikhil Patel,Small Business,Tablet,Electronics,West,Mumbai,1,15900.66,0.0,17172.72,12353.7,4819.02
+ORD-01148,2024-03-24,CUST-0190,Diya Das,Small Business,Smartphone,Electronics,South,Chennai,3,17791.29,0.3,40350.64,28584.56,11766.08
+ORD-01149,2023-06-06,CUST-0008,Neha Reddy,Corporate,Desk,Furniture,East,Kolkata,6,9647.08,0.05,54988.34,38757.94,16230.4
+ORD-01150,2024-06-01,CUST-0150,Kabir Singh,Corporate,Smartwatch,Electronics,West,Mumbai,2,4252.71,0.2,7348.69,5381.57,1967.12
+ORD-01151,2024-07-24,CUST-0148,Arjun Khan,Corporate,Rice 5kg,Groceries,South,Hyderabad,3,417.9,0.05,1286.3,844.03,442.27
+ORD-01152,2023-11-26,CUST-0087,,Corporate,Notebook Set,Stationery,Central,Indore,6,226.92,,1701.91,1058.79,643.12
+ORD-01153,2024-10-05,CUST-0115,Diya Khan,Consumer,Smartwatch,Electronics,Central,Bhopal,1,4557.27,0.0,6152.32,4337.93,1814.39
+ORD-01154,2024-04-05,CUST-0199,Kunal Mehta,Consumer,Desk Organizer,Stationery,East,Bhubaneswar,4,725.6,0.15,2664.42,1518.73,1145.69
+ORD-01155,2023-08-18,CUST-0185,Meera Gupta,Small Business,Cooking Oil,Groceries,West,Ahmedabad,3,306.36,0.2,735.26,494.91,240.35
+ORD-01156,2023-05-28,CUST-0154,Kunal Sharma,Consumer,Bookshelf,Furniture,North,Chandigarh,1,4166.34,0.2,3333.07,2331.06,1002.01
+ORD-01157,2024-03-03,CUST-0216,Neha Gupta,Corporate,Bookshelf,Furniture,South,Chennai,8,4396.1,0.1,34184.05,24229.95,9954.1
+ORD-01158,2023-08-11,CUST-0126,Rohan Mehta,Corporate,Cooking Oil,Groceries,Central,Bhopal,4,324.38,0.3,908.25,683.93,224.32
+ORD-01159,2023-08-07,CUST-0158,Kunal Singh,Small Business,Spices Combo,Groceries,West,Pune,7,371.31,0.0,2599.15,1887.42,711.73
+ORD-01160,2023-12-12,CUST-0112,Ishaan Sharma,Corporate,Desk Organizer,Stationery,North,Delhi,3,722.35,0.15,2302.49,1362.65,939.84
+ORD-01161,2023-10-07,CUST-0089,Ananya Sharma,Small Business,Sofa,Furniture,Central,Indore,3,22621.45,0.15,72105.86,49510.89,22594.97
+ORD-01162,2024-09-17,CUST-0162,Kabir Khan,Corporate,Cooking Oil,Groceries,South,Chennai,1,331.28,0.3,250.44,164.64,85.8
+ORD-01163,2023-07-27,CUST-0183,Kabir Rao,Small Business,Headphones,Electronics,North,Chandigarh,3,2728.98,0.05,7777.59,6479.87,1297.72
+ORD-01164,2023-10-24,CUST-0090,Aarav Verma,Consumer,Desk Organizer,Stationery,West,Pune,5,644.21,0.15,3422.37,1913.71,1508.66
+ORD-01165,2024-07-29,CUST-0082,Arjun Rao,Consumer,Tablet,Electronics,Central,Nagpur,8,16639.56,0.05,136577.51,110577.84,25999.67
+ORD-01166,2024-01-26,CUST-0070,Aarav Nair,Small Business,Sofa,Furniture,North,Delhi,8,21469.23,0.0,185494.12,127013.01,58481.11
+ORD-01167,2024-04-03,CUST-0094,Aarav Singh,Corporate,Sneakers,Clothing,Central,Indore,1,3500.99,0.2,3024.86,1685.89,1338.97
+ORD-01168,2024-11-24,CUST-0154,Kunal Sharma,Consumer,T-Shirt,Clothing,South,Bengaluru,7,650.01,0.0,6142.61,3711.48,2431.13
+ORD-01169,2023-01-17,CUST-0254,Rohan Mehta,Consumer,Jacket,Clothing,North,Chandigarh,7,3075.35,0.05,20451.1,12038.29,8412.81
+ORD-01170,2023-02-23,CUST-0086,Arjun Gupta,Corporate,Notebook Set,Stationery,West,Pune,4,260.03,0.05,988.1,586.8,401.3
+ORD-01171,2023-05-14,CUST-0017,Sara Patel,Small Business,Rice 5kg,Groceries,East,Bhubaneswar,1,471.12,0.0,471.12,325.82,145.3
+ORD-01172,2023-12-10,CUST-0193,Aditi Rao,Corporate,Rice 5kg,Groceries,East,Bhubaneswar,6,477.28,0.3,2505.74,1982.26,523.48
+ORD-01173,2024-05-15,CUST-0099,Vivaan Sharma,Small Business,Bookshelf,Furniture,East,Bhubaneswar,5,4004.0,0.1,19459.46,13708.04,5751.42
+ORD-01174,2023-04-20,CUST-0066,Nikhil Patel,Small Business,Cap,Clothing,North,Delhi,4,320.21,0.05,1216.79,611.01,605.78
+ORD-01175,2023-12-16,CUST-0007,Aarav Mehta,Consumer,Smartphone,Electronics,North,Lucknow,2,16762.48,0.2,33524.96,28584.74,4940.22
+ORD-01176,2024-12-22,CUST-0029,Nikhil Iyer,Small Business,T-Shirt,Clothing,Central,Bhopal,3,563.94,0.2,1827.17,1090.68,736.49
+ORD-01177,2023-08-04,CUST-0120,Sara Patel,Consumer,Smartphone,Electronics,West,Ahmedabad,1,18781.13,0.1,16903.01,12710.78,4192.23
+ORD-01178,2024-04-25,CUST-0096,Pooja Gupta,Consumer,Sofa,Furniture,Central,Indore,5,23018.88,0.15,105656.68,73690.36,31966.32
+ORD-01179,2023-05-28,CUST-0135,Priya Nair,Small Business,Smartphone,Electronics,South,Bengaluru,4,18719.88,0.2,59903.62,49170.09,10733.53
+ORD-01180,2024-09-07,CUST-0152,Priya Patel,Small Business,Desk,Furniture,West,Ahmedabad,7,9011.98,0.05,64724.03,39700.01,25024.02
+ORD-01181,2023-10-16,CUST-0129,Aarav Khan,Consumer,Dining Table,Furniture,North,Lucknow,3,13693.96,0.0,51352.35,33338.46,18013.89
+ORD-01182,2023-11-23,CUST-0046,Aarav Patel,Small Business,Rice 5kg,Groceries,West,Mumbai,6,467.83,0.15,2982.4,2223.86,758.54
+ORD-01183,2024-01-15,CUST-0246,Pooja Das,Corporate,Sneakers,Clothing,East,Bhubaneswar,8,3072.16,0.1,23889.1,12648.85,11240.25
+ORD-01184,2024-02-24,CUST-0181,Meera Das,Small Business,Pen Pack,Stationery,North,Lucknow,8,107.6,0.05,883.18,574.79,308.39
+ORD-01185,2024-01-30,CUST-0073,Vivaan Reddy,Consumer,Beverages,Groceries,West,Mumbai,7,98.09,0.3,519.11,346.81,172.3
+ORD-01186,2024-11-08,CUST-0223,,Consumer,Sofa,Furniture,East,Kolkata,3,20464.57,0.0,82881.51,50823.7,32057.81
+ORD-01187,2024-02-06,CUST-0255,Kabir Verma,Consumer,Jacket,Clothing,South,Bengaluru,3,2689.97,0.3,6100.86,3388.58,2712.28
+ORD-01188,2024-11-12,CUST-0250,Nikhil Khan,Consumer,Beverages,Groceries,West,Mumbai,1,87.36,0.0,117.94,77.56,40.38
+ORD-01189,2023-08-10,CUST-0254,Rohan Mehta,Consumer,Jeans,Clothing,South,Hyderabad,7,1497.15,0.05,9956.06,5619.86,4336.2
+ORD-01190,2024-06-26,CUST-0067,Priya Das,Small Business,Desk Organizer,Stationery,Central,Bhopal,5,677.75,0.05,3476.88,2214.27,1262.61
+ORD-01191,2024-03-03,CUST-0190,Diya Das,Small Business,Rice 5kg,Groceries,North,Chandigarh,4,423.85,0.05,1739.48,1299.59,439.89
+ORD-01192,2024-12-16,CUST-0170,Aditi Nair,Small Business,Snack Pack,Groceries,Central,Nagpur,4,162.06,0.05,831.35,632.28,199.07
+ORD-01193,2024-07-30,CUST-0251,Pooja Khan,Consumer,Whiteboard,Stationery,South,Bengaluru,8,1724.98,0.05,14158.62,8513.79,5644.83
+ORD-01194,2024-04-18,CUST-0252,Pooja Reddy,Corporate,Backpack,Stationery,North,Lucknow,5,1644.09,0.1,7990.29,5060.19,2930.1
+ORD-01195,2023-08-17,CUST-0127,Rohan Sharma,Consumer,Bookshelf,Furniture,North,Chandigarh,1,4054.86,0.3,2838.4,1889.48,948.92
+ORD-01196,2024-10-23,CUST-0103,Ishaan Patel,Consumer,Sneakers,Clothing,East,Bhubaneswar,4,3492.94,0.15,16032.62,9003.26,7029.36
+ORD-01197,2024-01-21,CUST-0128,Neha Iyer,Consumer,Dining Table,Furniture,Central,Nagpur,7,15601.94,0.3,82565.46,48417.94,34147.52
+ORD-01198,2024-04-21,CUST-0189,Meera Verma,Corporate,Smartphone,Electronics,West,Mumbai,3,17808.07,0.1,51928.32,40951.78,10976.54
+ORD-01199,2024-12-24,CUST-0102,Ishaan Gupta,Consumer,Headphones,Electronics,West,Pune,8,2392.38,0.15,21962.06,15857.74,6104.32
+ORD-01200,2023-11-19,CUST-0073,Vivaan Reddy,Consumer,Cap,Clothing,West,Pune,7,353.51,0.2,2474.56,1343.11,1131.45
+ORD-00637,2024-07-04,CUST-0126,,Corporate,Bookshelf,Furniture,Central,Bhopal,7,4587.54,0.15,29479.5,18976.73,10502.77
+ORD-00684,2023-06-12,CUST-0244,Diya Singh,Consumer,Bookshelf,Furniture,West,Ahmedabad,5,4273.49,0.15,18162.35,12317.35,5845.0
+ORD-01034,2023-05-22,CUST-0115,Diya Khan,Consumer,Cooking Oil,Groceries,North,Lucknow,2,326.37,0.2,522.2,369.12,153.08
+ORD-00191,2023-05-16,CUST-0040,Priya Reddy,Consumer,Smartphone,Electronics,South,Chennai,4,18070.0,0.1,65052.0,45760.75,19291.25
+ORD-01084,2023-06-16,CUST-0057,Priya Iyer,Consumer,Pen Pack,Stationery,South,Chennai,1,99.95,0.05,94.95,55.87,39.08
+ORD-00284,2024-12-19,CUST-0192,Neha Mehta,Corporate,Jacket,Clothing,Central,Indore,2,2545.64,0.0,6873.22,3774.54,3098.68
+ORD-00818,2024-09-17,CUST-0107,Neha Patel,Small Business,Rice 5kg,Groceries,West,Mumbai,2,491.22,0.15,901.88,665.95,235.93
+ORD-00315,2024-05-28,CUST-0238,Ananya Nair,Consumer,Dining Table,Furniture,East,Kolkata,2,14690.36,0.15,26971.49,15815.46,11156.03
+ORD-00538,2023-07-25,CUST-0174,Kunal Das,Corporate,Office Chair,Furniture,East,Kolkata,7,6009.59,0.3,29447.0,18852.31,10594.69
+ORD-00665,2024-01-17,CUST-0190,Diya Das,Small Business,Bookshelf,Furniture,West,Mumbai,3,4570.58,0.3,10366.07,7408.63,2957.44
+ORD-00240,2023-05-04,CUST-0076,Pooja Reddy,Small Business,Tablet,Electronics,Central,Indore,8,14953.21,0.0,119625.7,102119.4,17506.3
+ORD-00136,2024-01-21,CUST-0154,Kunal Sharma,Consumer,Sneakers,Clothing,West,Mumbai,3,3362.83,0.1,9806.0,5113.89,4692.11
+ORD-00336,2023-07-19,CUST-0147,Pooja Reddy,Consumer,Beverages,Groceries,North,Delhi,1,95.11,0.15,80.84,58.39,22.45
+ORD-00190,2023-02-23,CUST-0085,Kabir Reddy,Small Business,Jacket,Clothing,North,Chandigarh,7,2870.34,0.2,16073.9,9193.28,6880.62
+ORD-00839,2023-01-05,CUST-0124,Kabir Rao,Corporate,Jacket,Clothing,West,Ahmedabad,7,2538.3,0.0,17768.08,9094.97,8673.11
